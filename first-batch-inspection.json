@@ -1,0 +1,194 @@
+{
+  "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/h039-local-material-binding-dbd51ba7-20260912.tar.gz",
+  "archive_sha256": "30439948a194dda91c87ebbee1dad260393d84fd0d6db25152326437931f98d2",
+  "archive_size": 833877,
+  "files": [
+    {
+      "path": "verify/bin/._h-039-exit",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789219440,
+      "pax_headers": {}
+    },
+    {
+      "path": "verify/bin/h-039-exit",
+      "kind": "text",
+      "size": 2232848,
+      "sha256": "dbd51ba7ec70a33bf53e74252a5b338aa0106fc267f1ee0c431272210415792a",
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789219440.910037,
+      "pax_headers": {
+        "mtime": "1789219440.910037095",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "specs/._tasks.spec.json",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789216935,
+      "pax_headers": {}
+    },
+    {
+      "path": "specs/tasks.spec.json",
+      "kind": "text",
+      "size": 978133,
+      "sha256": "198767956fcfe456d67270c3706a56537a616b86b7578050b32373214c054c69",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789216935.0892358,
+      "pax_headers": {
+        "mtime": "1789216935.089235839",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "controller/verify/._cli",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789216950,
+      "pax_headers": {}
+    },
+    {
+      "path": "controller/verify/cli",
+      "kind": "text",
+      "size": 41991,
+      "sha256": "5c5b0e15d0445fc0ef4c1ddbfd8f131a79312d978ce2845c919e40c9e6e82bc7",
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789216950.2134573,
+      "pax_headers": {
+        "mtime": "1789216950.21345727",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "docs/loop/._platform-separation-final-local-development.md",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789219583,
+      "pax_headers": {}
+    },
+    {
+      "path": "docs/loop/platform-separation-final-local-development.md",
+      "kind": "text",
+      "size": 281639,
+      "sha256": "0433b4362217187a0d9f9181d2013d00db65ac5293b7a05f34730a35360f71d9",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "mtime": 1789219583.5483422,
+      "pax_headers": {
+        "mtime": "1789219583.548342137",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "._h039-local-material-binding-focused.dbd51ba7.py",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219572,
+      "pax_headers": {}
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7.py",
+      "kind": "text",
+      "size": 8528,
+      "sha256": "69e79c0ca98f7cede7ff10e0d7a34585eeaa6a29cf34d2242f06a6f546288685",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219572.5775158,
+      "pax_headers": {
+        "mtime": "1789219572.577515746",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "._h039-local-material-binding-focused.dbd51ba7-0433b436.py",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219603,
+      "pax_headers": {}
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7-0433b436.py",
+      "kind": "text",
+      "size": 8545,
+      "sha256": "ef2993918a98cc3c5ea54eaf35a459e3c96b40cfefdc5e052c5e20be435ea71f",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219603.5728798,
+      "pax_headers": {
+        "mtime": "1789219603.572879784",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    },
+    {
+      "path": "._h039-local-material-binding-focused.dbd51ba7-0433b436.result.json",
+      "kind": "appledouble",
+      "size": 163,
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219617,
+      "pax_headers": {}
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7-0433b436.result.json",
+      "kind": "text",
+      "size": 4344,
+      "sha256": "70b50c5431b7ec2378b1f3cc2ccba08330ef9e188ce303a8b0110edfdceb32ac",
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "mtime": 1789219617.847851,
+      "pax_headers": {
+        "mtime": "1789219617.847850995",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      }
+    }
+  ],
+  "findings": [],
+  "content_scan": "BOUNDED_PATTERNS_NOT_PROOF_OF_ABSENCE",
+  "manual_review": "PENDING",
+  "source_unchanged": true,
+  "remote_status": "NOT_UPLOADED"
+}

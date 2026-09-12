@@ -1,0 +1,801 @@
+{
+  "source_backup_root": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z",
+  "scope": "Existing backup files and containers only; not proof of complete original-work coverage",
+  "status": "INITIAL_CATALOGUE_NOT_REMOTE_PAYLOAD_PROOF",
+  "items": [
+    {
+      "path": "README-RESTORE.md",
+      "bytes": 1391,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-original.tsv",
+      "bytes": 25539334,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T104815Z.tsv",
+      "bytes": 25732308,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T105109Z.tsv",
+      "bytes": 25732443,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T110008Z.tsv",
+      "bytes": 25732444,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T112915Z.tsv",
+      "bytes": 25826439,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T161125Z.tsv",
+      "bytes": 25826963,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T195603Z.tsv",
+      "bytes": 25827768,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "manifest-phase4-20260910T202553Z.tsv",
+      "bytes": 25827909,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "nortropic-full.tar",
+      "bytes": 4848679936,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase1-report.json",
+      "bytes": 964,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase2-report.json",
+      "bytes": 46556,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase2b-restore-report.json",
+      "bytes": 109119,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase2c-restore-report.json",
+      "bytes": 109463,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase3-external-report.json",
+      "bytes": 12878,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T104815Z.json",
+      "bytes": 1307,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T105109Z.json",
+      "bytes": 1372,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T110008Z.json",
+      "bytes": 1372,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T112915Z.json",
+      "bytes": 1603,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T161125Z.json",
+      "bytes": 1847,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T195603Z.json",
+      "bytes": 2328,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "phase4-delta-report-20260910T202553Z.json",
+      "bytes": 2399,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "restore-dir-modes.py",
+      "bytes": 734,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T104815Z.list",
+      "bytes": 90782,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T104815Z.tar",
+      "bytes": 50636800,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T105109Z.list",
+      "bytes": 90839,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T105109Z.tar",
+      "bytes": 50647040,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T110008Z.list",
+      "bytes": 90839,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T110008Z.tar",
+      "bytes": 50650112,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T112915Z.list",
+      "bytes": 134990,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T112915Z.tar",
+      "bytes": 75821568,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T161125Z.list",
+      "bytes": 135202,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T161125Z.tar",
+      "bytes": 75857920,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T195603Z.list",
+      "bytes": 135593,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T195603Z.tar",
+      "bytes": 75924480,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T202553Z.list",
+      "bytes": 135656,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "supplement-20260910T202553Z.tar",
+      "bytes": 75930112,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.manifest.tsv",
+      "bytes": 418,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.tar",
+      "bytes": 78336,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/cleanup-fixtures-20260912",
+      "kind": "directory",
+      "status": "LOCAL_ONLY_NOT_REVIEWED",
+      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+    },
+    {
+      "path": "external/cleanup-fixtures-20260912-r2",
+      "kind": "directory",
+      "status": "LOCAL_ONLY_NOT_REVIEWED",
+      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+    },
+    {
+      "path": "external/cleanup-fixtures-reserve-20260912",
+      "kind": "directory",
+      "status": "LOCAL_ONLY_NOT_REVIEWED",
+      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+    },
+    {
+      "path": "external/h039-asset-local-preparation-2782ead3-20260912.tar.gz",
+      "bytes": 391725,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-asset-numstat-reference-ko8im7by-20260912.tar.gz",
+      "bytes": 257762,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-local-asset-fourpath-4601259e-20260912.tar.gz",
+      "bytes": 811120,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-local-material-binding-dbd51ba7-20260912.tar.gz",
+      "bytes": 833877,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-local-observer-port-bc056934-20260912.tar.gz",
+      "bytes": 818031,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-local-two-edge-method-53ms1swj-20260912.tar.gz",
+      "bytes": 11454035,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/h039-observer-causal-method-7z704bbk-20260912.tar.gz",
+      "bytes": 1481773,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-system.tar",
+      "bytes": 21847040,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-system__final-20260910.tar",
+      "bytes": 23714816,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-system__slut-20260910.tar",
+      "bytes": 24704512,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-system__slut2-20260910.tar",
+      "bytes": 24893440,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-webbforvaltning.tar",
+      "bytes": 11290112,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-webbforvaltning__final-20260910.tar",
+      "bytes": 11307520,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__nortropic-webbforvaltning__slut-20260910.tar",
+      "bytes": 11484672,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__work__final-20260910.tar",
+      "bytes": 175644672,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__work__slut-20260910.tar",
+      "bytes": 343311360,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/nortropic-repos__work__slut2-20260910.tar",
+      "bytes": 343483904,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.manifest.tsv",
+      "bytes": 1658,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.tar",
+      "bytes": 134656,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.manifest.tsv",
+      "bytes": 27591,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.tar",
+      "bytes": 1982976,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.manifest.tsv",
+      "bytes": 27591,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.tar",
+      "bytes": 1983488,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.manifest.tsv",
+      "bytes": 27591,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.tar",
+      "bytes": 1983488,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.manifest.tsv",
+      "bytes": 20458,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.tar",
+      "bytes": 16195584,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.manifest.tsv",
+      "bytes": 20534,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.tar",
+      "bytes": 16201216,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-product-review.gRXLE4.manifest.tsv",
+      "bytes": 20665,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__document-authority-product-review.gRXLE4.tar",
+      "bytes": 16216064,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-dz97l3_7.manifest.tsv",
+      "bytes": 485,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-dz97l3_7.tar",
+      "bytes": 315904,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-i4obi427.manifest.tsv",
+      "bytes": 576,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-i4obi427.tar",
+      "bytes": 693760,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-q2j4bejy.manifest.tsv",
+      "bytes": 6884,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-asset-measure-q2j4bejy.tar",
+      "bytes": 2215424,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-git-observe-tyt8Rz.manifest.tsv",
+      "bytes": 55298,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__tmp__h039-git-observe-tyt8Rz.tar",
+      "bytes": 27294208,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.manifest.tsv",
+      "bytes": 35159,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.tar",
+      "bytes": 16937472,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.tar",
+      "bytes": 19825664,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.tar",
+      "bytes": 19814912,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.manifest.tsv",
+      "bytes": 35379,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.tar",
+      "bytes": 16970240,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.manifest.tsv",
+      "bytes": 35379,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.tar",
+      "bytes": 16952320,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.tar",
+      "bytes": 19822080,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.tar",
+      "bytes": 19825664,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.manifest.tsv",
+      "bytes": 35159,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.tar",
+      "bytes": 16933888,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.manifest.tsv",
+      "bytes": 35379,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.tar",
+      "bytes": 16948736,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.tar",
+      "bytes": 19822080,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.manifest.tsv",
+      "bytes": 37819,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.tar",
+      "bytes": 19832832,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/review-evidence__document-authority-local-35ajl8r5.tar",
+      "bytes": 19825664,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/review-evidence__invariant-required-local-6o8b5s0_.tar",
+      "bytes": 1979904,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T104815Z.tar",
+      "bytes": 203776,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T105109Z.tar",
+      "bytes": 203776,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T110008Z.tar",
+      "bytes": 203776,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T112915Z.tar",
+      "bytes": 278016,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T161125Z.tar",
+      "bytes": 19741184,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T195603Z.tar",
+      "bytes": 2574610432,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/scratchpad-refresh-20260910T202553Z.tar",
+      "bytes": 3271506944,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/v314-h036-and-separation-fixtures-03a364b.tar.gz",
+      "bytes": 459990042,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "external/v315-h037-and-separation-fixtures-536352f.tar.gz",
+      "bytes": 524693522,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__innovation-intake-freshclone-verify.bundle",
+      "bytes": 2798599,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__innovation-intake.bundle",
+      "bytes": 3902860,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__nortropic-knowledge.bundle",
+      "bytes": 51300,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__nortropic-system.bundle",
+      "bytes": 7686037,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__verkstadsgolvet.bundle",
+      "bytes": 1584021,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__builder-document-authority-20260909.bundle",
+      "bytes": 6833300,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__builder-h039-r14-product-96af0d2f.bundle",
+      "bytes": 8831336,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__builder-r129-product-exact-sha-3bf.bundle",
+      "bytes": 4059610,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__docs-domain-sync-20260909.bundle",
+      "bytes": 7791054,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__gate-reviewer-python-authority-1084493.bundle",
+      "bytes": 2576304,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__gate-reviewer-python-authority-ef5daf4.bundle",
+      "bytes": 2576602,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-git-attributes-5NAtyA__repo.bundle",
+      "bytes": 6298775,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-git-observe-bm9MI7__repo.bundle",
+      "bytes": 6298869,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-git-product-zcYxXi__repo.bundle",
+      "bytes": 6330810,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-a-r3.bundle",
+      "bytes": 6250732,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-a-r4.bundle",
+      "bytes": 6253213,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-b-r3.bundle",
+      "bytes": 6250732,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-b-r4.bundle",
+      "bytes": 6253213,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-installed-review-ed584ec3.bundle",
+      "bytes": 6254086,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-r4-post-publication-ed584ec3.bundle",
+      "bytes": 7791971,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-test-author-r3-9b9a638b.bundle",
+      "bytes": 6250753,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__h039-r33-test-author-r4-9b9a638b.bundle",
+      "bytes": 6254182,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__review-document-authority-contract-20260909.bundle",
+      "bytes": 6832851,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__review-document-authority-contract-r2-20260909.bundle",
+      "bytes": 6834214,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__review-document-authority-product-20260909.bundle",
+      "bytes": 6831855,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__review-document-authority-product-r2-20260909.bundle",
+      "bytes": 6833168,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__reviewer-python-interpreter-authority-c4d3581.bundle",
+      "bytes": 2571718,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-document-authority-20260909.bundle",
+      "bytes": 6834491,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-protected-asset-ed584ec3.bundle",
+      "bytes": 6548539,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r24-installed-completion-8bb7bae9.bundle",
+      "bytes": 7191755,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r28-installed-binding-f0877daa.bundle",
+      "bytes": 7170436,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r28-r2-installed-binding-f0877daa.bundle",
+      "bytes": 7173290,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r28-r3-exact-delta-f0877daa.bundle",
+      "bytes": 7186249,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r29-devt-compat-a13cd9f6.bundle",
+      "bytes": 6376644,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r29-r2-line-limit-compat-a13cd9f6.bundle",
+      "bytes": 6268601,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-h039-r31-lock-provenance-e1421f35.bundle",
+      "bytes": 6365223,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/nortropic__worktrees__test-author-invariant-required-20260909.bundle",
+      "bytes": 6842054,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v313-review-531d37e.bundle",
+      "bytes": 7183430,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v314-h036-contract-8ce985d.bundle",
+      "bytes": 7176967,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v314-h036-product-03a364b.bundle",
+      "bytes": 7177469,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v315-h037-contract-536352f.bundle",
+      "bytes": 7184818,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v316-h039-continuity-contract-84aa340.bundle",
+      "bytes": 7189240,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "bundles/v316-h039-continuity-product-8095d94.bundle",
+      "bytes": 7190682,
+      "status": "LOCAL_ONLY_NOT_REVIEWED"
+    },
+    {
+      "path": "reports/",
+      "kind": "directory",
+      "status": "LOCAL_ONLY_NOT_REVIEWED",
+      "coverage": "Existing reports retained; no recursive inventory in this step"
+    }
+  ]
+}
