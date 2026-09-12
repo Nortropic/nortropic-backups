@@ -140,6 +140,12 @@ backuprepot för att lösa åtkomst eller återställning.
 
 ## Överlämningsrad
 
+För den befintliga 2026-09-10-kedjan finns kontrollerade kopplingar i
+`RESTORE-CHAIN-INDEX.json`: basens manifesthash, sju kumulativa deltas,
+respektive manifest/fillista och historisk borttagningslista. Indexet är inte
+överföring av dessa payloads. Se dess uttryckliga local-only-luckor innan någon
+försöker återställa det senaste arbetsläget från bara huvudarkivet.
+
 Varje avstämning ska ange: senaste verifierade batch/remote commit, exakt vad som
 täcks, vad som endast är uppladdat/strömkontrollerat, lokalt-only arbete sedan dess,
 bas/delta-/custodyberoenden, pågående transfer-ID/process, diskstatus och nästa

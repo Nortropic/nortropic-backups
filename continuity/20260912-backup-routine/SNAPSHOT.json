@@ -1,0 +1,30 @@
+{
+  "scope": "Exact three continuity text snapshots, not current authority; relative links refer to original host context",
+  "rows": [
+    {
+      "source": "/Users/elinhaggstrom/nortropic/BOOTSTRAP-WORKING-METHOD.md",
+      "snapshot": "BOOTSTRAP-WORKING-METHOD.md",
+      "sha256": "e62bcdc737dab7ff4704b43163aea1ca0d11f9dfc9d5ac168df1d5d58bbd747c",
+      "bytes": 18464,
+      "source_unchanged": true
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "snapshot": "CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "499d3a835d5c1295488ea404047306a2fc9d5c9f6f266d4af6e48cb65566246d",
+      "bytes": 218563,
+      "source_unchanged": true
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic/BOOTSTRAP-DISK-CLEANUP-JOURNAL.md",
+      "snapshot": "BOOTSTRAP-DISK-CLEANUP-JOURNAL.md",
+      "sha256": "9f29da84ba27c5053a3e3a1b90e63ed24506d3b48a8851f643d658be5ce8f787",
+      "bytes": 70618,
+      "source_unchanged": true
+    }
+  ],
+  "content_review": "Bounded key/token/credential/raw-capability patterns: zero findings on these exact bytes; UTF8 texts",
+  "metadata_restoration_credit": false,
+  "runtime_bootstrap_credit": false,
+  "later_changes": "Journal and task state may advance after this dated snapshot; follow newer receipts. Never rewrite this snapshot to appear newer."
+}
