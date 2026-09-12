@@ -1,0 +1,68 @@
+{
+  "status": "RED_LOCAL_QUALIFICATION_NO_H039_PRODUCT_VERDICT",
+  "candidate": "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+  "parent": "7be3a5ab20b2079b146984915935a2ed6714c286",
+  "tree": "a548cb8876346eb505906fb3feaa7b8d33ec43aa",
+  "command": "set -C; exec /usr/bin/env -i PATH=/usr/bin:/bin LANG=C LC_ALL=C /opt/homebrew/Cellar/python@3.12/3.12.13_4/Frameworks/Python.framework/Versions/3.12/bin/python3.12 -I -S -B /Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912/verify/bin/platform-separation-final-exit --subject /Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912 > /Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P-005366dd-final.ariiv0/stdout 2> /Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P-005366dd-final.ariiv0/stderr",
+  "exec_session": 45869,
+  "dispatch_chunk": "d80c1e",
+  "completion_chunk": "5bf9ac",
+  "actual_exit": 1,
+  "fixture_root": "/private/tmp/platform-separation-final-769wi3ql",
+  "rows": {
+    "true": 119,
+    "false": 14,
+    "abort_row": 1,
+    "not_reached": 13,
+    "expected": 133
+  },
+  "h039": {
+    "exit": 2,
+    "owner_pid": 88007,
+    "status": "CAPTURED",
+    "owner_state": "DIRECT_CHILD_TERMINAL_INNER_CLEANUP_NOT_INFERRED",
+    "stdout_bytes": 0,
+    "stderr_bytes": 297,
+    "error": "FileNotFoundError",
+    "detail": "[Errno 2] No such file or directory: 'info'",
+    "postauth": {
+      "acquired_bindings_unchanged": true,
+      "state": "UNKNOWN_OR_CHANGED",
+      "unobserved": [
+        "remaining_prestate_bindings"
+      ]
+    },
+    "product_supplier_reached": false
+  },
+  "poststate": {
+    "command_chunk": "a6308f",
+    "exit": 0,
+    "rows": 148,
+    "changed": [],
+    "scope": "144 tracked files plus HEAD,index,config,branch ref; byte and exact metadata equality, not whole repository namespace or global process proof",
+    "raw_post": "poststate.json",
+    "raw_post_sha256": "440241ccd7e3b349abc9ddb4346e2c76b33b207dbf123527513478d7dcfbe4ee"
+  },
+  "capture_hashes": {
+    "stdout": "fc5585268422eaeb255b29536bc23e5ba781be6b285354d5759de69c1b285795",
+    "stderr": "5b11521b858e6feb83c8c8ebd4198d147b145f5c15f7eeaa648b37d496712389",
+    "fixture/result.json": "4d9a0922ee1c5adfd3b6f328f8515110c8fef5239c2055b2524d39d1bfbaed39",
+    "fixture/h039-owned-capture.json": "164232236cbbea3b4af6ec5ea39f7b62b17d06a78d2c65f536d60c36d0e04ff0",
+    "fixture/h039-owned-stdout": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "fixture/h039-owned-stderr": "14a8181507e378340412e0aca2c60d7ee64aa2ac35639fbb4d477783804fa955"
+  },
+  "causality": {
+    "source": "verify/bin/h-039-exit:1267",
+    "observed_missing": "builder subject .git/info",
+    "objects_info": "present",
+    "accepted_contract_subject_info": "present",
+    "construction_source": "h039-C-7be3-builder-held-plan.md:39-40 clone --template=",
+    "classification": "REVIEW_FIXTURE_GIT_ADMIN_PRESTATE_INCOMPLETE",
+    "independent_postreview": "pending"
+  },
+  "automatic_retry": false,
+  "old_attempt_preserved": true,
+  "runtime_credit": false,
+  "bootstrap_credit": false,
+  "backup_status": "LOCAL_ONLY"
+}

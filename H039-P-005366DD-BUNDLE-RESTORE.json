@@ -1,0 +1,5021 @@
+{
+  "status": "REMOTE_P_INCREMENTAL_BUNDLE_RESTORED_OVER_VERIFIED_LOCAL_B_C_BUNDLES",
+  "restored": "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+  "candidate": "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+  "parent": "7be3a5ab20b2079b146984915935a2ed6714c286",
+  "tree": "a548cb8876346eb505906fb3feaa7b8d33ec43aa",
+  "release_id": 387676316,
+  "asset_id": 559802438,
+  "asset_sha256": "f6f7e95b97d49f1d1c12cc1559d46f0727d870d9d785d0509c978af68a3cf30a",
+  "bundles": [
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/v316-h039-continuity-product-8095d94.bundle",
+      "sha256": "5cc302c9e867a8a74a43317150dd3a3b956207ba1c43a099fe6da512badd2279"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-contract-C-7be3a5ab-incremental.download.bundle",
+      "sha256": "084bd35fdb07c891efc8b3a7c656d01311c65b144dec1d8837f5bee538a2b2b3"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-product-P-005366dd-incremental.download.bundle",
+      "sha256": "f6f7e95b97d49f1d1c12cc1559d46f0727d870d9d785d0509c978af68a3cf30a"
+    }
+  ],
+  "base_and_contract_redownloaded_this_run": false,
+  "full_new_remote_base_delta_restore": false,
+  "original_admin_state_restored": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "qualification_credit": false,
+  "paths": [
+    {
+      "path": ".agents/skills/nortropic-architect/SKILL.md",
+      "mode": "100644",
+      "oid": "e2e4befc0dc6142ab68990221605c5f6570c9277",
+      "sha256": "e8a7795d685c0a5976ffe7db2abcc718016dc117240fc26f57ab2eb0dc522e56",
+      "bytes": 6312
+    },
+    {
+      "path": ".agents/skills/nortropic-builder/SKILL.md",
+      "mode": "100644",
+      "oid": "95621882ce6cef4040c43ad193b439d284e2ace6",
+      "sha256": "490a840356dae6fb998d9d1879238c6ad2be83c1b64ce4dec581c64fc7f34af0",
+      "bytes": 3361
+    },
+    {
+      "path": ".agents/skills/nortropic-empirical-runner/SKILL.md",
+      "mode": "100644",
+      "oid": "dc6c0bab6b27b439993210d5298ec0df5383b124",
+      "sha256": "94cf2c63335069fa90f4c0a06f9cb72f07937e5d14676a0d8a85d7d35006c886",
+      "bytes": 3901
+    },
+    {
+      "path": ".agents/skills/nortropic-gate-reviewer/SKILL.md",
+      "mode": "100644",
+      "oid": "59b5c2ac04df1b15bd411c628379f159467af1da",
+      "sha256": "51e4aae63323149d904fc101302b74856b009fd09caa9cc9ae08496dd2aa1f0d",
+      "bytes": 2698
+    },
+    {
+      "path": ".agents/skills/nortropic-reviewer/SKILL.md",
+      "mode": "100644",
+      "oid": "7f519335fe6f6ea4b58a49d9fe24e886505b159c",
+      "sha256": "0e168ea88a23493a68f44352927c7ca6ae1de2d4b0ba90490e66c54bbdf3d88f",
+      "bytes": 3101
+    },
+    {
+      "path": ".agents/skills/nortropic-test-author/SKILL.md",
+      "mode": "100644",
+      "oid": "9e27b2ba8d47639cc8af62659def4ff106bdeed2",
+      "sha256": "96dc1e8b95ce1833649acf82311d1109339ae90da78ce54df47a547e71420f2f",
+      "bytes": 3215
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "oid": "f620d85f24c475057e6e8749548c5a07b0893dce",
+      "sha256": "0dbb983883b5e311499bc6d78765e2b84c6a225e0e02356c3c65c6b80fe5830b",
+      "bytes": 583
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "oid": "0f27560fc862f4da326abe4691120f70fac84385",
+      "sha256": "c982c0bfb099bd6757193f2e580c0c4d9f3643f4e2f1b975fcbce0cc3e02f2bd",
+      "bytes": 9217
+    },
+    {
+      "path": "CLAUDE.md",
+      "mode": "100644",
+      "oid": "9e1d69767db149535a831ee463cdf91bfd9db056",
+      "sha256": "d0968ac420c6accfd8e0a7a7b2154cf2e1261344e1858ee27e42bed47d433b54",
+      "bytes": 1204
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "oid": "7b60bd210e0aa63115b34aec1b0294c0977746a5",
+      "sha256": "6ae0d91b7933fdbd1130be9d8788ea1e76820a2fde5e692f1ea8783bac0839d0",
+      "bytes": 3614
+    },
+    {
+      "path": "SEPARATION-20260910/ALLOCATION.tsv",
+      "mode": "100644",
+      "oid": "4033f10dcc76cbfc5a8113925932b41f25d44ce0",
+      "sha256": "6c718c15f5f54a10832b572ba26ac1f85e8ca67a2dc40d135fa2c1f2bf2eb9a9",
+      "bytes": 46724
+    },
+    {
+      "path": "SEPARATION-20260910/EFTERARBETE.md",
+      "mode": "100644",
+      "oid": "822532f4f249eef6ebe1df28ac39f3cc46f6312a",
+      "sha256": "fcdadc782becd1f96763a808eb2a5ba4387e29a96eeddc8738ebcd827c167da8",
+      "bytes": 4684
+    },
+    {
+      "path": "SEPARATION-20260910/README.md",
+      "mode": "100644",
+      "oid": "fcd85c5bf3452122e69673369611a7ffa6b9d4d4",
+      "sha256": "2fde68c289b0c004da86cd260eec7657610ba82e437edba3ed3ddca060bcc37c",
+      "bytes": 3443
+    },
+    {
+      "path": "SEPARATION-20260910/REFREEZE.json",
+      "mode": "100644",
+      "oid": "6d2a0463acf69e0059c191249f2b0b0c266faf4b",
+      "sha256": "8ca5f170d8eb8ae6777d6eddbc5ca4fe043a279376a5591bc6fa3d903dc0c5d0",
+      "bytes": 886
+    },
+    {
+      "path": "SEPARATION-20260910/WEB-TRANSFER-PROVENIENS-2.tsv",
+      "mode": "100644",
+      "oid": "c0c9eeaa6d5bef9c55ee6a19117a60d2788ad9f3",
+      "sha256": "0b4de77a07472a71f6af76c8f807d491c498a18659dabda2052b30940df5aed6",
+      "bytes": 1653
+    },
+    {
+      "path": "SEPARATION-20260910/WEB-TRANSFER-PROVENIENS.tsv",
+      "mode": "100644",
+      "oid": "df871bf8f709db84fbe2c8bea1a2361453795317",
+      "sha256": "8795f646b2ca1423af971514f8900192545f6d360c9715fd2779dcec00ede5cc",
+      "bytes": 34166
+    },
+    {
+      "path": "SEPARATION-20260910/proposed/README.md",
+      "mode": "100644",
+      "oid": "b7280f3d9f7c396d6bf1ac7f8dd33ada5cbbbecb",
+      "sha256": "459c3f59ed92ee7dfe1a9ed755819438fd5d1497c5371870439fe1e3ce6db6ba",
+      "bytes": 2604
+    },
+    {
+      "path": "SEPARATION-20260910/proposed/controller-verify-register.json",
+      "mode": "100644",
+      "oid": "ce3b5700c961b36482c6612c364a30495153cb85",
+      "sha256": "f1c553d9c317099db8a245c52eed62f9ede31452983c6d523a74d6272b830b23",
+      "bytes": 1340
+    },
+    {
+      "path": "SEPARATION-20260910/proposed/scripts-check-invariants.mjs",
+      "mode": "100644",
+      "oid": "f57ccf38829b72a031eeba023299cb828a01542b",
+      "sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "bytes": 18011
+    },
+    {
+      "path": "config/README.md",
+      "mode": "100644",
+      "oid": "10c1258e047be815035906c21f1e1b0628cbbe28",
+      "sha256": "98bd18218d91bfb201bead7e7f02d532f321f539bcb85f1d87d0026668e38c74",
+      "bytes": 6430
+    },
+    {
+      "path": "config/codex-provider-identity.json",
+      "mode": "100644",
+      "oid": "b6a0de1be470b2bb06891bb332471640219f8946",
+      "sha256": "0d53465d0491919525ef3401f02ae20c8d0b279653c57677311edcc54aecdb33",
+      "bytes": 555
+    },
+    {
+      "path": "config/loop-config.exempel.json",
+      "mode": "100644",
+      "oid": "02f440c331b7fbd6f73cee4734872801e654fc3a",
+      "sha256": "f764b31d2419bcdd9a380c9c5b740fa4a84a75cc63010541316f2b66892db7c6",
+      "bytes": 625
+    },
+    {
+      "path": "config/managed-settings.json",
+      "mode": "100644",
+      "oid": "6c48ccc3440fd451ac135000bac569d606ce2ec7",
+      "sha256": "3b1735290f6f6c8a13d54c1e9e66626882d255fbf7faded61a0c2cb54b56bf3f",
+      "bytes": 2706
+    },
+    {
+      "path": "config/premiar-backlog.json",
+      "mode": "100644",
+      "oid": "9ad0d8ab21ec0291ea3c1caa619c16e80b14b700",
+      "sha256": "fb55acadd579b4615a92b4c12d920fd3f652d9817d91f9935211b2313f63b063",
+      "bytes": 3651
+    },
+    {
+      "path": "config/python-interpreter-authority-v1.json",
+      "mode": "100644",
+      "oid": "45d0a243174ec64dd795c2380d42f884ab0b2b90",
+      "sha256": "2c609508a082d7068ca85182382988f89a9e29148831fc12f2bd8ddc207e5986",
+      "bytes": 663
+    },
+    {
+      "path": "config/python-runtime-authority-v2.json",
+      "mode": "100644",
+      "oid": "a65fc83858fd89aee616d4e299cd7e09d3430138",
+      "sha256": "92f84d8f909bdded186c2db8b8e98f4c79e3f9f5e16c53100f7e005641a183f9",
+      "bytes": 6657
+    },
+    {
+      "path": "config/worker-prompt.sh",
+      "mode": "100755",
+      "oid": "8ea747a83e39965a0abcf0ac838c65f878606330",
+      "sha256": "4efc469ee673e431752f04a83b305351a0d4e18bf9a3bb59e5433943f37950fd",
+      "bytes": 2897
+    },
+    {
+      "path": "controller/attest/cli",
+      "mode": "100755",
+      "oid": "801edec082f5570117ad2db87306ccc6eecfbbca",
+      "sha256": "4fd59ecc4fc6cb79d4cb229f2895f8cdb0b7e90429e9076ac46aa5fd512d3377",
+      "bytes": 155842
+    },
+    {
+      "path": "controller/authority/cli",
+      "mode": "100755",
+      "oid": "6b6bb827f95ab946be361a3237dff468b3a6f085",
+      "sha256": "b066edaf624f51f837d6c83f2e996e8e5684b8229fa407e3c6cb3f233305de2c",
+      "bytes": 27351
+    },
+    {
+      "path": "controller/authority/core.py",
+      "mode": "100644",
+      "oid": "b17600c793901391327640ef97d36844a39c393a",
+      "sha256": "a83e5847b7cdee8543a55d52ef719d232319fdd6c0a33b5bd00b8a77b69e8158",
+      "bytes": 11714
+    },
+    {
+      "path": "controller/brytare/cli",
+      "mode": "100755",
+      "oid": "2d98d140213ae6d698beb2dbc2167391a24f4a85",
+      "sha256": "9c34189f15bddbd248ff03bb034d076c78b98f296c6b7505b7aa08ef9c195bfc",
+      "bytes": 11955
+    },
+    {
+      "path": "controller/envelope/cli",
+      "mode": "100755",
+      "oid": "befc1752d9be2b6f709b90af39a02513ed8b4802",
+      "sha256": "0cee1f5cdceed4c6752f5c800c92d140eb3f1da96fa2ee4c48315f57c5d11087",
+      "bytes": 6795
+    },
+    {
+      "path": "controller/h034-native/kernel.c",
+      "mode": "100644",
+      "oid": "03d1c35d6ab2bd49f956bd75c9a7fe4e13105710",
+      "sha256": "7d99a4198be51545ab849344957dbbcf16567649057dbe53977bf5880acba53c",
+      "bytes": 16780
+    },
+    {
+      "path": "controller/launch/cli",
+      "mode": "100755",
+      "oid": "ed865cf46ad201d2d273a42340ca78968764cd06",
+      "sha256": "5273a48480ec73550ddc915e9b2c54d396717573dd7af79fe89cbe549cf1d4f1",
+      "bytes": 31311
+    },
+    {
+      "path": "controller/launch/runtime_snapshot.py",
+      "mode": "100644",
+      "oid": "cb9a4ab1a24bea501f2e8660ef042514f93ccc99",
+      "sha256": "35ca9dff3355bcfbd4d7536cb9658fe3342f143745547ec55f2b2cb25223eca7",
+      "bytes": 40510
+    },
+    {
+      "path": "controller/lease/cli",
+      "mode": "100755",
+      "oid": "660edb6499f49f6a7f12e4328296123a208a93c2",
+      "sha256": "9aa63d3b7b52399b333f5fad3139819991d43865b33c61e9151e64d484f93ea6",
+      "bytes": 6096
+    },
+    {
+      "path": "controller/loop/cli",
+      "mode": "100755",
+      "oid": "a6b89efe0aa97db3f884986c4417aebbecaf7e97",
+      "sha256": "ac57c5315ac5cde81eaffb42090d983f70640fce1205cac58550692dd3843ffb",
+      "bytes": 25552
+    },
+    {
+      "path": "controller/policy/cli",
+      "mode": "100755",
+      "oid": "e9f3b69d12e2c8e119e6a56677d4f382539b1d2c",
+      "sha256": "8275b4f10369ef83548674298d3004a6bc37af24adcc425e1e4d45d6afa46769",
+      "bytes": 13199
+    },
+    {
+      "path": "controller/policy/evidence/.gitignore",
+      "mode": "100644",
+      "oid": "4c8a9fb9dc386ff57c2202e78bb2788b29ca18df",
+      "sha256": "12671dd86f66d081e780bd6c96f035e9cb25bf4a02b4547278b3047800a7df2e",
+      "bytes": 258
+    },
+    {
+      "path": "controller/provenance/artifact-manifest.json",
+      "mode": "100644",
+      "oid": "b5b0dbf774f70a51b7977cae1d07a6e73c7a3505",
+      "sha256": "069265c112ce1056fa4318d5eb6320cf781d9d272bb3ae82bf7573f586575aa0",
+      "bytes": 1266
+    },
+    {
+      "path": "controller/provenance/build-recipe.json",
+      "mode": "100644",
+      "oid": "76ec4f06f20cbfdcc3059f55e92f828f36365384",
+      "sha256": "8ad84c809c70f21543d84588827e0e2fe1fdc26c4d4913ca37bccd7b99e4a5d4",
+      "bytes": 975
+    },
+    {
+      "path": "controller/provenance/cli",
+      "mode": "100755",
+      "oid": "fc3bd03b3200ce4344bcae0fa077363b9971af3e",
+      "sha256": "9e0bdca028722c93dffbd62dcddbf1b87396ecd4c1cfba7d53a744b79f4edab2",
+      "bytes": 19508
+    },
+    {
+      "path": "controller/provenance/dist/h033-probe",
+      "mode": "100755",
+      "oid": "48b1cae43487b99e299e82235b6fe0db6ac6a265",
+      "sha256": "d17aecd9c4c2df98b945f6c53c5573e71a30e7b242657aeaffa56762d86902ef",
+      "bytes": 51520
+    },
+    {
+      "path": "controller/provenance/dist/h033-service",
+      "mode": "100755",
+      "oid": "4fe94e3f2b773c99e419295362dbfc4b50102769",
+      "sha256": "da3b7900d6a24e6297db256186d490de50fee54f4c565710a225909f0638e686",
+      "bytes": 53904
+    },
+    {
+      "path": "controller/provenance/install",
+      "mode": "100755",
+      "oid": "a2fc7523787205dd3049009212666a3935c104cf",
+      "sha256": "ee7a50ce2296e5e8a31422629c7b36cd9a766ba70f02ae858403769b0b17cf81",
+      "bytes": 9735
+    },
+    {
+      "path": "controller/provenance/native/probe.c",
+      "mode": "100644",
+      "oid": "bdffcc8e3057314ff403ff0fe62c090c5b9dc4ab",
+      "sha256": "f1925e64741c3f0c579afca5edc09650838c7ff22991fe7989c78ffb117569e3",
+      "bytes": 649
+    },
+    {
+      "path": "controller/provenance/native/service.c",
+      "mode": "100644",
+      "oid": "dd0b1f01fb5b89ed1077c0fba88f577a803d17d4",
+      "sha256": "adaa6b6904a954f3d9b827bdfcb123e503cbeb74b433ad4b2b719f454e9077d9",
+      "bytes": 18144
+    },
+    {
+      "path": "controller/provenance/probes.json",
+      "mode": "100644",
+      "oid": "0a52e62c8d2e09608c066f1029f746b2e74243e1",
+      "sha256": "3e29e923ffe3904506c5c68d7e6b9250899d9b550f8a8efa7fb8b6ca7338cff7",
+      "bytes": 844
+    },
+    {
+      "path": "controller/runtime-cleanup/install",
+      "mode": "100755",
+      "oid": "a4ae93af7c2f15ec84321d4c051ade99c91a6d76",
+      "sha256": "563fcecdf4b4d7625baee7cffa09db53f087a63d437a2846e28912dbd4a598a3",
+      "bytes": 181960
+    },
+    {
+      "path": "controller/runtime-cleanup/native/mediator.c",
+      "mode": "100644",
+      "oid": "e9476e20157fcc613c07720254179dc1ed1413fa",
+      "sha256": "a1dd9e698a644be61b65f1d73229747c7dfc5257c9073b063b85be75757fa1d8",
+      "bytes": 181592
+    },
+    {
+      "path": "controller/state/cli",
+      "mode": "100755",
+      "oid": "1537a6d9f46fbf13d593d1e5b17eeb1240c1f48b",
+      "sha256": "df8240f8ccab0432c9b5a494b999dcccfdcf27be1d489f68adfa1dc77fbdbf9a",
+      "bytes": 6760
+    },
+    {
+      "path": "controller/taskval/cli",
+      "mode": "100755",
+      "oid": "e77e1853dbf979a471e5cc1df4047c730d78ec53",
+      "sha256": "5f956648df15893fae3b2925905b1a4a2b7d6e9b4d340726669f19a547829868",
+      "bytes": 21834
+    },
+    {
+      "path": "controller/utforare/cli",
+      "mode": "100755",
+      "oid": "badc5fbedbc1694cf55cf8a851844ffe31e69e4b",
+      "sha256": "75f9ddf35308bcceb28f5847bd792707702511b3e3c0361a3f5c0bcfc511fe71",
+      "bytes": 5876
+    },
+    {
+      "path": "controller/verify/cli",
+      "mode": "100755",
+      "oid": "c7de13399d35b9b206d593a92f3dd134bfda06c0",
+      "sha256": "a28fffbe4e2fbd48682bcd1c90186af566e30a15129089278f9f6ea11093f046",
+      "bytes": 41991
+    },
+    {
+      "path": "controller/verify/register.json",
+      "mode": "100644",
+      "oid": "21822b933a6e60f2baaf800919d25feda5aebc34",
+      "sha256": "9752d01d4128b3fb86488875f2dac3685db51985bc2592544de97f36ffd7ee53",
+      "bytes": 1472
+    },
+    {
+      "path": "controller/worker/cli",
+      "mode": "100755",
+      "oid": "276a1b0a0539725207d2e44656cfa1db0126d789",
+      "sha256": "322b616296c881b31c6f48c258f87faa40cb83797a7122c6a8a9c2c933d908c4",
+      "bytes": 10089
+    },
+    {
+      "path": "controller/workspace/cli",
+      "mode": "100755",
+      "oid": "ff1d2664debe2c274d885bd91d16fa65121919a7",
+      "sha256": "5676cc92ff83b8ce61b7368bd21ce9d18340aa2bf3710ba5fe2a7f46767142a6",
+      "bytes": 8853
+    },
+    {
+      "path": "docs/loop/arkiv/5z-inventering-2026-08-07.md",
+      "mode": "100644",
+      "oid": "4b47a30f8f42a75ef23737097b1695a63a2f10fa",
+      "sha256": "0179508ca7204b52008b5b4be235c4e83b69f612444dc4472849e654914038a3",
+      "bytes": 43601
+    },
+    {
+      "path": "docs/loop/arkiv/post-workspace/POST_WORKSPACE_ARCHITECTURE.md",
+      "mode": "100644",
+      "oid": "bc45e28ce835c3060163eea3d33e65f84ae2c186",
+      "sha256": "3669eaeeb849c00acab505740756b4e94d6e8b242f1b138bfd3587833ec37a0c",
+      "bytes": 1002
+    },
+    {
+      "path": "docs/loop/arkiv/post-workspace/README.md",
+      "mode": "100644",
+      "oid": "4639fc4a4fd64c76729fae32cf1b43e186328bc0",
+      "sha256": "5d7f801fe173cc22432f0f14fb344cb7ebf66f815e14e68a60411687b4bffb03",
+      "bytes": 1500
+    },
+    {
+      "path": "docs/loop/autonomous-loop-plan-platform-v2.md",
+      "mode": "100644",
+      "oid": "c4f3a615e5e740ffee3c4cf8353969e3134d44f3",
+      "sha256": "cb0f18a774637895d8240c323f46c2dfe9dfca2735119aa9fd2e863c0553080d",
+      "bytes": 33028
+    },
+    {
+      "path": "docs/loop/autonomous-loop-platform-handoff-v2.md",
+      "mode": "100644",
+      "oid": "334671cf2aaf55a9cf8c8b2c130e1b7db3d8c4b5",
+      "sha256": "ca89fa9e8ee6792e89152798f136ba95bf3cdd8eefaadc405f4665ddf8c286c3",
+      "bytes": 3959
+    },
+    {
+      "path": "docs/loop/byggplan-v3.md",
+      "mode": "100644",
+      "oid": "e54a43fe69002a20aa539dd6c70f29d4b7302f62",
+      "sha256": "a3467085c7125ecdf7d015bc5f7aa4e181290063fa44bd749057da288e52b178",
+      "bytes": 16348
+    },
+    {
+      "path": "docs/loop/codex-autopilot-report.schema.json",
+      "mode": "100644",
+      "oid": "a755139dd7af82f4b96264baa7a13156844a26e4",
+      "sha256": "05e4a640c34363184bae9615899518620ec065d08168866a0dab0103214a9e06",
+      "bytes": 3924
+    },
+    {
+      "path": "docs/loop/codex-autopilot-v2.md",
+      "mode": "100644",
+      "oid": "389a32a658b82a58ed4c1f69ad3adfe185f6a3c0",
+      "sha256": "d85a8d2bbeb507ef24bffa8986bee6af7b913ba23a2f62981cb8ae65cece4080",
+      "bytes": 6839
+    },
+    {
+      "path": "docs/loop/codex-autopilot-v3-full-roadmap.md",
+      "mode": "100644",
+      "oid": "09a09dfb39cf603180b6e58ddb375b7f1e535322",
+      "sha256": "36b6f099fedb15c4cec28ed102b9c8ed2d4f9d25a18ace1ea3d06389c85664be",
+      "bytes": 9964
+    },
+    {
+      "path": "docs/loop/codex-evidence-contract.md",
+      "mode": "100644",
+      "oid": "e89e5bff8f1373d98130d0d8c28d0da30f300623",
+      "sha256": "0da88c55d7393c5a8741660f2d4ccac403f1a31104c79e5578e3f98fd639de59",
+      "bytes": 5400
+    },
+    {
+      "path": "docs/loop/document-authority-local-development.md",
+      "mode": "100644",
+      "oid": "1081389049168ed1cbe0065d7d161ae16315ac74",
+      "sha256": "acc0d23cd21aa194863dc7a61fae02817a400213805cf01aabfc890b05bc9076",
+      "bytes": 12844
+    },
+    {
+      "path": "docs/loop/drift.md",
+      "mode": "100644",
+      "oid": "28c1d96a658a531750396f0cbacec98100d5455d",
+      "sha256": "e3da007ae3b15c5d657e6c89f9d2f240f582e4642f4256e5bc42465542e83891",
+      "bytes": 440498
+    },
+    {
+      "path": "docs/loop/granskningsrubrik.md",
+      "mode": "100644",
+      "oid": "4a97a5d721b45eac264c53261d6db4d5e7b5cf7f",
+      "sha256": "b34238a1d0dbc640afce1206850e1295451b137f244e59a71c31cdaf16663db9",
+      "bytes": 2344
+    },
+    {
+      "path": "docs/loop/harness-substitution-audit-2026-08-11.md",
+      "mode": "100644",
+      "oid": "bb5f99c111cd5aaf784e73e67bde354023b1b5f2",
+      "sha256": "6c1a87e490d249a40371d2569d2246166b754cbb60d2baa0d73498b14494f425",
+      "bytes": 17016
+    },
+    {
+      "path": "docs/loop/harness-substitution-contract-v1.md",
+      "mode": "100644",
+      "oid": "387fbc94916ae23b8440d94958cd0e29d93527ac",
+      "sha256": "42cc8a32661aca238b554a29c8f1f712aa8770908402e3989714f6cd57463b4d",
+      "bytes": 18898
+    },
+    {
+      "path": "docs/loop/implementation-v4.1.md",
+      "mode": "100644",
+      "oid": "60c0caf3b583e6e4d077926cfc6a77887f643343",
+      "sha256": "612864a71c3ab9c009beb1244402b8bcbd19294f54d6ddcc5982fa7d8c0f9f32",
+      "bytes": 36249
+    },
+    {
+      "path": "docs/loop/invariant-required-local-development.md",
+      "mode": "100644",
+      "oid": "36febd93c454a3694844f467a285e8ff0dc1bdaa",
+      "sha256": "ffd8802da91a04c19ffbc2b1f57f4141b78d4c4df8850da731e00a76979a02ab",
+      "bytes": 6171
+    },
+    {
+      "path": "docs/loop/launch-cwd-local-development.md",
+      "mode": "100644",
+      "oid": "f59bb34e212c2563040badfa4003dfd48937a152",
+      "sha256": "aacb5d0a78445133302efe01a6407bdabbbcb28a594e6c5d21c7bca61cdf4788",
+      "bytes": 20236
+    },
+    {
+      "path": "docs/loop/loop-review-2026-07-31.md",
+      "mode": "100644",
+      "oid": "60359fc7011cc3586e3955f4fa4517cc11f166bc",
+      "sha256": "587bd4cd01aef9aee8efceac6b109ef74b36606566cd16ccc30968deebd91d88",
+      "bytes": 30803
+    },
+    {
+      "path": "docs/loop/owner-author-workflow-v1.md",
+      "mode": "100644",
+      "oid": "4aabf054c217cfd5cdca46456d11f25de0211bbf",
+      "sha256": "5f87f5e8bdf2049d6bd0c256d43897eb25c27b80f7935ed7a851c6097c4a0081",
+      "bytes": 256825
+    },
+    {
+      "path": "docs/loop/owner-h003-attestation-authority-v1.md",
+      "mode": "100644",
+      "oid": "dfc510ba1e284c9b6d74b2acfdd66d71bc18803c",
+      "sha256": "28dd288e45541a4dc5eaa9eb771396d978c8ca33277c7776e9e596623d7795c2",
+      "bytes": 12262
+    },
+    {
+      "path": "docs/loop/platform-control-set-local-development.md",
+      "mode": "100644",
+      "oid": "7aacab06b733a608f278c3d74a50fa6dab725f9d",
+      "sha256": "3d346f8848d9d629fb8dba13fdb2dee4f862a2ab4648e08d0b18ed0da2860138",
+      "bytes": 22344
+    },
+    {
+      "path": "docs/loop/platform-governance-local-development.md",
+      "mode": "100644",
+      "oid": "f06a9af07ea36b43809891c43c501b43ed926539",
+      "sha256": "4bcefe211356fb1879b2be0cb8b83e2d960be730060a11e0f12ba75e16d280f1",
+      "bytes": 31290
+    },
+    {
+      "path": "docs/loop/platform-separation-final-local-development.md",
+      "mode": "100644",
+      "oid": "e7ed4b9c37d3499ba734c2ed1d923aad4a46fbb2",
+      "sha256": "3e63b30aec9052639f6656a109c0141615b55dca7ce99d67a8f022d64cb90c94",
+      "bytes": 305764
+    },
+    {
+      "path": "docs/loop/regler.md",
+      "mode": "100644",
+      "oid": "5a4f6b90e969ada640ebe915c1204606fd4c681f",
+      "sha256": "08af6ab33e0f9f32a1cd6c12a74f6e5f2d4541e474a716e00835d71ebf5c969f",
+      "bytes": 5871
+    },
+    {
+      "path": "docs/loop/remaining-bootstrap-delegation-v1.md",
+      "mode": "100644",
+      "oid": "20319089c4085b79ec2b8f600396c71b21dbd392",
+      "sha256": "d4bcdee01a43613860fd5c26fb4b2095c2a78636d8e05e793d872053c5254d66",
+      "bytes": 26950
+    },
+    {
+      "path": "scripts/check-invariants.mjs",
+      "mode": "100644",
+      "oid": "f57ccf38829b72a031eeba023299cb828a01542b",
+      "sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "bytes": 18011
+    },
+    {
+      "path": "scripts/nortropic-codex-autopilot.py",
+      "mode": "100755",
+      "oid": "7d6948e3dfb9f417a632d5f3c0fea487f0534dfa",
+      "sha256": "5fcfd24e8f359f96942419323865a0af999e480df48435712151f33e986c66ae",
+      "bytes": 145262
+    },
+    {
+      "path": "specs/owner-production-paths.v1.json",
+      "mode": "100644",
+      "oid": "7cfc2c7ace0072c7ba1e061e1d631ce19b324002",
+      "sha256": "7697ee6376e7203350366d6d3ecccff3d605ea1e62beb18c2728bdf29148783e",
+      "bytes": 1467
+    },
+    {
+      "path": "specs/tasks.spec.json",
+      "mode": "100644",
+      "oid": "e5ba97c5a9566d467b1b23c4f532748bb4ef5408",
+      "sha256": "d65b29c297595df20d0aa7f4d67700436d719d870b2772b82eae7bc0d8c8f957",
+      "bytes": 980682
+    },
+    {
+      "path": "tests/controller/brytare/fall.py",
+      "mode": "100644",
+      "oid": "ed5882144e3d0e7667a425e433a53663b85c6c75",
+      "sha256": "051a5324791f64dd08533cb184b53dac85f2d7601acbf45aec6902750d727fcf",
+      "bytes": 33614
+    },
+    {
+      "path": "tests/controller/envelope/fall.py",
+      "mode": "100644",
+      "oid": "ce3219ad5413214a68ae931bd6149efb58c93a4f",
+      "sha256": "e037344a0cebbb86fe46fcc610327d7fdca3b41860f571329c1382d6cda54dbf",
+      "bytes": 13638
+    },
+    {
+      "path": "tests/controller/launch/fall.py",
+      "mode": "100644",
+      "oid": "545e39e7f3384e4df0b87afbc06d1ce460c22ddb",
+      "sha256": "2133b18c15e251fffa2a4ef0d861956697cea78f643c07ffc6e5a195ba30eefc",
+      "bytes": 9823
+    },
+    {
+      "path": "tests/controller/loop/fall.py",
+      "mode": "100644",
+      "oid": "57228bf386ea31b41e44db4ae088b65413cb7031",
+      "sha256": "8f1e0905cc92ded79d70e7b688f5e2983867f4f1da0611cd040957ceee01536c",
+      "bytes": 27697
+    },
+    {
+      "path": "tests/controller/policy/fall.py",
+      "mode": "100644",
+      "oid": "0d40b429a14e358b7c4cf56b67c3fcaba134681e",
+      "sha256": "2140f6ba705d9aeec56aa970597447f32f3f5ea6a97ef3e231cf7343534ad1c8",
+      "bytes": 11409
+    },
+    {
+      "path": "tests/controller/provenance/darwin_groups.c",
+      "mode": "100644",
+      "oid": "edf613ccd36c63d70ffeb7035ee8b899edcdbd30",
+      "sha256": "6c82acffd1e03e6bf4f9fd4aee9126328f52519c1debdc5193de9456de90849c",
+      "bytes": 691
+    },
+    {
+      "path": "tests/controller/provenance/fork_fault.c",
+      "mode": "100644",
+      "oid": "481a3826f18c5a678d847681732d6308d397d6a7",
+      "sha256": "ef4d9a4a402b23f644b243d7211faba706f3c798e19b9bfc2d0a3b36e6810393",
+      "bytes": 621
+    },
+    {
+      "path": "tests/controller/provenance/identity_faults.c",
+      "mode": "100644",
+      "oid": "fa69e30c4b87c2a086ee64896943473ab7819583",
+      "sha256": "1760555990123155b3f16a685dce082430ee7de95179ac0aaeb68c5e77eda0c0",
+      "bytes": 479
+    },
+    {
+      "path": "tests/controller/provenance/test_installer_failures.py",
+      "mode": "100644",
+      "oid": "962545a0a175ca92ac46d635fffb07212d7ba677",
+      "sha256": "fd5a5ad287fe12002e04b5968035f299b042a1c1d50805e601d0a3b5d14bb126",
+      "bytes": 2112
+    },
+    {
+      "path": "tests/controller/provenance/test_native_authority.py",
+      "mode": "100644",
+      "oid": "c0e899f18ab06817a5600c98cff48d60d4323206",
+      "sha256": "ce57ed0c738218c637a268fc300484c913fd11e2769ce033b29d1609bdd8a028",
+      "bytes": 15363
+    },
+    {
+      "path": "tests/controller/provenance/test_protected_kernel.py",
+      "mode": "100644",
+      "oid": "3d28b9bfde4fbcb34c8759fbc9156d1d220e09cf",
+      "sha256": "3cb5a0cd9d06bd752872a142ae771fb1bfc9a05ece7d10ba3dbc3e5dad5673ea",
+      "bytes": 4165
+    },
+    {
+      "path": "tests/controller/provenance/test_request_consumer.py",
+      "mode": "100644",
+      "oid": "c3af902e81018f04da225a9cc3529aa7c77db50b",
+      "sha256": "88ed4ca15c8a2615043cf0491e35584e1c5c90e4884a78622f570dbb2a62ee4a",
+      "bytes": 6682
+    },
+    {
+      "path": "tests/controller/taskval/fall.py",
+      "mode": "100644",
+      "oid": "2163348ad1153c50cce3746a48cacd3967205376",
+      "sha256": "814bef7c2186b244c06da8e72a084153c8f6e0f46d6cff787b28c79f7d2d0112",
+      "bytes": 9496
+    },
+    {
+      "path": "tests/controller/utforare/fall.py",
+      "mode": "100644",
+      "oid": "094eedf6281b91dff39ae99fa90f755b2a4bf6d6",
+      "sha256": "4bb22b071d178e1087718bac0a749235f7d81360af96795ee8aaf4c6d5a9ba50",
+      "bytes": 19495
+    },
+    {
+      "path": "tests/controller/worker/fall.py",
+      "mode": "100644",
+      "oid": "814bbf9df967e03928af45ab8fd856fd49f356e9",
+      "sha256": "c7f148b7a494963451ff8878107ae837a7f4eae662e682942d7de8c7ad783bbe",
+      "bytes": 8531
+    },
+    {
+      "path": "tests/scripts/nortropic-codex-autopilot/publication-callers.py",
+      "mode": "100644",
+      "oid": "396f4dfb2a62097a63783da7028f8d555461b357",
+      "sha256": "cbc70deaccfd9d7a2de8f143b332b86d0e7f0c295659da7895b400338a9c7907",
+      "bytes": 6814
+    },
+    {
+      "path": "verify/bin/_lib.sh",
+      "mode": "100644",
+      "oid": "79b8d55d2b4f7a1923d3ebd5dbf13eb5aef1988c",
+      "sha256": "b916716617eef5d7651d748fbfed610b45b28af408369019d2cb914a5c01c1b9",
+      "bytes": 1921
+    },
+    {
+      "path": "verify/bin/document-authority-exit",
+      "mode": "100644",
+      "oid": "f6075273c5f303b3188af097a72f5852c9eef2ef",
+      "sha256": "b826deec9488e812d898ac39b65594ca61634e9ebf661bbd80599ddf9536e0c5",
+      "bytes": 31426
+    },
+    {
+      "path": "verify/bin/h-001-exit",
+      "mode": "100755",
+      "oid": "9c1bbb3d4509d0a69460b1b4b57615c4a82c0d5e",
+      "sha256": "f3757506ed18c4f400242dc3385bee96f88939f39adf62f36288b1e6e1044636",
+      "bytes": 4846
+    },
+    {
+      "path": "verify/bin/h-002-exit",
+      "mode": "100755",
+      "oid": "5c67b1f30b00badbd4f842898f6e3a890b8529ff",
+      "sha256": "781f48daeef1be25af54f6beb9632dbaeb59b4cc6c7b38cb6cb8ba57a1720cda",
+      "bytes": 2727
+    },
+    {
+      "path": "verify/bin/h-003-exit",
+      "mode": "100755",
+      "oid": "1f6480a565cb7d93ef31f914f47feae1c18c457a",
+      "sha256": "58b6e2ff1b6a39ff7cfcba380ee52f0324cf0910212cfb537a790969ab29c1f2",
+      "bytes": 4255
+    },
+    {
+      "path": "verify/bin/h-004-exit",
+      "mode": "100755",
+      "oid": "974debe70dab0a44d0d0bc1febc18f4ecb5b1570",
+      "sha256": "51ca217cef640b2dbe4c7721ccb70c7281ca7444ee9cde71f3f9a5a18b5831bd",
+      "bytes": 21537
+    },
+    {
+      "path": "verify/bin/h-005-exit",
+      "mode": "100755",
+      "oid": "8f24a87a933c0bec8a02013a51bb56f0416049a7",
+      "sha256": "19f317dc24b605ca1ecab14732f727629a929fc851eb59392470be49725d784c",
+      "bytes": 6836
+    },
+    {
+      "path": "verify/bin/h-006-exit",
+      "mode": "100755",
+      "oid": "3fb6b32517c9fba8ab3c39dbca77f8ccec082ee1",
+      "sha256": "10ae994a0107c64ad75d9e7902b50c8b19794e6aa6cd0698c70bcf84eb17b3bc",
+      "bytes": 4322
+    },
+    {
+      "path": "verify/bin/h-007-exit",
+      "mode": "100755",
+      "oid": "2ac653ceef04b2e546f271b634db62c0786102f9",
+      "sha256": "afb0b2a2573729efbb00ee8c572f1a9afcfb140c594f3f8923378ec1d7a48264",
+      "bytes": 7117
+    },
+    {
+      "path": "verify/bin/h-008-exit",
+      "mode": "100755",
+      "oid": "b2e13823c73851016ecad6ad3a3bb653a5ae3d4b",
+      "sha256": "ab30b7ce23da76a4b69e932e0018355b2d89a853bc71508b22c4d03319aaa255",
+      "bytes": 8647
+    },
+    {
+      "path": "verify/bin/h-009-exit",
+      "mode": "100755",
+      "oid": "0561847d3100b4beb8b5531f64082fb64ab5f5c6",
+      "sha256": "f6fb75f8ef408a5fa6de6b21514c1fcf25cb8cbace722012626896aa4c8dc40a",
+      "bytes": 8440
+    },
+    {
+      "path": "verify/bin/h-010-exit",
+      "mode": "100755",
+      "oid": "cbb8511338e045bd215838c993ee3f5530ba2de2",
+      "sha256": "25c4cfe0dbcc2b27120cf9d70b5c737d4f859949fc765b051202c197ab8f4587",
+      "bytes": 10844
+    },
+    {
+      "path": "verify/bin/h-011-exit",
+      "mode": "100755",
+      "oid": "83ec48a339fe8325530524a0656a34f4ee511226",
+      "sha256": "b761c1a6da7bf3ecf23288f7d0f4ab83b5fbd3570bb527cc708528d8db6117a5",
+      "bytes": 20940
+    },
+    {
+      "path": "verify/bin/h-012-exit",
+      "mode": "100755",
+      "oid": "e66686b9428e804fe2dbced4ecaffa49def3fbce",
+      "sha256": "58d4a395f5d13c3171071344aea66690991562599e0e2b4483565d6cee3928d8",
+      "bytes": 16170
+    },
+    {
+      "path": "verify/bin/h-013-exit",
+      "mode": "100755",
+      "oid": "fab9b21444a7061b1545b64d6f2834737ab7cde9",
+      "sha256": "d7ddfddae11c0ee22163ba5048a3be46da95ab4480e7ffbd0cceaf9e44d284eb",
+      "bytes": 19218
+    },
+    {
+      "path": "verify/bin/h-016-exit",
+      "mode": "100755",
+      "oid": "89ca166875b114cfdef8caaa019ac9052f5a5077",
+      "sha256": "eef1495db14c0a2741b5cb767afad49c25ee21e216805580f79a16431e441fa3",
+      "bytes": 47187
+    },
+    {
+      "path": "verify/bin/h-017-exit",
+      "mode": "100755",
+      "oid": "fa5222308fdc6266390b5a9e507ee2dd788c1fc0",
+      "sha256": "78b9d1f4fed9fa0d4c9e587dfc0069e9532a5cd8653a697b29a275a4d46ea983",
+      "bytes": 52513
+    },
+    {
+      "path": "verify/bin/h-031-exit",
+      "mode": "100755",
+      "oid": "1ed1970bfc0950e34999b58d8494483b175c1643",
+      "sha256": "4d9ed78f60af7a5ad651057726471952fb358a525b885e4aa900642016349543",
+      "bytes": 158959
+    },
+    {
+      "path": "verify/bin/h-032-exit",
+      "mode": "100755",
+      "oid": "29ab9c7edc50186da74c0b1049cb37d07653092e",
+      "sha256": "9281e7182c21ee5758e3e56c26e40d05bbe04f752d5e8da72a05fafa496dcf59",
+      "bytes": 1076398
+    },
+    {
+      "path": "verify/bin/h-032-owner-live-call",
+      "mode": "100755",
+      "oid": "050791ae83696f3738f0e347b519f736f8dde4df",
+      "sha256": "c18d6e51aa770094e6dfd58c4d141b36a6c6f0d9ecdeee57f2059ffdf95ad071",
+      "bytes": 11600
+    },
+    {
+      "path": "verify/bin/h-033-exit",
+      "mode": "100755",
+      "oid": "b14792313e180ebe18386cd875b824eed3f0db49",
+      "sha256": "097629cc378d6b69ceba313f26f16f0c4e2556645e51110c16def218354847a2",
+      "bytes": 17185
+    },
+    {
+      "path": "verify/bin/h-034-exit",
+      "mode": "100755",
+      "oid": "dd772712dc507f4ebe747710e25da6b90aaa2bec",
+      "sha256": "c5b9439218f90d06bdbe2f814e9024e993412e06af19df8690f9096f820c6cb5",
+      "bytes": 62599
+    },
+    {
+      "path": "verify/bin/h-035-exit",
+      "mode": "100755",
+      "oid": "4d13742dff0204cab28602d21c71a8576a22e17b",
+      "sha256": "91aa7fe709e7f1d71a17d54a51d258a4a9ec0b9b5ce5f815923199aa2124fabc",
+      "bytes": 1449693
+    },
+    {
+      "path": "verify/bin/h-036-exit",
+      "mode": "100755",
+      "oid": "1a7a0b48f08747197285ed11e0a3115f70f8fb2c",
+      "sha256": "95be612be7e0d48b281a0ea7552e6bb774792b0a0f6340f91791f53c29be4194",
+      "bytes": 311046
+    },
+    {
+      "path": "verify/bin/h-037-exit",
+      "mode": "100755",
+      "oid": "7db92a8ca033a631f4c14cfe4a773a8239fc84a6",
+      "sha256": "12ef5f55386a9f68e1b5019d52555d1573e2356408bf584e1a038d09e1d86045",
+      "bytes": 109207
+    },
+    {
+      "path": "verify/bin/h-038-exit",
+      "mode": "100755",
+      "oid": "a5608471ece16de4ef08792bb5474c053ca55d3e",
+      "sha256": "908ac390ad20f2ea6bbb053a76a1fbd8cbe3cc6081c0825b9b893537e185b63e",
+      "bytes": 142988
+    },
+    {
+      "path": "verify/bin/h-039-exit",
+      "mode": "100755",
+      "oid": "7606d946d3df85cae42d2ad6e5e8b4d6febd0277",
+      "sha256": "b2728b587911053453d577d3cdc4bf9c833c7cc6d6ccae6d0f15dbe7c86fa199",
+      "bytes": 2287028
+    },
+    {
+      "path": "verify/bin/invariant-required-exit",
+      "mode": "100755",
+      "oid": "18b6680f151e83167d65d4fd9de109295f466faa",
+      "sha256": "2c46a61a13b20aa8176d26e7192b0bc11507d1ed5047a33cc13bead1242b648b",
+      "bytes": 18610
+    },
+    {
+      "path": "verify/bin/launch-cwd-exit",
+      "mode": "100755",
+      "oid": "6aa0b682662ae3aaf826d9128e0ea89f0dcc072c",
+      "sha256": "c9d5e0d7fc1a20e5ecec040720eb7da82534b3f6706fa948aa5b010d142ce8e6",
+      "bytes": 33987
+    },
+    {
+      "path": "verify/bin/p-001-exit",
+      "mode": "100755",
+      "oid": "a8b2d2f88d732b9bb5ebdb073ed8db03641cddd4",
+      "sha256": "9083d73311ea619f99601938dee97a227918da75a81176458cd996032bb324a1",
+      "bytes": 2363
+    },
+    {
+      "path": "verify/bin/p-002-exit",
+      "mode": "100755",
+      "oid": "837ba684559f6f4ca56108599cddb8f96ec25397",
+      "sha256": "dfa5fad4bd1aeb6a97025b33a19350dd550065315e4fd46ca976fb034c60c168",
+      "bytes": 1725
+    },
+    {
+      "path": "verify/bin/platform-control-set-exit",
+      "mode": "100755",
+      "oid": "e7706fbc0421b7522123d1c5c2e1a40e7aa11531",
+      "sha256": "d06435b5cb7d4d11e1f0020dac0b5f375d445f8a2bc92e77838fb3cb85b49505",
+      "bytes": 53199
+    },
+    {
+      "path": "verify/bin/platform-governance-exit",
+      "mode": "100755",
+      "oid": "59129c7dd67960920ae2eb5b619e07fe864ee3f2",
+      "sha256": "f1eddbe75866b155da5f6870e1f93ab6cc11b4c7109ab68044c2fd80e9043424",
+      "bytes": 49138
+    },
+    {
+      "path": "verify/bin/platform-separation-final-exit",
+      "mode": "100755",
+      "oid": "21c711b230060887de199a3fe1b938ccfcd167fb",
+      "sha256": "83d50a58b0f8e179f90fea487da7352d8ebcfe214e3b416a8c2a359132046491",
+      "bytes": 320359
+    },
+    {
+      "path": "verify/bin/python-interpreter-authority-v1-exit",
+      "mode": "100755",
+      "oid": "e4059e23873dd625b4879567b3c17484326a87db",
+      "sha256": "edc84d899b09decd9eafd90a78094f86c72a8b1ce221a4adbd93636cb99a462a",
+      "bytes": 26457
+    },
+    {
+      "path": "verify/h034/build-recipe.json",
+      "mode": "100644",
+      "oid": "a6b780e5b73c0af286be0ccfe3ec22faa043b63b",
+      "sha256": "a6444ff821f4ac539618cd33a4a2220107748090e90bd1903d628b2be280b485",
+      "bytes": 984
+    },
+    {
+      "path": "verify/h034/identity-manifest.json",
+      "mode": "100644",
+      "oid": "64b7ad8b6fe2bfd5779c9317ed9a3b123485e102",
+      "sha256": "18f57799f091fe4be8a829a1fbbe891f33b57d5f4d8a50df49f755082d5398a1",
+      "bytes": 792
+    },
+    {
+      "path": "verify/h034/kernel",
+      "mode": "100755",
+      "oid": "6cf591375913718c34dc68c2f8d4c0b267edb34a",
+      "sha256": "405ced0cb549f1b14b50b3f6fa88dab54083a74e291d563dbc32a63021fff5f3",
+      "bytes": 52208
+    },
+    {
+      "path": "verify/h039/build-recipe.json",
+      "mode": "100644",
+      "oid": "5ecd342438112dd5a75d4cca7f22e5bea292961a",
+      "sha256": "49506e46ab1486de99e1b2c2883a0cf42a1f564e97c6cdf84fc04d89347534bb",
+      "bytes": 8558
+    },
+    {
+      "path": "verify/h039/identity-manifest.json",
+      "mode": "100644",
+      "oid": "bf13e1b61bedf11e1fd66839cdb9f0dfe6084b5a",
+      "sha256": "e5cb7deb73b84a71914981df02fb5d3b5f39d60ae1cf2bf60b17cff3e5f4257e",
+      "bytes": 1827
+    },
+    {
+      "path": "verify/h039/runtime-cleanup-mediator",
+      "mode": "100755",
+      "oid": "c685d24ee8f1dc266711c365eb6f865bbfef29f5",
+      "sha256": "b874693a31e5255c3b71cbd9aa4bee4a12efd3a4bf03b62d4d86e4d9029f4bf7",
+      "bytes": 106736
+    }
+  ],
+  "commands": [
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "init",
+        "--bare",
+        "--template="
+      ],
+      "exit": 0,
+      "stdout_sha256": "0ffc34c650443424adfa6db23c0b28a18ce722ee059151265abf34620a26b473",
+      "stderr_sha256": "c07563dfd27dd9cefcbda7905796c9cd61c31b68f588650c504e3e0454a3a49c"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "unbundle",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/v316-h039-continuity-product-8095d94.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ae95c4ec1e878af500fafdcd7d976801a60875dc54ce18c10cc978fc6561a285",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "-e",
+        "8095d947c83202e2b87801531d9f7cb1457c8719^{commit}"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "verify",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-contract-C-7be3a5ab-incremental.download.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "648a1c7bf2c06a2e76fdbdb7d2d0e5ee87d1c4ba49b2e3095ba5ae2337a7b35c",
+      "stderr_sha256": "20b11f0cc020bd7fb26d5e09fd0cd747451072c8e04384e8494d7ad86d689b77"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "unbundle",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-contract-C-7be3a5ab-incremental.download.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "83ba4180ca218fd1e2e9f9f784ffdb504035533e641e0f10872f696fc72bb4eb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "verify",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-product-P-005366dd-incremental.download.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "532b818ec76e0380e29f14b74617efcc354646faa15f11159d8c72091dc30ed4",
+      "stderr_sha256": "b71fca5e12e38f010f078c0c62a014ec276afa06142e3e75b2dc84b8b13ae806"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "unbundle",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-product-P-005366dd-incremental.download.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8c17ac6ba6aef8f61e7e1e34b06a7a59530672aae31bc956730005357c03372b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "bundle",
+        "list-heads",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-product-P-005366dd-incremental.download.bundle"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8c17ac6ba6aef8f61e7e1e34b06a7a59530672aae31bc956730005357c03372b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "update-ref",
+        "refs/heads/restored-P",
+        "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+        "0000000000000000000000000000000000000000"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "symbolic-ref",
+        "HEAD",
+        "refs/heads/restored-P"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "rev-parse",
+        "HEAD"
+      ],
+      "exit": 0,
+      "stdout_sha256": "24abe57c6a8640ae9246129eb75fc05d0a32568911060d1fb0e235c36916bd62",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "commit",
+        "7be3a5ab20b2079b146984915935a2ed6714c286"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b7e07fe684e83d2e599c300cb5bdb2d72efccfc249497b4a897987842e6838a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "commit",
+        "7be3a5ab20b2079b146984915935a2ed6714c286"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b7e07fe684e83d2e599c300cb5bdb2d72efccfc249497b4a897987842e6838a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "commit",
+        "005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3579a11c7e6f026f4db9e755c981ed60dec9998653433c25e2dc6e3b888867e6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "commit",
+        "005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3579a11c7e6f026f4db9e755c981ed60dec9998653433c25e2dc6e3b888867e6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "ls-tree",
+        "-rz",
+        "--full-tree",
+        "005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6678271d917f11acd8cf3a7f75c9f9d80b04ee807e899185e93eb2a4444a7ece",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "ls-tree",
+        "-rz",
+        "--full-tree",
+        "005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6678271d917f11acd8cf3a7f75c9f9d80b04ee807e899185e93eb2a4444a7ece",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e2e4befc0dc6142ab68990221605c5f6570c9277"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e8a7795d685c0a5976ffe7db2abcc718016dc117240fc26f57ab2eb0dc522e56",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e2e4befc0dc6142ab68990221605c5f6570c9277"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e8a7795d685c0a5976ffe7db2abcc718016dc117240fc26f57ab2eb0dc522e56",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "95621882ce6cef4040c43ad193b439d284e2ace6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "490a840356dae6fb998d9d1879238c6ad2be83c1b64ce4dec581c64fc7f34af0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "95621882ce6cef4040c43ad193b439d284e2ace6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "490a840356dae6fb998d9d1879238c6ad2be83c1b64ce4dec581c64fc7f34af0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "dc6c0bab6b27b439993210d5298ec0df5383b124"
+      ],
+      "exit": 0,
+      "stdout_sha256": "94cf2c63335069fa90f4c0a06f9cb72f07937e5d14676a0d8a85d7d35006c886",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "dc6c0bab6b27b439993210d5298ec0df5383b124"
+      ],
+      "exit": 0,
+      "stdout_sha256": "94cf2c63335069fa90f4c0a06f9cb72f07937e5d14676a0d8a85d7d35006c886",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "59b5c2ac04df1b15bd411c628379f159467af1da"
+      ],
+      "exit": 0,
+      "stdout_sha256": "51e4aae63323149d904fc101302b74856b009fd09caa9cc9ae08496dd2aa1f0d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "59b5c2ac04df1b15bd411c628379f159467af1da"
+      ],
+      "exit": 0,
+      "stdout_sha256": "51e4aae63323149d904fc101302b74856b009fd09caa9cc9ae08496dd2aa1f0d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7f519335fe6f6ea4b58a49d9fe24e886505b159c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0e168ea88a23493a68f44352927c7ca6ae1de2d4b0ba90490e66c54bbdf3d88f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7f519335fe6f6ea4b58a49d9fe24e886505b159c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0e168ea88a23493a68f44352927c7ca6ae1de2d4b0ba90490e66c54bbdf3d88f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "9e27b2ba8d47639cc8af62659def4ff106bdeed2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "96dc1e8b95ce1833649acf82311d1109339ae90da78ce54df47a547e71420f2f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "9e27b2ba8d47639cc8af62659def4ff106bdeed2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "96dc1e8b95ce1833649acf82311d1109339ae90da78ce54df47a547e71420f2f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f620d85f24c475057e6e8749548c5a07b0893dce"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0dbb983883b5e311499bc6d78765e2b84c6a225e0e02356c3c65c6b80fe5830b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f620d85f24c475057e6e8749548c5a07b0893dce"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0dbb983883b5e311499bc6d78765e2b84c6a225e0e02356c3c65c6b80fe5830b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "0f27560fc862f4da326abe4691120f70fac84385"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c982c0bfb099bd6757193f2e580c0c4d9f3643f4e2f1b975fcbce0cc3e02f2bd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "0f27560fc862f4da326abe4691120f70fac84385"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c982c0bfb099bd6757193f2e580c0c4d9f3643f4e2f1b975fcbce0cc3e02f2bd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "9e1d69767db149535a831ee463cdf91bfd9db056"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d0968ac420c6accfd8e0a7a7b2154cf2e1261344e1858ee27e42bed47d433b54",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "9e1d69767db149535a831ee463cdf91bfd9db056"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d0968ac420c6accfd8e0a7a7b2154cf2e1261344e1858ee27e42bed47d433b54",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7b60bd210e0aa63115b34aec1b0294c0977746a5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6ae0d91b7933fdbd1130be9d8788ea1e76820a2fde5e692f1ea8783bac0839d0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7b60bd210e0aa63115b34aec1b0294c0977746a5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6ae0d91b7933fdbd1130be9d8788ea1e76820a2fde5e692f1ea8783bac0839d0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4033f10dcc76cbfc5a8113925932b41f25d44ce0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c718c15f5f54a10832b572ba26ac1f85e8ca67a2dc40d135fa2c1f2bf2eb9a9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4033f10dcc76cbfc5a8113925932b41f25d44ce0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c718c15f5f54a10832b572ba26ac1f85e8ca67a2dc40d135fa2c1f2bf2eb9a9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "822532f4f249eef6ebe1df28ac39f3cc46f6312a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fcdadc782becd1f96763a808eb2a5ba4387e29a96eeddc8738ebcd827c167da8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "822532f4f249eef6ebe1df28ac39f3cc46f6312a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fcdadc782becd1f96763a808eb2a5ba4387e29a96eeddc8738ebcd827c167da8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "fcd85c5bf3452122e69673369611a7ffa6b9d4d4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2fde68c289b0c004da86cd260eec7657610ba82e437edba3ed3ddca060bcc37c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "fcd85c5bf3452122e69673369611a7ffa6b9d4d4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2fde68c289b0c004da86cd260eec7657610ba82e437edba3ed3ddca060bcc37c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "6d2a0463acf69e0059c191249f2b0b0c266faf4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8ca5f170d8eb8ae6777d6eddbc5ca4fe043a279376a5591bc6fa3d903dc0c5d0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "6d2a0463acf69e0059c191249f2b0b0c266faf4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8ca5f170d8eb8ae6777d6eddbc5ca4fe043a279376a5591bc6fa3d903dc0c5d0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c0c9eeaa6d5bef9c55ee6a19117a60d2788ad9f3"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0b4de77a07472a71f6af76c8f807d491c498a18659dabda2052b30940df5aed6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c0c9eeaa6d5bef9c55ee6a19117a60d2788ad9f3"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0b4de77a07472a71f6af76c8f807d491c498a18659dabda2052b30940df5aed6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "df871bf8f709db84fbe2c8bea1a2361453795317"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8795f646b2ca1423af971514f8900192545f6d360c9715fd2779dcec00ede5cc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "df871bf8f709db84fbe2c8bea1a2361453795317"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8795f646b2ca1423af971514f8900192545f6d360c9715fd2779dcec00ede5cc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b7280f3d9f7c396d6bf1ac7f8dd33ada5cbbbecb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "459c3f59ed92ee7dfe1a9ed755819438fd5d1497c5371870439fe1e3ce6db6ba",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b7280f3d9f7c396d6bf1ac7f8dd33ada5cbbbecb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "459c3f59ed92ee7dfe1a9ed755819438fd5d1497c5371870439fe1e3ce6db6ba",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "ce3b5700c961b36482c6612c364a30495153cb85"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1c553d9c317099db8a245c52eed62f9ede31452983c6d523a74d6272b830b23",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "ce3b5700c961b36482c6612c364a30495153cb85"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1c553d9c317099db8a245c52eed62f9ede31452983c6d523a74d6272b830b23",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f57ccf38829b72a031eeba023299cb828a01542b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f57ccf38829b72a031eeba023299cb828a01542b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "10c1258e047be815035906c21f1e1b0628cbbe28"
+      ],
+      "exit": 0,
+      "stdout_sha256": "98bd18218d91bfb201bead7e7f02d532f321f539bcb85f1d87d0026668e38c74",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "10c1258e047be815035906c21f1e1b0628cbbe28"
+      ],
+      "exit": 0,
+      "stdout_sha256": "98bd18218d91bfb201bead7e7f02d532f321f539bcb85f1d87d0026668e38c74",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b6a0de1be470b2bb06891bb332471640219f8946"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0d53465d0491919525ef3401f02ae20c8d0b279653c57677311edcc54aecdb33",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b6a0de1be470b2bb06891bb332471640219f8946"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0d53465d0491919525ef3401f02ae20c8d0b279653c57677311edcc54aecdb33",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "02f440c331b7fbd6f73cee4734872801e654fc3a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f764b31d2419bcdd9a380c9c5b740fa4a84a75cc63010541316f2b66892db7c6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "02f440c331b7fbd6f73cee4734872801e654fc3a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f764b31d2419bcdd9a380c9c5b740fa4a84a75cc63010541316f2b66892db7c6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "6c48ccc3440fd451ac135000bac569d606ce2ec7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3b1735290f6f6c8a13d54c1e9e66626882d255fbf7faded61a0c2cb54b56bf3f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "6c48ccc3440fd451ac135000bac569d606ce2ec7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3b1735290f6f6c8a13d54c1e9e66626882d255fbf7faded61a0c2cb54b56bf3f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "9ad0d8ab21ec0291ea3c1caa619c16e80b14b700"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fb55acadd579b4615a92b4c12d920fd3f652d9817d91f9935211b2313f63b063",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "9ad0d8ab21ec0291ea3c1caa619c16e80b14b700"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fb55acadd579b4615a92b4c12d920fd3f652d9817d91f9935211b2313f63b063",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "45d0a243174ec64dd795c2380d42f884ab0b2b90"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2c609508a082d7068ca85182382988f89a9e29148831fc12f2bd8ddc207e5986",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "45d0a243174ec64dd795c2380d42f884ab0b2b90"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2c609508a082d7068ca85182382988f89a9e29148831fc12f2bd8ddc207e5986",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a65fc83858fd89aee616d4e299cd7e09d3430138"
+      ],
+      "exit": 0,
+      "stdout_sha256": "92f84d8f909bdded186c2db8b8e98f4c79e3f9f5e16c53100f7e005641a183f9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a65fc83858fd89aee616d4e299cd7e09d3430138"
+      ],
+      "exit": 0,
+      "stdout_sha256": "92f84d8f909bdded186c2db8b8e98f4c79e3f9f5e16c53100f7e005641a183f9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "8ea747a83e39965a0abcf0ac838c65f878606330"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4efc469ee673e431752f04a83b305351a0d4e18bf9a3bb59e5433943f37950fd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "8ea747a83e39965a0abcf0ac838c65f878606330"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4efc469ee673e431752f04a83b305351a0d4e18bf9a3bb59e5433943f37950fd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "801edec082f5570117ad2db87306ccc6eecfbbca"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4fd59ecc4fc6cb79d4cb229f2895f8cdb0b7e90429e9076ac46aa5fd512d3377",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "801edec082f5570117ad2db87306ccc6eecfbbca"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4fd59ecc4fc6cb79d4cb229f2895f8cdb0b7e90429e9076ac46aa5fd512d3377",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "6b6bb827f95ab946be361a3237dff468b3a6f085"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b066edaf624f51f837d6c83f2e996e8e5684b8229fa407e3c6cb3f233305de2c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "6b6bb827f95ab946be361a3237dff468b3a6f085"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b066edaf624f51f837d6c83f2e996e8e5684b8229fa407e3c6cb3f233305de2c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b17600c793901391327640ef97d36844a39c393a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a83e5847b7cdee8543a55d52ef719d232319fdd6c0a33b5bd00b8a77b69e8158",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b17600c793901391327640ef97d36844a39c393a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a83e5847b7cdee8543a55d52ef719d232319fdd6c0a33b5bd00b8a77b69e8158",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "2d98d140213ae6d698beb2dbc2167391a24f4a85"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9c34189f15bddbd248ff03bb034d076c78b98f296c6b7505b7aa08ef9c195bfc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "2d98d140213ae6d698beb2dbc2167391a24f4a85"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9c34189f15bddbd248ff03bb034d076c78b98f296c6b7505b7aa08ef9c195bfc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "befc1752d9be2b6f709b90af39a02513ed8b4802"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0cee1f5cdceed4c6752f5c800c92d140eb3f1da96fa2ee4c48315f57c5d11087",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "befc1752d9be2b6f709b90af39a02513ed8b4802"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0cee1f5cdceed4c6752f5c800c92d140eb3f1da96fa2ee4c48315f57c5d11087",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "03d1c35d6ab2bd49f956bd75c9a7fe4e13105710"
+      ],
+      "exit": 0,
+      "stdout_sha256": "7d99a4198be51545ab849344957dbbcf16567649057dbe53977bf5880acba53c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "03d1c35d6ab2bd49f956bd75c9a7fe4e13105710"
+      ],
+      "exit": 0,
+      "stdout_sha256": "7d99a4198be51545ab849344957dbbcf16567649057dbe53977bf5880acba53c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "ed865cf46ad201d2d273a42340ca78968764cd06"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5273a48480ec73550ddc915e9b2c54d396717573dd7af79fe89cbe549cf1d4f1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "ed865cf46ad201d2d273a42340ca78968764cd06"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5273a48480ec73550ddc915e9b2c54d396717573dd7af79fe89cbe549cf1d4f1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "cb9a4ab1a24bea501f2e8660ef042514f93ccc99"
+      ],
+      "exit": 0,
+      "stdout_sha256": "35ca9dff3355bcfbd4d7536cb9658fe3342f143745547ec55f2b2cb25223eca7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "cb9a4ab1a24bea501f2e8660ef042514f93ccc99"
+      ],
+      "exit": 0,
+      "stdout_sha256": "35ca9dff3355bcfbd4d7536cb9658fe3342f143745547ec55f2b2cb25223eca7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "660edb6499f49f6a7f12e4328296123a208a93c2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9aa63d3b7b52399b333f5fad3139819991d43865b33c61e9151e64d484f93ea6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "660edb6499f49f6a7f12e4328296123a208a93c2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9aa63d3b7b52399b333f5fad3139819991d43865b33c61e9151e64d484f93ea6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a6b89efe0aa97db3f884986c4417aebbecaf7e97"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ac57c5315ac5cde81eaffb42090d983f70640fce1205cac58550692dd3843ffb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a6b89efe0aa97db3f884986c4417aebbecaf7e97"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ac57c5315ac5cde81eaffb42090d983f70640fce1205cac58550692dd3843ffb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e9f3b69d12e2c8e119e6a56677d4f382539b1d2c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8275b4f10369ef83548674298d3004a6bc37af24adcc425e1e4d45d6afa46769",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e9f3b69d12e2c8e119e6a56677d4f382539b1d2c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8275b4f10369ef83548674298d3004a6bc37af24adcc425e1e4d45d6afa46769",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4c8a9fb9dc386ff57c2202e78bb2788b29ca18df"
+      ],
+      "exit": 0,
+      "stdout_sha256": "12671dd86f66d081e780bd6c96f035e9cb25bf4a02b4547278b3047800a7df2e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4c8a9fb9dc386ff57c2202e78bb2788b29ca18df"
+      ],
+      "exit": 0,
+      "stdout_sha256": "12671dd86f66d081e780bd6c96f035e9cb25bf4a02b4547278b3047800a7df2e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b5b0dbf774f70a51b7977cae1d07a6e73c7a3505"
+      ],
+      "exit": 0,
+      "stdout_sha256": "069265c112ce1056fa4318d5eb6320cf781d9d272bb3ae82bf7573f586575aa0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b5b0dbf774f70a51b7977cae1d07a6e73c7a3505"
+      ],
+      "exit": 0,
+      "stdout_sha256": "069265c112ce1056fa4318d5eb6320cf781d9d272bb3ae82bf7573f586575aa0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "76ec4f06f20cbfdcc3059f55e92f828f36365384"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8ad84c809c70f21543d84588827e0e2fe1fdc26c4d4913ca37bccd7b99e4a5d4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "76ec4f06f20cbfdcc3059f55e92f828f36365384"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8ad84c809c70f21543d84588827e0e2fe1fdc26c4d4913ca37bccd7b99e4a5d4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "fc3bd03b3200ce4344bcae0fa077363b9971af3e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9e0bdca028722c93dffbd62dcddbf1b87396ecd4c1cfba7d53a744b79f4edab2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "fc3bd03b3200ce4344bcae0fa077363b9971af3e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9e0bdca028722c93dffbd62dcddbf1b87396ecd4c1cfba7d53a744b79f4edab2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "48b1cae43487b99e299e82235b6fe0db6ac6a265"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d17aecd9c4c2df98b945f6c53c5573e71a30e7b242657aeaffa56762d86902ef",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "48b1cae43487b99e299e82235b6fe0db6ac6a265"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d17aecd9c4c2df98b945f6c53c5573e71a30e7b242657aeaffa56762d86902ef",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4fe94e3f2b773c99e419295362dbfc4b50102769"
+      ],
+      "exit": 0,
+      "stdout_sha256": "da3b7900d6a24e6297db256186d490de50fee54f4c565710a225909f0638e686",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4fe94e3f2b773c99e419295362dbfc4b50102769"
+      ],
+      "exit": 0,
+      "stdout_sha256": "da3b7900d6a24e6297db256186d490de50fee54f4c565710a225909f0638e686",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a2fc7523787205dd3049009212666a3935c104cf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ee7a50ce2296e5e8a31422629c7b36cd9a766ba70f02ae858403769b0b17cf81",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a2fc7523787205dd3049009212666a3935c104cf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ee7a50ce2296e5e8a31422629c7b36cd9a766ba70f02ae858403769b0b17cf81",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "bdffcc8e3057314ff403ff0fe62c090c5b9dc4ab"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1925e64741c3f0c579afca5edc09650838c7ff22991fe7989c78ffb117569e3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "bdffcc8e3057314ff403ff0fe62c090c5b9dc4ab"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1925e64741c3f0c579afca5edc09650838c7ff22991fe7989c78ffb117569e3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "dd0b1f01fb5b89ed1077c0fba88f577a803d17d4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "adaa6b6904a954f3d9b827bdfcb123e503cbeb74b433ad4b2b719f454e9077d9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "dd0b1f01fb5b89ed1077c0fba88f577a803d17d4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "adaa6b6904a954f3d9b827bdfcb123e503cbeb74b433ad4b2b719f454e9077d9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "0a52e62c8d2e09608c066f1029f746b2e74243e1"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3e29e923ffe3904506c5c68d7e6b9250899d9b550f8a8efa7fb8b6ca7338cff7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "0a52e62c8d2e09608c066f1029f746b2e74243e1"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3e29e923ffe3904506c5c68d7e6b9250899d9b550f8a8efa7fb8b6ca7338cff7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a4ae93af7c2f15ec84321d4c051ade99c91a6d76"
+      ],
+      "exit": 0,
+      "stdout_sha256": "563fcecdf4b4d7625baee7cffa09db53f087a63d437a2846e28912dbd4a598a3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a4ae93af7c2f15ec84321d4c051ade99c91a6d76"
+      ],
+      "exit": 0,
+      "stdout_sha256": "563fcecdf4b4d7625baee7cffa09db53f087a63d437a2846e28912dbd4a598a3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e9476e20157fcc613c07720254179dc1ed1413fa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a1dd9e698a644be61b65f1d73229747c7dfc5257c9073b063b85be75757fa1d8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e9476e20157fcc613c07720254179dc1ed1413fa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a1dd9e698a644be61b65f1d73229747c7dfc5257c9073b063b85be75757fa1d8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "1537a6d9f46fbf13d593d1e5b17eeb1240c1f48b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "df8240f8ccab0432c9b5a494b999dcccfdcf27be1d489f68adfa1dc77fbdbf9a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "1537a6d9f46fbf13d593d1e5b17eeb1240c1f48b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "df8240f8ccab0432c9b5a494b999dcccfdcf27be1d489f68adfa1dc77fbdbf9a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e77e1853dbf979a471e5cc1df4047c730d78ec53"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5f956648df15893fae3b2925905b1a4a2b7d6e9b4d340726669f19a547829868",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e77e1853dbf979a471e5cc1df4047c730d78ec53"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5f956648df15893fae3b2925905b1a4a2b7d6e9b4d340726669f19a547829868",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "badc5fbedbc1694cf55cf8a851844ffe31e69e4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "75f9ddf35308bcceb28f5847bd792707702511b3e3c0361a3f5c0bcfc511fe71",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "badc5fbedbc1694cf55cf8a851844ffe31e69e4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "75f9ddf35308bcceb28f5847bd792707702511b3e3c0361a3f5c0bcfc511fe71",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c7de13399d35b9b206d593a92f3dd134bfda06c0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a28fffbe4e2fbd48682bcd1c90186af566e30a15129089278f9f6ea11093f046",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c7de13399d35b9b206d593a92f3dd134bfda06c0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a28fffbe4e2fbd48682bcd1c90186af566e30a15129089278f9f6ea11093f046",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "21822b933a6e60f2baaf800919d25feda5aebc34"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9752d01d4128b3fb86488875f2dac3685db51985bc2592544de97f36ffd7ee53",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "21822b933a6e60f2baaf800919d25feda5aebc34"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9752d01d4128b3fb86488875f2dac3685db51985bc2592544de97f36ffd7ee53",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "276a1b0a0539725207d2e44656cfa1db0126d789"
+      ],
+      "exit": 0,
+      "stdout_sha256": "322b616296c881b31c6f48c258f87faa40cb83797a7122c6a8a9c2c933d908c4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "276a1b0a0539725207d2e44656cfa1db0126d789"
+      ],
+      "exit": 0,
+      "stdout_sha256": "322b616296c881b31c6f48c258f87faa40cb83797a7122c6a8a9c2c933d908c4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "ff1d2664debe2c274d885bd91d16fa65121919a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5676cc92ff83b8ce61b7368bd21ce9d18340aa2bf3710ba5fe2a7f46767142a6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "ff1d2664debe2c274d885bd91d16fa65121919a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5676cc92ff83b8ce61b7368bd21ce9d18340aa2bf3710ba5fe2a7f46767142a6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4b47a30f8f42a75ef23737097b1695a63a2f10fa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0179508ca7204b52008b5b4be235c4e83b69f612444dc4472849e654914038a3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4b47a30f8f42a75ef23737097b1695a63a2f10fa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0179508ca7204b52008b5b4be235c4e83b69f612444dc4472849e654914038a3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "bc45e28ce835c3060163eea3d33e65f84ae2c186"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3669eaeeb849c00acab505740756b4e94d6e8b242f1b138bfd3587833ec37a0c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "bc45e28ce835c3060163eea3d33e65f84ae2c186"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3669eaeeb849c00acab505740756b4e94d6e8b242f1b138bfd3587833ec37a0c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4639fc4a4fd64c76729fae32cf1b43e186328bc0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5d7f801fe173cc22432f0f14fb344cb7ebf66f815e14e68a60411687b4bffb03",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4639fc4a4fd64c76729fae32cf1b43e186328bc0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5d7f801fe173cc22432f0f14fb344cb7ebf66f815e14e68a60411687b4bffb03",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c4f3a615e5e740ffee3c4cf8353969e3134d44f3"
+      ],
+      "exit": 0,
+      "stdout_sha256": "cb0f18a774637895d8240c323f46c2dfe9dfca2735119aa9fd2e863c0553080d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c4f3a615e5e740ffee3c4cf8353969e3134d44f3"
+      ],
+      "exit": 0,
+      "stdout_sha256": "cb0f18a774637895d8240c323f46c2dfe9dfca2735119aa9fd2e863c0553080d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "334671cf2aaf55a9cf8c8b2c130e1b7db3d8c4b5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ca89fa9e8ee6792e89152798f136ba95bf3cdd8eefaadc405f4665ddf8c286c3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "334671cf2aaf55a9cf8c8b2c130e1b7db3d8c4b5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ca89fa9e8ee6792e89152798f136ba95bf3cdd8eefaadc405f4665ddf8c286c3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e54a43fe69002a20aa539dd6c70f29d4b7302f62"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a3467085c7125ecdf7d015bc5f7aa4e181290063fa44bd749057da288e52b178",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e54a43fe69002a20aa539dd6c70f29d4b7302f62"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a3467085c7125ecdf7d015bc5f7aa4e181290063fa44bd749057da288e52b178",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a755139dd7af82f4b96264baa7a13156844a26e4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "05e4a640c34363184bae9615899518620ec065d08168866a0dab0103214a9e06",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a755139dd7af82f4b96264baa7a13156844a26e4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "05e4a640c34363184bae9615899518620ec065d08168866a0dab0103214a9e06",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "389a32a658b82a58ed4c1f69ad3adfe185f6a3c0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d85a8d2bbeb507ef24bffa8986bee6af7b913ba23a2f62981cb8ae65cece4080",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "389a32a658b82a58ed4c1f69ad3adfe185f6a3c0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d85a8d2bbeb507ef24bffa8986bee6af7b913ba23a2f62981cb8ae65cece4080",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "09a09dfb39cf603180b6e58ddb375b7f1e535322"
+      ],
+      "exit": 0,
+      "stdout_sha256": "36b6f099fedb15c4cec28ed102b9c8ed2d4f9d25a18ace1ea3d06389c85664be",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "09a09dfb39cf603180b6e58ddb375b7f1e535322"
+      ],
+      "exit": 0,
+      "stdout_sha256": "36b6f099fedb15c4cec28ed102b9c8ed2d4f9d25a18ace1ea3d06389c85664be",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e89e5bff8f1373d98130d0d8c28d0da30f300623"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0da88c55d7393c5a8741660f2d4ccac403f1a31104c79e5578e3f98fd639de59",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e89e5bff8f1373d98130d0d8c28d0da30f300623"
+      ],
+      "exit": 0,
+      "stdout_sha256": "0da88c55d7393c5a8741660f2d4ccac403f1a31104c79e5578e3f98fd639de59",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "1081389049168ed1cbe0065d7d161ae16315ac74"
+      ],
+      "exit": 0,
+      "stdout_sha256": "acc0d23cd21aa194863dc7a61fae02817a400213805cf01aabfc890b05bc9076",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "1081389049168ed1cbe0065d7d161ae16315ac74"
+      ],
+      "exit": 0,
+      "stdout_sha256": "acc0d23cd21aa194863dc7a61fae02817a400213805cf01aabfc890b05bc9076",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "28c1d96a658a531750396f0cbacec98100d5455d"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3da007ae3b15c5d657e6c89f9d2f240f582e4642f4256e5bc42465542e83891",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "28c1d96a658a531750396f0cbacec98100d5455d"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3da007ae3b15c5d657e6c89f9d2f240f582e4642f4256e5bc42465542e83891",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4a97a5d721b45eac264c53261d6db4d5e7b5cf7f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b34238a1d0dbc640afce1206850e1295451b137f244e59a71c31cdaf16663db9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4a97a5d721b45eac264c53261d6db4d5e7b5cf7f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b34238a1d0dbc640afce1206850e1295451b137f244e59a71c31cdaf16663db9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "bb5f99c111cd5aaf784e73e67bde354023b1b5f2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c1a87e490d249a40371d2569d2246166b754cbb60d2baa0d73498b14494f425",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "bb5f99c111cd5aaf784e73e67bde354023b1b5f2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c1a87e490d249a40371d2569d2246166b754cbb60d2baa0d73498b14494f425",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "387fbc94916ae23b8440d94958cd0e29d93527ac"
+      ],
+      "exit": 0,
+      "stdout_sha256": "42cc8a32661aca238b554a29c8f1f712aa8770908402e3989714f6cd57463b4d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "387fbc94916ae23b8440d94958cd0e29d93527ac"
+      ],
+      "exit": 0,
+      "stdout_sha256": "42cc8a32661aca238b554a29c8f1f712aa8770908402e3989714f6cd57463b4d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "60c0caf3b583e6e4d077926cfc6a77887f643343"
+      ],
+      "exit": 0,
+      "stdout_sha256": "612864a71c3ab9c009beb1244402b8bcbd19294f54d6ddcc5982fa7d8c0f9f32",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "60c0caf3b583e6e4d077926cfc6a77887f643343"
+      ],
+      "exit": 0,
+      "stdout_sha256": "612864a71c3ab9c009beb1244402b8bcbd19294f54d6ddcc5982fa7d8c0f9f32",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "36febd93c454a3694844f467a285e8ff0dc1bdaa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ffd8802da91a04c19ffbc2b1f57f4141b78d4c4df8850da731e00a76979a02ab",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "36febd93c454a3694844f467a285e8ff0dc1bdaa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ffd8802da91a04c19ffbc2b1f57f4141b78d4c4df8850da731e00a76979a02ab",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f59bb34e212c2563040badfa4003dfd48937a152"
+      ],
+      "exit": 0,
+      "stdout_sha256": "aacb5d0a78445133302efe01a6407bdabbbcb28a594e6c5d21c7bca61cdf4788",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f59bb34e212c2563040badfa4003dfd48937a152"
+      ],
+      "exit": 0,
+      "stdout_sha256": "aacb5d0a78445133302efe01a6407bdabbbcb28a594e6c5d21c7bca61cdf4788",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "60359fc7011cc3586e3955f4fa4517cc11f166bc"
+      ],
+      "exit": 0,
+      "stdout_sha256": "587bd4cd01aef9aee8efceac6b109ef74b36606566cd16ccc30968deebd91d88",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "60359fc7011cc3586e3955f4fa4517cc11f166bc"
+      ],
+      "exit": 0,
+      "stdout_sha256": "587bd4cd01aef9aee8efceac6b109ef74b36606566cd16ccc30968deebd91d88",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4aabf054c217cfd5cdca46456d11f25de0211bbf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5f87f5e8bdf2049d6bd0c256d43897eb25c27b80f7935ed7a851c6097c4a0081",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4aabf054c217cfd5cdca46456d11f25de0211bbf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5f87f5e8bdf2049d6bd0c256d43897eb25c27b80f7935ed7a851c6097c4a0081",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "dfc510ba1e284c9b6d74b2acfdd66d71bc18803c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "28dd288e45541a4dc5eaa9eb771396d978c8ca33277c7776e9e596623d7795c2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "dfc510ba1e284c9b6d74b2acfdd66d71bc18803c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "28dd288e45541a4dc5eaa9eb771396d978c8ca33277c7776e9e596623d7795c2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7aacab06b733a608f278c3d74a50fa6dab725f9d"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3d346f8848d9d629fb8dba13fdb2dee4f862a2ab4648e08d0b18ed0da2860138",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7aacab06b733a608f278c3d74a50fa6dab725f9d"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3d346f8848d9d629fb8dba13fdb2dee4f862a2ab4648e08d0b18ed0da2860138",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f06a9af07ea36b43809891c43c501b43ed926539"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4bcefe211356fb1879b2be0cb8b83e2d960be730060a11e0f12ba75e16d280f1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f06a9af07ea36b43809891c43c501b43ed926539"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4bcefe211356fb1879b2be0cb8b83e2d960be730060a11e0f12ba75e16d280f1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e7ed4b9c37d3499ba734c2ed1d923aad4a46fbb2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3e63b30aec9052639f6656a109c0141615b55dca7ce99d67a8f022d64cb90c94",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e7ed4b9c37d3499ba734c2ed1d923aad4a46fbb2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3e63b30aec9052639f6656a109c0141615b55dca7ce99d67a8f022d64cb90c94",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "5a4f6b90e969ada640ebe915c1204606fd4c681f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "08af6ab33e0f9f32a1cd6c12a74f6e5f2d4541e474a716e00835d71ebf5c969f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "5a4f6b90e969ada640ebe915c1204606fd4c681f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "08af6ab33e0f9f32a1cd6c12a74f6e5f2d4541e474a716e00835d71ebf5c969f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "20319089c4085b79ec2b8f600396c71b21dbd392"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d4bcdee01a43613860fd5c26fb4b2095c2a78636d8e05e793d872053c5254d66",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "20319089c4085b79ec2b8f600396c71b21dbd392"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d4bcdee01a43613860fd5c26fb4b2095c2a78636d8e05e793d872053c5254d66",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f57ccf38829b72a031eeba023299cb828a01542b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f57ccf38829b72a031eeba023299cb828a01542b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ae72cdf8b8a21456662f1e4c391670f47a8a4b3728600ad221999e624dc95184",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7d6948e3dfb9f417a632d5f3c0fea487f0534dfa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5fcfd24e8f359f96942419323865a0af999e480df48435712151f33e986c66ae",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7d6948e3dfb9f417a632d5f3c0fea487f0534dfa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "5fcfd24e8f359f96942419323865a0af999e480df48435712151f33e986c66ae",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7cfc2c7ace0072c7ba1e061e1d631ce19b324002"
+      ],
+      "exit": 0,
+      "stdout_sha256": "7697ee6376e7203350366d6d3ecccff3d605ea1e62beb18c2728bdf29148783e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7cfc2c7ace0072c7ba1e061e1d631ce19b324002"
+      ],
+      "exit": 0,
+      "stdout_sha256": "7697ee6376e7203350366d6d3ecccff3d605ea1e62beb18c2728bdf29148783e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e5ba97c5a9566d467b1b23c4f532748bb4ef5408"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d65b29c297595df20d0aa7f4d67700436d719d870b2772b82eae7bc0d8c8f957",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e5ba97c5a9566d467b1b23c4f532748bb4ef5408"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d65b29c297595df20d0aa7f4d67700436d719d870b2772b82eae7bc0d8c8f957",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "ed5882144e3d0e7667a425e433a53663b85c6c75"
+      ],
+      "exit": 0,
+      "stdout_sha256": "051a5324791f64dd08533cb184b53dac85f2d7601acbf45aec6902750d727fcf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "ed5882144e3d0e7667a425e433a53663b85c6c75"
+      ],
+      "exit": 0,
+      "stdout_sha256": "051a5324791f64dd08533cb184b53dac85f2d7601acbf45aec6902750d727fcf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "ce3219ad5413214a68ae931bd6149efb58c93a4f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e037344a0cebbb86fe46fcc610327d7fdca3b41860f571329c1382d6cda54dbf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "ce3219ad5413214a68ae931bd6149efb58c93a4f"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e037344a0cebbb86fe46fcc610327d7fdca3b41860f571329c1382d6cda54dbf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "545e39e7f3384e4df0b87afbc06d1ce460c22ddb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2133b18c15e251fffa2a4ef0d861956697cea78f643c07ffc6e5a195ba30eefc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "545e39e7f3384e4df0b87afbc06d1ce460c22ddb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2133b18c15e251fffa2a4ef0d861956697cea78f643c07ffc6e5a195ba30eefc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "57228bf386ea31b41e44db4ae088b65413cb7031"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8f1e0905cc92ded79d70e7b688f5e2983867f4f1da0611cd040957ceee01536c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "57228bf386ea31b41e44db4ae088b65413cb7031"
+      ],
+      "exit": 0,
+      "stdout_sha256": "8f1e0905cc92ded79d70e7b688f5e2983867f4f1da0611cd040957ceee01536c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "0d40b429a14e358b7c4cf56b67c3fcaba134681e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2140f6ba705d9aeec56aa970597447f32f3f5ea6a97ef3e231cf7343534ad1c8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "0d40b429a14e358b7c4cf56b67c3fcaba134681e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2140f6ba705d9aeec56aa970597447f32f3f5ea6a97ef3e231cf7343534ad1c8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "edf613ccd36c63d70ffeb7035ee8b899edcdbd30"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c82acffd1e03e6bf4f9fd4aee9126328f52519c1debdc5193de9456de90849c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "edf613ccd36c63d70ffeb7035ee8b899edcdbd30"
+      ],
+      "exit": 0,
+      "stdout_sha256": "6c82acffd1e03e6bf4f9fd4aee9126328f52519c1debdc5193de9456de90849c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "481a3826f18c5a678d847681732d6308d397d6a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ef4d9a4a402b23f644b243d7211faba706f3c798e19b9bfc2d0a3b36e6810393",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "481a3826f18c5a678d847681732d6308d397d6a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ef4d9a4a402b23f644b243d7211faba706f3c798e19b9bfc2d0a3b36e6810393",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "fa69e30c4b87c2a086ee64896943473ab7819583"
+      ],
+      "exit": 0,
+      "stdout_sha256": "1760555990123155b3f16a685dce082430ee7de95179ac0aaeb68c5e77eda0c0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "fa69e30c4b87c2a086ee64896943473ab7819583"
+      ],
+      "exit": 0,
+      "stdout_sha256": "1760555990123155b3f16a685dce082430ee7de95179ac0aaeb68c5e77eda0c0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "962545a0a175ca92ac46d635fffb07212d7ba677"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fd5a5ad287fe12002e04b5968035f299b042a1c1d50805e601d0a3b5d14bb126",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "962545a0a175ca92ac46d635fffb07212d7ba677"
+      ],
+      "exit": 0,
+      "stdout_sha256": "fd5a5ad287fe12002e04b5968035f299b042a1c1d50805e601d0a3b5d14bb126",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c0e899f18ab06817a5600c98cff48d60d4323206"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ce57ed0c738218c637a268fc300484c913fd11e2769ce033b29d1609bdd8a028",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c0e899f18ab06817a5600c98cff48d60d4323206"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ce57ed0c738218c637a268fc300484c913fd11e2769ce033b29d1609bdd8a028",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "3d28b9bfde4fbcb34c8759fbc9156d1d220e09cf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3cb5a0cd9d06bd752872a142ae771fb1bfc9a05ece7d10ba3dbc3e5dad5673ea",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "3d28b9bfde4fbcb34c8759fbc9156d1d220e09cf"
+      ],
+      "exit": 0,
+      "stdout_sha256": "3cb5a0cd9d06bd752872a142ae771fb1bfc9a05ece7d10ba3dbc3e5dad5673ea",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c3af902e81018f04da225a9cc3529aa7c77db50b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "88ed4ca15c8a2615043cf0491e35584e1c5c90e4884a78622f570dbb2a62ee4a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c3af902e81018f04da225a9cc3529aa7c77db50b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "88ed4ca15c8a2615043cf0491e35584e1c5c90e4884a78622f570dbb2a62ee4a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "2163348ad1153c50cce3746a48cacd3967205376"
+      ],
+      "exit": 0,
+      "stdout_sha256": "814bef7c2186b244c06da8e72a084153c8f6e0f46d6cff787b28c79f7d2d0112",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "2163348ad1153c50cce3746a48cacd3967205376"
+      ],
+      "exit": 0,
+      "stdout_sha256": "814bef7c2186b244c06da8e72a084153c8f6e0f46d6cff787b28c79f7d2d0112",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "094eedf6281b91dff39ae99fa90f755b2a4bf6d6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4bb22b071d178e1087718bac0a749235f7d81360af96795ee8aaf4c6d5a9ba50",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "094eedf6281b91dff39ae99fa90f755b2a4bf6d6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4bb22b071d178e1087718bac0a749235f7d81360af96795ee8aaf4c6d5a9ba50",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "814bbf9df967e03928af45ab8fd856fd49f356e9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c7f148b7a494963451ff8878107ae837a7f4eae662e682942d7de8c7ad783bbe",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "814bbf9df967e03928af45ab8fd856fd49f356e9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c7f148b7a494963451ff8878107ae837a7f4eae662e682942d7de8c7ad783bbe",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "396f4dfb2a62097a63783da7028f8d555461b357"
+      ],
+      "exit": 0,
+      "stdout_sha256": "cbc70deaccfd9d7a2de8f143b332b86d0e7f0c295659da7895b400338a9c7907",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "396f4dfb2a62097a63783da7028f8d555461b357"
+      ],
+      "exit": 0,
+      "stdout_sha256": "cbc70deaccfd9d7a2de8f143b332b86d0e7f0c295659da7895b400338a9c7907",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "79b8d55d2b4f7a1923d3ebd5dbf13eb5aef1988c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b916716617eef5d7651d748fbfed610b45b28af408369019d2cb914a5c01c1b9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "79b8d55d2b4f7a1923d3ebd5dbf13eb5aef1988c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b916716617eef5d7651d748fbfed610b45b28af408369019d2cb914a5c01c1b9",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "f6075273c5f303b3188af097a72f5852c9eef2ef"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b826deec9488e812d898ac39b65594ca61634e9ebf661bbd80599ddf9536e0c5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "f6075273c5f303b3188af097a72f5852c9eef2ef"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b826deec9488e812d898ac39b65594ca61634e9ebf661bbd80599ddf9536e0c5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "9c1bbb3d4509d0a69460b1b4b57615c4a82c0d5e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f3757506ed18c4f400242dc3385bee96f88939f39adf62f36288b1e6e1044636",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "9c1bbb3d4509d0a69460b1b4b57615c4a82c0d5e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f3757506ed18c4f400242dc3385bee96f88939f39adf62f36288b1e6e1044636",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "5c67b1f30b00badbd4f842898f6e3a890b8529ff"
+      ],
+      "exit": 0,
+      "stdout_sha256": "781f48daeef1be25af54f6beb9632dbaeb59b4cc6c7b38cb6cb8ba57a1720cda",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "5c67b1f30b00badbd4f842898f6e3a890b8529ff"
+      ],
+      "exit": 0,
+      "stdout_sha256": "781f48daeef1be25af54f6beb9632dbaeb59b4cc6c7b38cb6cb8ba57a1720cda",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "1f6480a565cb7d93ef31f914f47feae1c18c457a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "58b6e2ff1b6a39ff7cfcba380ee52f0324cf0910212cfb537a790969ab29c1f2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "1f6480a565cb7d93ef31f914f47feae1c18c457a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "58b6e2ff1b6a39ff7cfcba380ee52f0324cf0910212cfb537a790969ab29c1f2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "974debe70dab0a44d0d0bc1febc18f4ecb5b1570"
+      ],
+      "exit": 0,
+      "stdout_sha256": "51ca217cef640b2dbe4c7721ccb70c7281ca7444ee9cde71f3f9a5a18b5831bd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "974debe70dab0a44d0d0bc1febc18f4ecb5b1570"
+      ],
+      "exit": 0,
+      "stdout_sha256": "51ca217cef640b2dbe4c7721ccb70c7281ca7444ee9cde71f3f9a5a18b5831bd",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "8f24a87a933c0bec8a02013a51bb56f0416049a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "19f317dc24b605ca1ecab14732f727629a929fc851eb59392470be49725d784c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "8f24a87a933c0bec8a02013a51bb56f0416049a7"
+      ],
+      "exit": 0,
+      "stdout_sha256": "19f317dc24b605ca1ecab14732f727629a929fc851eb59392470be49725d784c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "3fb6b32517c9fba8ab3c39dbca77f8ccec082ee1"
+      ],
+      "exit": 0,
+      "stdout_sha256": "10ae994a0107c64ad75d9e7902b50c8b19794e6aa6cd0698c70bcf84eb17b3bc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "3fb6b32517c9fba8ab3c39dbca77f8ccec082ee1"
+      ],
+      "exit": 0,
+      "stdout_sha256": "10ae994a0107c64ad75d9e7902b50c8b19794e6aa6cd0698c70bcf84eb17b3bc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "2ac653ceef04b2e546f271b634db62c0786102f9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "afb0b2a2573729efbb00ee8c572f1a9afcfb140c594f3f8923378ec1d7a48264",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "2ac653ceef04b2e546f271b634db62c0786102f9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "afb0b2a2573729efbb00ee8c572f1a9afcfb140c594f3f8923378ec1d7a48264",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b2e13823c73851016ecad6ad3a3bb653a5ae3d4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ab30b7ce23da76a4b69e932e0018355b2d89a853bc71508b22c4d03319aaa255",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b2e13823c73851016ecad6ad3a3bb653a5ae3d4b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "ab30b7ce23da76a4b69e932e0018355b2d89a853bc71508b22c4d03319aaa255",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "0561847d3100b4beb8b5531f64082fb64ab5f5c6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f6fb75f8ef408a5fa6de6b21514c1fcf25cb8cbace722012626896aa4c8dc40a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "0561847d3100b4beb8b5531f64082fb64ab5f5c6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f6fb75f8ef408a5fa6de6b21514c1fcf25cb8cbace722012626896aa4c8dc40a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "cbb8511338e045bd215838c993ee3f5530ba2de2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "25c4cfe0dbcc2b27120cf9d70b5c737d4f859949fc765b051202c197ab8f4587",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "cbb8511338e045bd215838c993ee3f5530ba2de2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "25c4cfe0dbcc2b27120cf9d70b5c737d4f859949fc765b051202c197ab8f4587",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "83ec48a339fe8325530524a0656a34f4ee511226"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b761c1a6da7bf3ecf23288f7d0f4ab83b5fbd3570bb527cc708528d8db6117a5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "83ec48a339fe8325530524a0656a34f4ee511226"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b761c1a6da7bf3ecf23288f7d0f4ab83b5fbd3570bb527cc708528d8db6117a5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e66686b9428e804fe2dbced4ecaffa49def3fbce"
+      ],
+      "exit": 0,
+      "stdout_sha256": "58d4a395f5d13c3171071344aea66690991562599e0e2b4483565d6cee3928d8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e66686b9428e804fe2dbced4ecaffa49def3fbce"
+      ],
+      "exit": 0,
+      "stdout_sha256": "58d4a395f5d13c3171071344aea66690991562599e0e2b4483565d6cee3928d8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "fab9b21444a7061b1545b64d6f2834737ab7cde9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d7ddfddae11c0ee22163ba5048a3be46da95ab4480e7ffbd0cceaf9e44d284eb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "fab9b21444a7061b1545b64d6f2834737ab7cde9"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d7ddfddae11c0ee22163ba5048a3be46da95ab4480e7ffbd0cceaf9e44d284eb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "89ca166875b114cfdef8caaa019ac9052f5a5077"
+      ],
+      "exit": 0,
+      "stdout_sha256": "eef1495db14c0a2741b5cb767afad49c25ee21e216805580f79a16431e441fa3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "89ca166875b114cfdef8caaa019ac9052f5a5077"
+      ],
+      "exit": 0,
+      "stdout_sha256": "eef1495db14c0a2741b5cb767afad49c25ee21e216805580f79a16431e441fa3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "fa5222308fdc6266390b5a9e507ee2dd788c1fc0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "78b9d1f4fed9fa0d4c9e587dfc0069e9532a5cd8653a697b29a275a4d46ea983",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "fa5222308fdc6266390b5a9e507ee2dd788c1fc0"
+      ],
+      "exit": 0,
+      "stdout_sha256": "78b9d1f4fed9fa0d4c9e587dfc0069e9532a5cd8653a697b29a275a4d46ea983",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "1ed1970bfc0950e34999b58d8494483b175c1643"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4d9ed78f60af7a5ad651057726471952fb358a525b885e4aa900642016349543",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "1ed1970bfc0950e34999b58d8494483b175c1643"
+      ],
+      "exit": 0,
+      "stdout_sha256": "4d9ed78f60af7a5ad651057726471952fb358a525b885e4aa900642016349543",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "29ab9c7edc50186da74c0b1049cb37d07653092e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9281e7182c21ee5758e3e56c26e40d05bbe04f752d5e8da72a05fafa496dcf59",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "29ab9c7edc50186da74c0b1049cb37d07653092e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9281e7182c21ee5758e3e56c26e40d05bbe04f752d5e8da72a05fafa496dcf59",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "050791ae83696f3738f0e347b519f736f8dde4df"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c18d6e51aa770094e6dfd58c4d141b36a6c6f0d9ecdeee57f2059ffdf95ad071",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "050791ae83696f3738f0e347b519f736f8dde4df"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c18d6e51aa770094e6dfd58c4d141b36a6c6f0d9ecdeee57f2059ffdf95ad071",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "b14792313e180ebe18386cd875b824eed3f0db49"
+      ],
+      "exit": 0,
+      "stdout_sha256": "097629cc378d6b69ceba313f26f16f0c4e2556645e51110c16def218354847a2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "b14792313e180ebe18386cd875b824eed3f0db49"
+      ],
+      "exit": 0,
+      "stdout_sha256": "097629cc378d6b69ceba313f26f16f0c4e2556645e51110c16def218354847a2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "dd772712dc507f4ebe747710e25da6b90aaa2bec"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c5b9439218f90d06bdbe2f814e9024e993412e06af19df8690f9096f820c6cb5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "dd772712dc507f4ebe747710e25da6b90aaa2bec"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c5b9439218f90d06bdbe2f814e9024e993412e06af19df8690f9096f820c6cb5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "4d13742dff0204cab28602d21c71a8576a22e17b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "91aa7fe709e7f1d71a17d54a51d258a4a9ec0b9b5ce5f815923199aa2124fabc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "4d13742dff0204cab28602d21c71a8576a22e17b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "91aa7fe709e7f1d71a17d54a51d258a4a9ec0b9b5ce5f815923199aa2124fabc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "1a7a0b48f08747197285ed11e0a3115f70f8fb2c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "95be612be7e0d48b281a0ea7552e6bb774792b0a0f6340f91791f53c29be4194",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "1a7a0b48f08747197285ed11e0a3115f70f8fb2c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "95be612be7e0d48b281a0ea7552e6bb774792b0a0f6340f91791f53c29be4194",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7db92a8ca033a631f4c14cfe4a773a8239fc84a6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "12ef5f55386a9f68e1b5019d52555d1573e2356408bf584e1a038d09e1d86045",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7db92a8ca033a631f4c14cfe4a773a8239fc84a6"
+      ],
+      "exit": 0,
+      "stdout_sha256": "12ef5f55386a9f68e1b5019d52555d1573e2356408bf584e1a038d09e1d86045",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a5608471ece16de4ef08792bb5474c053ca55d3e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "908ac390ad20f2ea6bbb053a76a1fbd8cbe3cc6081c0825b9b893537e185b63e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a5608471ece16de4ef08792bb5474c053ca55d3e"
+      ],
+      "exit": 0,
+      "stdout_sha256": "908ac390ad20f2ea6bbb053a76a1fbd8cbe3cc6081c0825b9b893537e185b63e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "7606d946d3df85cae42d2ad6e5e8b4d6febd0277"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b2728b587911053453d577d3cdc4bf9c833c7cc6d6ccae6d0f15dbe7c86fa199",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "7606d946d3df85cae42d2ad6e5e8b4d6febd0277"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b2728b587911053453d577d3cdc4bf9c833c7cc6d6ccae6d0f15dbe7c86fa199",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "18b6680f151e83167d65d4fd9de109295f466faa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2c46a61a13b20aa8176d26e7192b0bc11507d1ed5047a33cc13bead1242b648b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "18b6680f151e83167d65d4fd9de109295f466faa"
+      ],
+      "exit": 0,
+      "stdout_sha256": "2c46a61a13b20aa8176d26e7192b0bc11507d1ed5047a33cc13bead1242b648b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "6aa0b682662ae3aaf826d9128e0ea89f0dcc072c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c9d5e0d7fc1a20e5ecec040720eb7da82534b3f6706fa948aa5b010d142ce8e6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "6aa0b682662ae3aaf826d9128e0ea89f0dcc072c"
+      ],
+      "exit": 0,
+      "stdout_sha256": "c9d5e0d7fc1a20e5ecec040720eb7da82534b3f6706fa948aa5b010d142ce8e6",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a8b2d2f88d732b9bb5ebdb073ed8db03641cddd4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9083d73311ea619f99601938dee97a227918da75a81176458cd996032bb324a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a8b2d2f88d732b9bb5ebdb073ed8db03641cddd4"
+      ],
+      "exit": 0,
+      "stdout_sha256": "9083d73311ea619f99601938dee97a227918da75a81176458cd996032bb324a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "837ba684559f6f4ca56108599cddb8f96ec25397"
+      ],
+      "exit": 0,
+      "stdout_sha256": "dfa5fad4bd1aeb6a97025b33a19350dd550065315e4fd46ca976fb034c60c168",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "837ba684559f6f4ca56108599cddb8f96ec25397"
+      ],
+      "exit": 0,
+      "stdout_sha256": "dfa5fad4bd1aeb6a97025b33a19350dd550065315e4fd46ca976fb034c60c168",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e7706fbc0421b7522123d1c5c2e1a40e7aa11531"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d06435b5cb7d4d11e1f0020dac0b5f375d445f8a2bc92e77838fb3cb85b49505",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e7706fbc0421b7522123d1c5c2e1a40e7aa11531"
+      ],
+      "exit": 0,
+      "stdout_sha256": "d06435b5cb7d4d11e1f0020dac0b5f375d445f8a2bc92e77838fb3cb85b49505",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "59129c7dd67960920ae2eb5b619e07fe864ee3f2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1eddbe75866b155da5f6870e1f93ab6cc11b4c7109ab68044c2fd80e9043424",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "59129c7dd67960920ae2eb5b619e07fe864ee3f2"
+      ],
+      "exit": 0,
+      "stdout_sha256": "f1eddbe75866b155da5f6870e1f93ab6cc11b4c7109ab68044c2fd80e9043424",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "21c711b230060887de199a3fe1b938ccfcd167fb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "83d50a58b0f8e179f90fea487da7352d8ebcfe214e3b416a8c2a359132046491",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "21c711b230060887de199a3fe1b938ccfcd167fb"
+      ],
+      "exit": 0,
+      "stdout_sha256": "83d50a58b0f8e179f90fea487da7352d8ebcfe214e3b416a8c2a359132046491",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "e4059e23873dd625b4879567b3c17484326a87db"
+      ],
+      "exit": 0,
+      "stdout_sha256": "edc84d899b09decd9eafd90a78094f86c72a8b1ce221a4adbd93636cb99a462a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "e4059e23873dd625b4879567b3c17484326a87db"
+      ],
+      "exit": 0,
+      "stdout_sha256": "edc84d899b09decd9eafd90a78094f86c72a8b1ce221a4adbd93636cb99a462a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "a6b780e5b73c0af286be0ccfe3ec22faa043b63b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a6444ff821f4ac539618cd33a4a2220107748090e90bd1903d628b2be280b485",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "a6b780e5b73c0af286be0ccfe3ec22faa043b63b"
+      ],
+      "exit": 0,
+      "stdout_sha256": "a6444ff821f4ac539618cd33a4a2220107748090e90bd1903d628b2be280b485",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "64b7ad8b6fe2bfd5779c9317ed9a3b123485e102"
+      ],
+      "exit": 0,
+      "stdout_sha256": "18f57799f091fe4be8a829a1fbbe891f33b57d5f4d8a50df49f755082d5398a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "64b7ad8b6fe2bfd5779c9317ed9a3b123485e102"
+      ],
+      "exit": 0,
+      "stdout_sha256": "18f57799f091fe4be8a829a1fbbe891f33b57d5f4d8a50df49f755082d5398a1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "6cf591375913718c34dc68c2f8d4c0b267edb34a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "405ced0cb549f1b14b50b3f6fa88dab54083a74e291d563dbc32a63021fff5f3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "6cf591375913718c34dc68c2f8d4c0b267edb34a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "405ced0cb549f1b14b50b3f6fa88dab54083a74e291d563dbc32a63021fff5f3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "5ecd342438112dd5a75d4cca7f22e5bea292961a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "49506e46ab1486de99e1b2c2883a0cf42a1f564e97c6cdf84fc04d89347534bb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "5ecd342438112dd5a75d4cca7f22e5bea292961a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "49506e46ab1486de99e1b2c2883a0cf42a1f564e97c6cdf84fc04d89347534bb",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "bf13e1b61bedf11e1fd66839cdb9f0dfe6084b5a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e5cb7deb73b84a71914981df02fb5d3b5f39d60ae1cf2bf60b17cff3e5f4257e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "bf13e1b61bedf11e1fd66839cdb9f0dfe6084b5a"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e5cb7deb73b84a71914981df02fb5d3b5f39d60ae1cf2bf60b17cff3e5f4257e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "cat-file",
+        "blob",
+        "c685d24ee8f1dc266711c365eb6f865bbfef29f5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b874693a31e5255c3b71cbd9aa4bee4a12efd3a4bf03b62d4d86e4d9029f4bf7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/builder-h039-asset-local-7be3a5ab-20260912",
+        "cat-file",
+        "blob",
+        "c685d24ee8f1dc266711c365eb6f865bbfef29f5"
+      ],
+      "exit": 0,
+      "stdout_sha256": "b874693a31e5255c3b71cbd9aa4bee4a12efd3a4bf03b62d4d86e4d9029f4bf7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5",
+        "fsck",
+        "--full"
+      ],
+      "exit": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

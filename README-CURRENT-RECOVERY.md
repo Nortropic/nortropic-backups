@@ -1,5 +1,38 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senare H039 P005366dd — Git-objekt återställda, kvalificering röd
+
+Privata repot ID1367371291 kontrollerades före överföring. Ny release
+`backup-20260912-h039-product-P-005366dd` ID387676316 innehåller asset559802438,
+`h039-product-P-005366dd-incremental.bundle`,9603B, SHA256
+`f6f7e95b97d49f1d1c12cc1559d46f0727d870d9d785d0509c978af68a3cf30a`.
+Upload36a387→f14b9c exit0, serverdigest5ec5f3 och faktisk download5923d1→90c58e
+matchade. Den kräver redan verifierade B8095- och C7be3-bundlar nedan.
+
+`H039-P-005366DD-BUNDLE-RESTORE.json` är faktiskt återställningskvitto:
+`RESTORE-H039-P-005366DD.py` SHA256
+`b0745e1855822b1bed5d3581cf04d1cdc29759a0e82dd69975c8f144c47277a8`
+kördes96ee56→544ed1 exit0. Ny isolerad bare-yta
+`/private/tmp/nortropic-h039-P-bundle-restore-5r2gc3b5`:306 Git-kommandon exit0,
+raw C/P commits, parentkedja, tree och144 blobs/modes samt fsck verifierade.
+Kvittots SHA256 `7bed5077a86aef1bdc784975ca2497f19614249297e2bee0f58e803149a2a101`.
+B och C hämtades inte på nytt denna gång. Originalindex/admin/dirty/ospårat
+återställs inte genom denna bundle; ingen projektkod kördes och inget raderades.
+
+P `005366dd5e3a9a74d8140c9dd0c0175aea268294`, ensam parent C7be3,
+tree `a548cb8876346eb505906fb3feaa7b8d33ec43aa`, exakt4 produktpaths.
+Den första faktiska lokala final-kvalificeringen gav exit1/RED:
+119 true,1 abort,13 ej nådda rader. H039-child2/UNJUDGEABLE eftersom fixturens
+`.git/info` saknades innan Git-prestate/material. Se
+`H039-P-005366DD-FIRST-FINAL-RECORD.json`. Backupen ger ingen produkt-/runtime-
+eller bootstrapcredit och ersätter inte det bevarade misslyckade försöket.
+
+Ny builder-/metod-/råbygg- och full kvalificeringsevidens ligger fortfarande
+lokalt i `evidence/v316-h039-continuity-review-20260912/` och de uttryckligen
+namngivna rårotarna. Enbart Git-bundle, återställningsverktyg/kvitto och denna
+avgränsade kvalificeringssammanfattning täcks här; inga äldre arkiv får sägas
+innehålla dessa senare filer. Kvarstående filbackup görs som separat delta.
+
 ## Senare H039 C/R4-checkpoint
 
 Efter arkivsnapshot slutfördes även samlad oberoende review av samma immutable C:
