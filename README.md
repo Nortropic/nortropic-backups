@@ -81,7 +81,33 @@ directory metadata, a composed baseline+delta worktree or archived helper execut
 RESTORE-CHAIN-INDEX.json originally recorded local-only status; consult these later
 receipts for transfer progress. Its historical source pins are unchanged.
 
-Next transfer work: the remaining external archives and backup containers.
+External-archive checkpoint: EXTERNAL-ARCHIVE-CONTENT-REVIEW.json records all50
+bounded archive reviews. EXTERNAL-GIT-CONTENT-REVIEW.json closes31 previously
+unknown packs (31,975 objects, fsck0); its sole nested archive is byte-identical
+to the21 Markdown documents in FLAGGED-CONTENT-REVIEW.json. Historical unresolved
+review rows are retained, not rewritten as though already cleared at that time.
+The34 initial clear archives and13 subsequently cleared archives are uploaded;
+their streamed remote verifications are still in progress at this checkpoint.
+
+LARGE-EXTERNAL-MANIFEST.json defines45 consecutive raw128MiB-or-smaller segments
+for the two large scratchpad archives, with part offsets, sizes and hashes and
+whole-archive hashes. The named private release is
+`backup-20260912-large-scratchpad-segments`; upload/readback are in progress.
+Download each archive's parts in manifest order, verify them, concatenate their
+RAW bytes (not gzip), then verify the full archive before any safe extraction.
+The upload helper streams exactly Content-Length bytes through configured gh;
+no credentials are extracted and no local segment payloads are created.
+GitHub API and gh2.97.0 source were checked for this input behavior:
+https://docs.github.com/en/rest/releases/assets#upload-a-release-asset
+and https://github.com/cli/cli/blob/v2.97.0/pkg/cmd/api/http.go .
+LARGE-EXTERNAL-TRANSPORT-TESTS.json covers actual bounded-reader/partition helpers,
+not remote content or filesystem restoration. Do not rerun the upload while the
+existing process is active, clobber parts, or treat a partial release as complete.
+
+The v314 H036 archive remains withheld: one historical log contains raw capability
+values whose custody clearance is not established. It is not sanitized/replaced.
+Cleanup backup containers and reports require their own payload review; restored
+duplicate trees remain local. Next transfer work is these bounded remaining items.
 Full composed baseline+delta restoration and later-work coverage remain open.
 Eight redundant download-cache files were retired after completed restoration;
 their byte-identical local encoded source copies, remote assets and restored trees

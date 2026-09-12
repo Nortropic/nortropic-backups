@@ -1,0 +1,6 @@
+{
+  "positive": 3,
+  "negative": 9,
+  "exit": 0,
+  "scope": "actual chunk reader and partition validator; not remote or runtime credit"
+}
