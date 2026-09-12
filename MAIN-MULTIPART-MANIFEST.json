@@ -1,0 +1,94 @@
+{
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "release_tag": "backup-20260912-main-archive-multipart",
+  "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/nortropic-full.tar",
+  "raw_bytes": 4848679936,
+  "raw_sha256": "b69532a32d38a0ac18065709f501ac7a9e5a40bb966a3890ec9ea6012087bb3c",
+  "parts": [
+    {
+      "name": "nortropic-full-20260910T103342Z.tar.gz",
+      "local_path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/nortropic-full-20260910T103342Z.tar.gz",
+      "offset": 0,
+      "raw_bytes": 2751463424,
+      "raw_sha256": "9b0b2f01b8e4a0dc6c7d4119aa73f82d34551671ceb7795eabd6ba5d35f60eda",
+      "compressed_bytes": 806324802,
+      "compressed_sha256": "f8b1dbbf6d68e90a7498ebaa401f181e13d26f74b070404102518c3cef52bf9a"
+    },
+    {
+      "name": "nortropic-full-20260910T103342Z.part-002.tar-segment.gz",
+      "local_path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/nortropic-full-20260910T103342Z.part-002.tar-segment.gz",
+      "offset": 2751463424,
+      "raw_bytes": 2097216512,
+      "raw_sha256": "7c5422222540a1b63a44206786815f3d8cc3968a4aacdb90ac5ffa1e94675cbf",
+      "compressed_bytes": 706487101,
+      "compressed_sha256": "cb2919b388bac7515df823a9c2634c03a34124a8c744ab51813a28d79176b21c"
+    }
+  ],
+  "encoding": "Two independent single-member gzip segments; concatenate DECOMPRESSED bytes in manifest order to recover exact original tar",
+  "prefix_history": "Unchanged previously incomplete compression output is ONLY part 1. Its failed attempt remains incomplete; whole-archive credit requires BOTH parts and whole hash.",
+  "content_review_sha256": "317c45b9c4929ea3b1be809405baa7edf9f201aa389ba67d4c99859b5016705f",
+  "selftest": {
+    "positive": 1,
+    "negative": [
+      {
+        "case": "missing",
+        "rejected": true
+      },
+      {
+        "case": "reordered",
+        "rejected": true
+      },
+      {
+        "case": "duplicate",
+        "rejected": true
+      },
+      {
+        "case": "altered",
+        "rejected": true
+      },
+      {
+        "case": "truncated",
+        "rejected": true
+      },
+      {
+        "case": "extra_bytes",
+        "rejected": true
+      },
+      {
+        "case": "wrong_offset",
+        "rejected": true
+      },
+      {
+        "case": "wrong_full_hash",
+        "rejected": true
+      },
+      {
+        "case": "wrong_original",
+        "rejected": true
+      }
+    ],
+    "actual_callable": "verify_parts",
+    "archived_code_executed": false
+  },
+  "remote_status": "NOT_UPLOADED",
+  "filesystem_restore": "NOT_RUN",
+  "local_verification": [
+    {
+      "name": "nortropic-full-20260910T103342Z.tar.gz",
+      "compressed_bytes": 806324802,
+      "raw_bytes": 2751463424,
+      "verified": true
+    },
+    {
+      "name": "nortropic-full-20260910T103342Z.part-002.tar-segment.gz",
+      "compressed_bytes": 706487101,
+      "raw_bytes": 2097216512,
+      "verified": true
+    }
+  ],
+  "source_unchanged": true,
+  "free_bytes_after": 17491353600,
+  "verifier_sha256": "c6fa870708ffe0e6051fbae48b63880ebf76b6f25f6232d26769b7a138b370e4",
+  "verifier": "tools/multipart_transport.py"
+}
