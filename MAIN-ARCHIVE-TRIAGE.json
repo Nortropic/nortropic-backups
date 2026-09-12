@@ -1,0 +1,316 @@
+{
+  "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/nortropic-full.tar",
+  "sha256": "b69532a32d38a0ac18065709f501ac7a9e5a40bb966a3890ec9ea6012087bb3c",
+  "bytes": 4848679936,
+  "entries": 321051,
+  "regular_members": 282785,
+  "logical_regular_bytes": 4266945226,
+  "unique_contents": 10990,
+  "findings": [
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/scripts/claude-loop/auth-runtime-smoke.ts",
+      "content_sha256": "f7ef9868ce9e4ac11273d9624a660722b191b7cb05180a0602e9afa0a601b70a",
+      "category": "literal_secret",
+      "offset": 1952
+    },
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/tests/loop/v10-security-hardening.test.ts",
+      "content_sha256": "51de393acbacfb7680a6d411b9002739931851ba3d753e1d962d7c419e76957c",
+      "category": "private_key",
+      "offset": 31980
+    },
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/tests/loop/v10-security-hardening.test.ts",
+      "content_sha256": "51de393acbacfb7680a6d411b9002739931851ba3d753e1d962d7c419e76957c",
+      "category": "github_token",
+      "offset": 31783
+    },
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/tests/claude-loop/visual-auth-exact-target.test.ts",
+      "content_sha256": "e7e9e5840fa4de0828d4eb1bdb5ac9a57530cb185e16c87d92b4f1069203a128",
+      "category": "literal_secret",
+      "offset": 485
+    },
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/tests/claude-loop/visual-auth-loopback.test.ts",
+      "content_sha256": "1a60f46b9a43ac5aad6682842a5c2c9f80da0c6205c4b1c168b3cff52b9e14ea",
+      "category": "literal_secret",
+      "offset": 380
+    },
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/tests/claude-loop/visual-auth.test.ts",
+      "content_sha256": "67e0705eed315646fb9c8625cb1b051348286757b951bb76d56cc96db50bc020",
+      "category": "literal_secret",
+      "offset": 6130
+    }
+  ],
+  "unreviewed_payloads": [
+    {
+      "path": "nortropic/worktrees/review-document-authority-product-r2-20260909/.git/objects/pack/pack-b50ad10171ff2037ba2626ce53d23649bc6456b8.pack",
+      "sha256": "5c1b0a26c11d6a6e9a0018619e8434957248afe11a226a2756db824f29d57cfe",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6832614
+    },
+    {
+      "path": "nortropic/worktrees/builder-document-authority-20260909/.git/objects/pack/pack-1c995841f5cd768ac27e7f24a01a2917d1ae920f.pack",
+      "sha256": "1b66b5d02333cd31215262c1c9496f5da2663b84c9e5112ea203d0e8dfeffc1a",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6832593
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r28-installed-binding-f0877daa/.git/objects/pack/pack-56372227642af0b8b677a111219aded604b96223.pack",
+      "sha256": "effa1c7278a37974738075320b307d0aad2ff334c5fb24567a81d82823d338fc",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7131931
+    },
+    {
+      "path": "nortropic/worktrees/reviewer-python-interpreter-authority-c4d3581/.git/objects/pack/pack-1425b375179260c356b637cb896f6a66088d5755.pack",
+      "sha256": "8a886f347f91381d6cd215bb47c3e92ddfd4571ffe722ec64b8425a64bf0cad9",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 2800852
+    },
+    {
+      "path": "nortropic/worktrees/reviewer-python-interpreter-authority-c4d3581/.git/objects/pack/pack-c8c029f054fb22fcf41761bad646987d9daafdf3.pack",
+      "sha256": "520ab3fcf43227fa86dc4ab594c2ae4aaa2372e7946ba9f8cd8e122851f97e10",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 649098
+    },
+    {
+      "path": "nortropic/worktrees/reviewer-python-interpreter-authority-c4d3581/.git/objects/pack/pack-5ca4a054a712e4439b24f859eb206aff5810a486.pack",
+      "sha256": "98ea46d2302a8b431c5b8102c13814cd71d67cee37d901943c28e728f29b678d",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 457834
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-formal-gate-review-b-r4/.git/objects/pack/pack-9ae89647cff4404a66f7ee780bdfde0db1d03fc9.pack",
+      "sha256": "7a998583ccca0d3ea589c1e73d26ad8e20212dc2f3c7c6cf9b70d9d07dd3efe8",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6251867
+    },
+    {
+      "path": "nortropic/worktrees/builder-r129-product-exact-sha-3bf/.git/objects/pack/pack-4a8b58824d357f70684d6f20af8b0fb4995c0f33.pack",
+      "sha256": "af8de3be9cbc1caad6da7d476c2b31d7197c93dea7e09aec5f6346b529c31b8c",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 4046833
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-formal-gate-review-b-r3/.git/objects/pack/pack-1fad162acf1a3623f2b9c9246a32a1cd51b40c76.pack",
+      "sha256": "95d228b62e1c06e4b5610ab6ce537f3c2f0fc8fa8d502d15df1c6c53ecb6f2a9",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6249386
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r31-lock-provenance-e1421f35/.git/objects/pack/pack-ce9785a2935efcd85fbd4a53e2f7eff010cf6806.pack",
+      "sha256": "9c0c6e84c4a38c7388c9cff7a563e8de0cbf3525433473a11b974e223de25830",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7692837
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r29-r2-line-limit-compat-a13cd9f6/.git/objects/pack/pack-f03364988851ec1419a86b4bd795c896b0bfed4c.pack",
+      "sha256": "e67b2ed2f327e565dcdca3682055e15e8bc89d7a2220728a3ffa9304420c0b09",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7458038
+    },
+    {
+      "path": "nortropic/worktrees/gate-reviewer-python-authority-ef5daf4/.git/objects/pack/pack-192d231393391ccf180f21ccf9775e486e5ca60f.pack",
+      "sha256": "d31f771b47afb16999e482a905f5ff29ff7d9039a521ec3bf106535a0d934f25",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 317719
+    },
+    {
+      "path": "nortropic/worktrees/review-document-authority-product-20260909/.git/objects/pack/pack-67962159b656c53980c40d21631ad332ea35f77e.pack",
+      "sha256": "fa3655b200461fe6e1fbdf5c8e4d2095b9d9cedafdffb8e9336e83cd897b51df",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6831308
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r29-devt-compat-a13cd9f6/.git/objects/pack/pack-173094a2d6d84f12b504dc1abddcf6ef5410aa92.pack",
+      "sha256": "0f1008887b90c4502b01f1de265d009716761c2bf79d5f80647129bfde74d2d8",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 1624226
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r29-devt-compat-a13cd9f6/.git/objects/pack/pack-350877b2b7ee99acc410f432f7ef439c2cb793d2.pack",
+      "sha256": "079b5e2a0ad72be8b10537c8f11f0ea6a559063acaf082a008e74d1afb0c8c5e",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7588129
+    },
+    {
+      "path": "nortropic/worktrees/review-document-authority-contract-r2-20260909/.git/objects/pack/pack-7a631af9cb3c1a8107ca9b5221af3aea369b8dfb.pack",
+      "sha256": "ec0d0914fea615f77f4c4bed4d3691f87bceacb38f72a3633f2313ca3d134ae1",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6833950
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r28-r2-installed-binding-f0877daa/.git/objects/pack/pack-d3b995e1c3521c0a101a6e1a1c087b6491ed9c3f.pack",
+      "sha256": "324a270fea5f75f17cb1f57e774ea1947f09f11f069d644a3aa3b790c3154a00",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7170273
+    },
+    {
+      "path": "nortropic/worktrees/builder-h039-r14-product-96af0d2f/.git/objects/pack/pack-9af33f29f49c5b5aa5961bccc9350c880a2269e1.pack",
+      "sha256": "4d3130c8a0a7c7cba81e51702f96c31d433ff047b7d1b11cde6e3644e572fde4",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 8828839
+    },
+    {
+      "path": "nortropic/worktrees/h039-git-observe-bm9MI7/repo/.git/objects/pack/pack-8cc32d316fb277dd999d522735c641a285a40eea.pack",
+      "sha256": "82b5457039cd56a988309a9ece5afaaa0a5616882185f40ec0f9711482b16400",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6548316
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-test-author-r3-9b9a638b/.git/objects/pack/pack-8becc21b1d7b6767586ae432c6c3b7f17673620b.pack",
+      "sha256": "ff9720fcde3cd6a9dc5d493e5ca1da557080c38dd5ccb258c228c95b6f476e16",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6860787
+    },
+    {
+      "path": "nortropic/worktrees/h039-git-product-zcYxXi/repo/.git/objects/pack/pack-0a38eedae9dc2e8e19c8f6a84de41fcd515960f1.pack",
+      "sha256": "3bf8404721bbc48507546cc50a7e51077e8b185f0b7c1ce60a5ab9cbb5d9abeb",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6298609
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r24-installed-completion-8bb7bae9/.git/objects/pack/pack-c86ea8782b9e8f6b85fcab89d724c639b91e184e.pack",
+      "sha256": "d619ab582b0aacc560d24f12b1d7bec0956828ddbadde340928b7e04165d3ba5",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7192171
+    },
+    {
+      "path": "nortropic/worktrees/docs-domain-sync-20260909/.git/objects/pack/pack-333175f1220eb3bacd0b3a7aec232eb860075df3.pack",
+      "sha256": "e94feea5cf78a620e55c215d6de30c0c37cbb868e874ce18ee72a0f905ed4a39",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7791938
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-r4-post-publication-ed584ec3/.git/objects/pack/pack-bd0c462a72a9ebc79fd18f751200ebf77a6b7632.pack",
+      "sha256": "5eae0b65ac0a7e31db055a88cf8b2ba3164488126dc392dfe02a60d8aac9c8bf",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7791938
+    },
+    {
+      "path": "nortropic/worktrees/test-author-h039-r28-r3-exact-delta-f0877daa/.git/objects/pack/pack-359060b0df4e4f6c325954dd74632949578a61c8.pack",
+      "sha256": "6cbacb574300fdd60b76cde1cf87122fae913d970222c3bcbf61b642700932f3",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7174343
+    },
+    {
+      "path": "nortropic/worktrees/test-author-document-authority-20260909/.git/objects/pack/pack-8c05f82940f9f69f8084364e39f603edd10984fa.pack",
+      "sha256": "92575328aaf458185b3b0bfd32755a7f3431141f994ca0ebd495fa8061833439",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 7790710
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-test-author-r4-9b9a638b/.git/objects/pack/pack-6473c0114b7d17a84c03096d13995c019d5f0678.pack",
+      "sha256": "1c2efa9a9026b03922cc0744eec9f884b504db52090b7c539812ef15320e6dcb",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6862100
+    },
+    {
+      "path": "nortropic/worktrees/h039-r33-installed-review-ed584ec3/.git/objects/pack/pack-8fbe0f2ae7921c53f26b2895cc68aa9a08eabbcb.pack",
+      "sha256": "8edb47f450a29f5a795168f07bad18942fcbd1cea84f1857a20f20dba3d5a597",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 6252809
+    },
+    {
+      "path": "nortropic/verkstadsgolvet/.git/objects/pack/pack-3a15d2063b8a43d8960f6e938b57fe9700fdfe53.pack",
+      "sha256": "d3c5ea01b943be538c9f7f5d9d5b3c1bb067e37e7631fc61cbce7880442110bc",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 540061
+    },
+    {
+      "path": "nortropic/verkstadsgolvet/.git/objects/pack/pack-3eceb57a44b9ca074372181f0a6d0daa95f1dd0c.pack",
+      "sha256": "ebb85c30be89e61bf9eea45ce4b702b98d1e6807b7e7ea1414b0d2516423c0ec",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 1144595
+    },
+    {
+      "path": "nortropic/verkstadsgolvet/.git/objects/pack/pack-9b9a1d256e3db38a5d4e8660a60d8d6b08ddf590.pack",
+      "sha256": "e3c41ac80ebdae65f6d9f5b243f2f0b877b6511f02553d991699fb0db8e7574f",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 2495915
+    },
+    {
+      "path": "nortropic/innovation-intake-freshclone-verify/.git/objects/pack/pack-44c353948c8aa380c2c3b8081b11c9f548e9621f.pack",
+      "sha256": "d99377da09b927273148db23fe94a45d85e6a3c0c174f23d865013db6bdabffe",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 2798347
+    },
+    {
+      "path": "nortropic/innovation-intake/_projects/improvements/sources/CONV-022/attachments/ATT-022-004-2d8cbc39da76.tgz",
+      "sha256": "2d8cbc39da762cc088ff170de24e9f3f2513de6c8ae58ba6003f4e34abc6e20d",
+      "reason": "NESTED_COMPRESSED_CONTENT",
+      "size": 13490
+    },
+    {
+      "path": "nortropic/nortropic-system/.git/objects/pack/pack-dc61199c669c067257506e59fa796b1ba025180e.pack",
+      "sha256": "7e8f21778e36da4e4b1a8049a51d898fb8dbcb8d60da38a264a9417288e49aec",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 1970453
+    },
+    {
+      "path": "nortropic/nortropic-system/.git/objects/pack/pack-121217ce267833a9e43a8e3ade04fea47907f42a.pack",
+      "sha256": "5b3eb029fb2ffd2f3e9161e16c46b53f88b85bba0187ba27dc9e473a4de7e249",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 2466812
+    },
+    {
+      "path": "nortropic/nortropic-system/.git/objects/pack/pack-a66335d11eba34c1b21e4e08523903887aa463d7.pack",
+      "sha256": "591ead898e6c767904c704a0f857d40cf3e4d08daa6622e9c0104e4f1b04bd8a",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 5333685
+    },
+    {
+      "path": "nortropic/nortropic-system/.git/objects/pack/pack-3a731278770beff43bae73eb4cd869bc99951697.pack",
+      "sha256": "640914f1ef1c0ce960a885b3a83652081629e9de4456e70bc3030b4d855a94e3",
+      "reason": "GIT_PACK_REQUIRES_OBJECT_SCAN",
+      "size": 2922692
+    }
+  ],
+  "sensitive_path_candidates": [
+    {
+      "path": "nortropic/worktrees/step0a-acq-containment/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815142845/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/cockpit-01_data_layer-cockpit-01_data_layer-20260824170315/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/report-01_final_report-report-01_final_report-20260815022907/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/master-00_roadmap_freeze-master-00_roadmap_freeze-20260814111538/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815153223/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815101105/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/worktrees/claude-factory/room-08_mobile_room-room-08_mobile_room-20260815000407/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/verkstadsgolvet/.env.example",
+      "size": 2548
+    },
+    {
+      "path": "nortropic/.gh-sandbox-config/hosts.yml",
+      "size": 64
+    }
+  ],
+  "source_unchanged": true,
+  "status": "TRIAGE_ONLY_NOT_APPROVED_FOR_UPLOAD",
+  "scope": "All tar headers and bounded unique regular bytes; loose Git objects decoded; listed opaque payloads NOT scanned; no original edits"
+}

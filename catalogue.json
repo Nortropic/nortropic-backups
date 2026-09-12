@@ -581,7 +581,11 @@
     {
       "path": "bundles/nortropic__innovation-intake-freshclone-verify.bundle",
       "bytes": 2798599,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "342236fd2e5f32772767100c48e0d0d33b8bf8d18346917403d83edfbeadc151",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559480998,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__innovation-intake.bundle",
@@ -591,12 +595,20 @@
     {
       "path": "bundles/nortropic__nortropic-knowledge.bundle",
       "bytes": 51300,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "8e40811b682aa114737c3d2de924552e9fff51488b9ac9ac8bde66c394112f2c",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481002,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__nortropic-system.bundle",
       "bytes": 7686037,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "42cff2d662c87d58e35ebea51f874e6c363c22dba86c5ac0e7ce422a0b016e5d",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481001,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__verkstadsgolvet.bundle",
@@ -606,192 +618,344 @@
     {
       "path": "bundles/nortropic__worktrees__builder-document-authority-20260909.bundle",
       "bytes": 6833300,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "fc743557db1be9d7a38b6cd3231e694b491f10684af08f64d4f2a8a4d7b2e424",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559480999,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__builder-h039-r14-product-96af0d2f.bundle",
       "bytes": 8831336,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "13b8bd1f4b819c26262323ffcf19cf2140ab240cfa09ad4f1ab7729995b07553",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481003,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__builder-r129-product-exact-sha-3bf.bundle",
       "bytes": 4059610,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "0ff659b0000642fd0362dd9a8db609174dafc10be72fcb8a3943fbd466823a05",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481052,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__docs-domain-sync-20260909.bundle",
       "bytes": 7791054,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "916edc60e4f3c106106ac999e842ae0b3ef918eeac011d4391f168bd1287a62e",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481120,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__gate-reviewer-python-authority-1084493.bundle",
       "bytes": 2576304,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "6489f8c4d7553684950690f904f7e42af5f8339fb6c71e4c8ecfcd7572e95d83",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481163,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__gate-reviewer-python-authority-ef5daf4.bundle",
       "bytes": 2576602,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "d42836e89ebee8c553dbbef1ddde7742755b12aff54af12c451b77dd33532d91",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481229,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-git-attributes-5NAtyA__repo.bundle",
       "bytes": 6298775,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "f8487d9b72534e34a1152ea0a02357f9f51184da62626dce9dc2a28b085c6e56",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481232,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-git-observe-bm9MI7__repo.bundle",
       "bytes": 6298869,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "1244bd10d78328a3f4987b2f1347d6e75c2812eeb4ad9983c4379f67a2613351",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481255,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-git-product-zcYxXi__repo.bundle",
       "bytes": 6330810,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "f33bbad66db79ab6819203d911e94f0b434e5420f25fdb0b3496046a3b83165b",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481256,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-a-r3.bundle",
       "bytes": 6250732,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "d8a5ce13b25a2f7878d4ea64e17d3595e7c37d359dfc4ef1be323082b0909b64",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481300,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-a-r4.bundle",
       "bytes": 6253213,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "547a72c0d15fe17a55523e8be24a247a307b9432654882a5dd50755b7c8a9d2a",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481338,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-b-r3.bundle",
       "bytes": 6250732,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "d8a5ce13b25a2f7878d4ea64e17d3595e7c37d359dfc4ef1be323082b0909b64",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481378,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-formal-gate-review-b-r4.bundle",
       "bytes": 6253213,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "547a72c0d15fe17a55523e8be24a247a307b9432654882a5dd50755b7c8a9d2a",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481435,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-installed-review-ed584ec3.bundle",
       "bytes": 6254086,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "6b3deb3f00830e52bb380c41e58c8a3ef629b75b2a712e887739a2fa1dcda445",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481439,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-r4-post-publication-ed584ec3.bundle",
       "bytes": 7791971,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "2012485185564490466be60aa45e8a34479d0811220397a17dad16e63d7ccc0c",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481464,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-test-author-r3-9b9a638b.bundle",
       "bytes": 6250753,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "63a1d765c5cbc71bd39569498985388f6c4b23f6fe406ab5cc9c6d7d8abb9a0a",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481502,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__h039-r33-test-author-r4-9b9a638b.bundle",
       "bytes": 6254182,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "860a727dee6201db3a6341dc0fe7d0c9af87b0129d7381e34312ef0b28ee1e6c",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481574,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__review-document-authority-contract-20260909.bundle",
       "bytes": 6832851,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "10758885183fd191758293acb5f5e8202a9d20f511397deed3bb8ed76a0a74de",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481627,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__review-document-authority-contract-r2-20260909.bundle",
       "bytes": 6834214,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "c5592aee370a33b2045fd1ead54ad90924f7f7b96fb472cf423cf6b48c0adf2c",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481645,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__review-document-authority-product-20260909.bundle",
       "bytes": 6831855,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "ba6414229fc9c30aa6cc1aa017fddba49f7c12a7bc8bc4ceee7834c9f4c0120a",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481715,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__review-document-authority-product-r2-20260909.bundle",
       "bytes": 6833168,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "1f68fc96946d302f95f9a6eab5043913d98a31bdbc61b5678bde9d755bafc9ee",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481721,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__reviewer-python-interpreter-authority-c4d3581.bundle",
       "bytes": 2571718,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "90a2d71b304d828d93715ca2eedae0ed4c8261fe9f410075fde0955f579db5e2",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481780,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-document-authority-20260909.bundle",
       "bytes": 6834491,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "a14b0f1c57b4e00282b5878a0846b871daefb0e4514d78b490e2e098976b17c5",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481862,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-protected-asset-ed584ec3.bundle",
       "bytes": 6548539,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "bee113662d50d5cb0b6b00962084a7dce35ea4e51ba38072dc5cfbcca2045df6",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481879,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r24-installed-completion-8bb7bae9.bundle",
       "bytes": 7191755,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "1e8c7536ad6e75672bc541ee2c19717ca9292d5e918944d9da2304fcf9d4cf6c",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481890,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r28-installed-binding-f0877daa.bundle",
       "bytes": 7170436,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "582b4cc14a7fe89935dd11ceeb274f2dd328d4648ab31ba1e76316c7dd76f483",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481915,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r28-r2-installed-binding-f0877daa.bundle",
       "bytes": 7173290,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "3c7560b90074611676b1251de2211cac0a0679f1550c399aed02da26aa778a35",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559481918,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r28-r3-exact-delta-f0877daa.bundle",
       "bytes": 7186249,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "1a8f9cc63f32d3b24fc95fd3cf1a12500bfcfb088d4580d2f532894832b2351e",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482058,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r29-devt-compat-a13cd9f6.bundle",
       "bytes": 6376644,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "a61f56a18e69d12f669dbdf4b38f9d7649509c7ca4da1b53a3763d6bde611424",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482072,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r29-r2-line-limit-compat-a13cd9f6.bundle",
       "bytes": 6268601,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "32711a62e7c6c8846ba3ab82d8573570e4aabef8f4255219cdf0d5970e19e73a",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482076,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-h039-r31-lock-provenance-e1421f35.bundle",
       "bytes": 6365223,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "8a75ad25235c45f1473a35b0f4cd89f783d5cb5df35747e3a3d6dc395e7359b8",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482091,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__test-author-invariant-required-20260909.bundle",
       "bytes": 6842054,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "464a66b22a149513ec016043cb784de41b754b233a289eb257c7f70440175df8",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482102,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v313-review-531d37e.bundle",
       "bytes": 7183430,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "a5120b6a0eca34b2b7e0fae2cd4087c75104a5ab776e9fedcd622ab34b7f1541",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482280,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v314-h036-contract-8ce985d.bundle",
       "bytes": 7176967,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "fea27f1cbcf3ea92d7048a304c2aae9c2a6bf9270924dba3a6df23999c148ffb",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482283,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v314-h036-product-03a364b.bundle",
       "bytes": 7177469,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "be08988917527b0d90486af31c24e7805b2efd1274980d44d98037e304bda2e4",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482292,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v315-h037-contract-536352f.bundle",
       "bytes": 7184818,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "472504986d4f5f16d88b3518e625be665698d83ff9b3643dc5bd35e15a011234",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482308,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v316-h039-continuity-contract-84aa340.bundle",
       "bytes": 7189240,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "a1d70d6891ac0efe87e8ff5a23f791644ca457b10b5817cb4ebb9c327a3a6b71",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482322,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/v316-h039-continuity-product-8095d94.bundle",
       "bytes": 7190682,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "5cc302c9e867a8a74a43317150dd3a3b956207ba1c43a099fe6da512badd2279",
+      "release_tag": "backup-20260912-reviewed-git-history-bundles",
+      "asset_id": 559482474,
+      "restore_receipt": "HISTORY-RESTORE-RECEIPT.json"
     },
     {
       "path": "reports/",

@@ -1,0 +1,1564 @@
+{
+  "time_utc": "2026-09-12T15:34:05.515226+00:00",
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "private": true,
+  "release_id": 387613278,
+  "release_tag": "backup-20260912-reviewed-git-history-bundles",
+  "completed": [
+    {
+      "asset_name": "nortropic__innovation-intake-freshclone-verify.bundle",
+      "asset_id": 559480998,
+      "sha256": "342236fd2e5f32772767100c48e0d0d33b8bf8d18346917403d83edfbeadc151",
+      "object_count": 327,
+      "advertised_ref_count": 4,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__nortropic-knowledge.bundle",
+      "asset_id": 559481002,
+      "sha256": "8e40811b682aa114737c3d2de924552e9fff51488b9ac9ac8bde66c394112f2c",
+      "object_count": 40,
+      "advertised_ref_count": 4,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__nortropic-system.bundle",
+      "asset_id": 559481001,
+      "sha256": "42cff2d662c87d58e35ebea51f874e6c363c22dba86c5ac0e7ce422a0b016e5d",
+      "object_count": 8431,
+      "advertised_ref_count": 754,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {
+        "worktrees/builder-h036-product-8be493de/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h036-product-8be493de",
+          "oid": "18aeff690a11d72d878eb0e3b7880ccf5b7d4882"
+        },
+        "worktrees/test-author-h037-register-rebind-clean-139d3c7/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h037-register-rebind-clean-139d3c7",
+          "oid": "49a2426707a6f402026b2cbf126e620c294b763d"
+        },
+        "worktrees/test-author-h039-r2-build-sandbox-6ff724e6/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r2-build-sandbox-6ff724e6",
+          "oid": "ad9c31597b8c2d76f5a9d1af97815823125c027a"
+        },
+        "worktrees/test-author-h039-r23-r2-fd-scan-upgrade-b9eff66e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r23-r2-fd-scan-upgrade-b9eff66e",
+          "oid": "3af55d4225329bef4cc383205f49e21f006bac1c"
+        },
+        "worktrees/test-author-h039-r21-apfs-receipt-9ed9ed70/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r21-apfs-receipt-9ed9ed70",
+          "oid": "93cfd6bd5c41e3140bdb15c8a4219b7a8eca66a4"
+        },
+        "worktrees/foundation-green-closeout/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/foundation-green-closeout",
+          "oid": "b4689be49eaeffee773a0f834cbf13db4686e4e9"
+        },
+        "worktrees/builder-h035-r29-core-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r29-core-ff375102",
+          "oid": "8e56d591b7acb184e80e1095e8152343e8549ad4"
+        },
+        "worktrees/builder-h039-r11-production-flush-553e6dd7/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r11-production-flush-553e6dd7",
+          "oid": "03407d658a9534bf982c323f6bafeea5f9b1ac18"
+        },
+        "worktrees/review-h035-r33-b-71f08326/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r33-b-71f08326",
+          "oid": "71f083269c93049184f001d242963f925c282ea5"
+        },
+        "worktrees/nortropic-h039-r14-r4-gate-review-a-90ab598/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/nortropic-h039-r14-r4-gate-review-a-90ab598",
+          "oid": "90ab5983fdb33fac745517d988de7c4604d85ca0"
+        },
+        "worktrees/test-author-h039-r3-installer-sandbox-f8f046e4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r3-installer-sandbox-f8f046e4",
+          "oid": "6c6c6bad9d0cd2c0633b2575ad9a0c18006b5680"
+        },
+        "worktrees/main-3cc19955/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/main-3cc19955",
+          "oid": "3cc199552fd00aa9cde104b33f895f5db4814e1a"
+        },
+        "worktrees/builder-h035-r33-request-bound-8a32a1d4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r33-request-bound-8a32a1d4",
+          "oid": "61a42918ce693e7c2b9117c33a1cad2c90bbf9bb"
+        },
+        "worktrees/h031-rebind-r3-e3fbcece/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h031-rebind-r3-e3fbcece",
+          "oid": "8ef1d746ff25b2c610e1300d34a986ad44dcbf7b"
+        },
+        "worktrees/review-h035-r27-a-6419bd0c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r27-a-6419bd0c",
+          "oid": "6419bd0c6d03f05a776c6e6640873b9941f51d35"
+        },
+        "worktrees/builder-h035-r15-product-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r15-product-580e4711",
+          "oid": "c668ab96545b716f4e407741615c23867a6645f7"
+        },
+        "worktrees/r5-integrity/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r5-integrity",
+          "oid": "2b22ad5f228d63fff5ab7dd5447e6e8f305e2a10"
+        },
+        "worktrees/review-h035-r30-a-a42613ee/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r30-a-a42613ee",
+          "oid": "a42613ee94e921c03f56979704e50500311a83b9"
+        },
+        "worktrees/test-author-h039-r13-fd0-normalization-r3-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r13-fd0-normalization-r3-build",
+          "oid": "a57b9a07328bf1e30c668a501c2ebfe83b45a337"
+        },
+        "worktrees/review-h036-r4e-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h036-r4e-a",
+          "oid": "1215ac548f83c427b089d778b00c5a537d0e54b4"
+        },
+        "worktrees/test-author-h035-r26-exact-common-deadline-5bfdd9af/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r26-exact-common-deadline-5bfdd9af",
+          "oid": "da773a8cebe78ae88956adfc0561abe5dc5093ec"
+        },
+        "worktrees/r10-capability-reference-closure/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r10-capability-reference-closure",
+          "oid": "cf3c48e44c435b71bcecf66b15e1f4a63845cb7a"
+        },
+        "worktrees/h039-r20-published-9ed9ed70/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r20-published-9ed9ed70",
+          "oid": "9ed9ed70f6c8f4977aba22294051dbea4889dc25"
+        },
+        "worktrees/review-h035-r28-b-72c2b9fb/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r28-b-72c2b9fb",
+          "oid": "72c2b9fbd936e855bcc3a99a90d06536ec688361"
+        },
+        "worktrees/builder-h039-r14-r9-diagnostic-d337f33d/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r14-r9-diagnostic-d337f33d",
+          "oid": "710e3c0db8d6e534cc657be11745f58d2c8ca671"
+        },
+        "worktrees/h036-remediation-codev-56f877b3/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h036-remediation-codev-56f877b3",
+          "oid": "c823a21b906af68a85604c4773098d065493f530"
+        },
+        "worktrees/r11-legacy-capability-closure/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r11-legacy-capability-closure",
+          "oid": "09bfbb73cdc122dc8874f307421faa18516b2ddd"
+        },
+        "worktrees/test-author-h036-runtime-contract-r4c-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r4c-b17d0941",
+          "oid": "a3eb4cc8bebc260892622808260020310a0e4371"
+        },
+        "worktrees/test-author-h036-runtime-contract-r4b-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r4b-b17d0941",
+          "oid": "e22efa63f93d77a055affc4bd6554e654749b4ff"
+        },
+        "worktrees/publish-h038-contract-c8af6b0f/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/publish-h038-contract-c8af6b0f",
+          "oid": "c8af6b0f92505bb53bfe578adb848b7a86219b7f"
+        },
+        "worktrees/builder-h032-confinement-product-60a6206/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-confinement-product-60a6206",
+          "oid": "60a62063beaba888e1193db4323607ea4fa336b3"
+        },
+        "worktrees/h2/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h2",
+          "oid": "a4cdac681be005902f42109b1379dade3872ac9c"
+        },
+        "worktrees/foundation-a6-cut/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/foundation-a6-cut",
+          "oid": "13e8a903fc3ee8dcf4b3a5dfb748b2cd90f4fb3a"
+        },
+        "worktrees/owner-h034-post-h037-refreeze-deee/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h034-post-h037-refreeze-deee",
+          "oid": "e60fbc40e5f7b1b08ad3427f2ab00eff4744a00e"
+        },
+        "worktrees/owner-h032-r128-candidate-adoption-aec22dc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h032-r128-candidate-adoption-aec22dc",
+          "oid": "aec22dcde6aeb36ea3985a0b71818535a0df0de1"
+        },
+        "worktrees/test-author-h039-r4-contract-merge-cleaning-recovery-97c94021/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r4-contract-merge-cleaning-recovery-97c94021",
+          "oid": "4c1ffed39f867489e312f5b6edbb57bb39060205"
+        },
+        "worktrees/test-author-h036-runtime-contract-r4e-7cab432c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r4e-7cab432c",
+          "oid": "1215ac548f83c427b089d778b00c5a537d0e54b4"
+        },
+        "worktrees/product-review-h039-r4-b-b3d76f1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r4-b-b3d76f1",
+          "oid": "b3d76f1a6feed74cb62fde7df8d5003699957f69"
+        },
+        "worktrees/test-author-h036-runtime-contract-r4d-7cab432c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r4d-7cab432c",
+          "oid": "29df1bebe99c3efef3fabab6f05e215a9e25b9da"
+        },
+        "worktrees/builder-h038-product-r4-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r4-c161a1c5",
+          "oid": "49c6eaeb95a9a15f2c520c2561b48b52ca39955a"
+        },
+        "worktrees/builder-h038-product-r5-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r5-c161a1c5",
+          "oid": "5ee48417c60c2ecbf97acb6bfff7a469fdff672e"
+        },
+        "worktrees/test-author-h035-r22-explicit-contract-alias-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r22-explicit-contract-alias-580e4711",
+          "oid": "4eba12d15bf75c5148ac5763d8286b7fc4bb0975"
+        },
+        "worktrees/spec-r123-satfresh-785/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/spec-r123-satfresh-785",
+          "oid": "3fcd5ac181c9b41bbb9eb803d0efabcfa8db7d8d"
+        },
+        "worktrees/gate-review-h039-r13-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-b",
+          "oid": "8cb829a9dec516349e7c63c57a2b3a758185131a"
+        },
+        "worktrees/review-h035-r29-b-4be11f4d/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r29-b-4be11f4d",
+          "oid": "4be11f4d11102b70b39184acef0e7c65d5ee5571"
+        },
+        "worktrees/builder-h039-r12-directory-cursor-95edbe75/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r12-directory-cursor-95edbe75",
+          "oid": "95edbe7575df0b1e4a871ee0f349914060c7c781"
+        },
+        "worktrees/s1-research/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s1-research",
+          "oid": "645546a11a97d594653a37929b7dccd42582db9f"
+        },
+        "worktrees/gate-review-h039-r13-r3-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r3-a",
+          "oid": "a57b9a07328bf1e30c668a501c2ebfe83b45a337"
+        },
+        "worktrees/spec-r125-materializer-satisfiability-1044c01/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/spec-r125-materializer-satisfiability-1044c01",
+          "oid": "1044c0116f6c9a0974c19281eb4ff7ac71b4ce93"
+        },
+        "worktrees/nortropic-h039-r14-r2-gate-review-a-363f7d7a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/nortropic-h039-r14-r2-gate-review-a-363f7d7a",
+          "oid": "363f7d7a753fa6bce7ae63dc0ec382b200e193b6"
+        },
+        "worktrees/test-author-h039-r13-fd0-normalization-r2-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r13-fd0-normalization-r2-build",
+          "oid": "70bc52842b8ed5848c6f532eb337edad4cf11020"
+        },
+        "worktrees/test-author-h039-r17-installed-completion-931e58f4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r17-installed-completion-931e58f4",
+          "oid": "2e108c8ce93cfe1d36f7fa4ac28637fbd5cdee15"
+        },
+        "worktrees/builder-h039-product-r2-f8f046e4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-product-r2-f8f046e4",
+          "oid": "f8f046e4aa59dd1facf9c069b543c91c99e0eff1"
+        },
+        "worktrees/builder-h038-product-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-c161a1c5",
+          "oid": "b2d14e5198fda8e859934c3816678a8f5d6ccf77"
+        },
+        "worktrees/builder-r128-round-a-3bf6cdba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-r128-round-a-3bf6cdba",
+          "oid": "3bf6cdba8bb5b00efed61e9c1aa0fc6b1fe08ebf"
+        },
+        "worktrees/builder-h038-product-r9-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r9-c161a1c5",
+          "oid": "c161a1c557b58516f3881ac9f49f4e50216c8bc0"
+        },
+        "worktrees/builder-h038-product-r8-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r8-c161a1c5",
+          "oid": "1d627370dd669128ec0929abeb7f3bd990ee34a4"
+        },
+        "worktrees/owner-transition-h038-408923a4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-transition-h038-408923a4",
+          "oid": "408923a445d081ebb6309e57dfe80423844ce927"
+        },
+        "worktrees/r9-animation-refs/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r9-animation-refs",
+          "oid": "7ded6b09637c00eec1eb6dee73218b6860c0d3f6"
+        },
+        "worktrees/owner-h031-h032-transient-run-r87-c00d5540/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h031-h032-transient-run-r87-c00d5540",
+          "oid": "9c881de75ed251a6c5e6796ef58eee47f99b143b"
+        },
+        "worktrees/h039-r17-published-6481abc1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r17-published-6481abc1",
+          "oid": "6481abc184c64e7b09d9347a96ff86db3fe10f11"
+        },
+        "worktrees/spec-r123-satfresh-8ca/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/spec-r123-satfresh-8ca",
+          "oid": "e6b9a586b2fb436fdc8965853597b181cdb12f1f"
+        },
+        "worktrees/h032-refreeze-e71dfbbd/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h032-refreeze-e71dfbbd",
+          "oid": "188dbe36317000d1ea350659dd5aafbb401e338b"
+        },
+        "worktrees/review-h036-r4d-c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h036-r4d-c",
+          "oid": "29df1bebe99c3efef3fabab6f05e215a9e25b9da"
+        },
+        "worktrees/nortropic-h039-r15-r9-published-0f717dbf/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/nortropic-h039-r15-r9-published-0f717dbf",
+          "oid": "0f717dbf8b729173413524ae032eff8e0a777a1e"
+        },
+        "worktrees/test-author-h039-r14-r2-exit-code-diagnostic-4bd4257e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r14-r2-exit-code-diagnostic-4bd4257e",
+          "oid": "363f7d7a753fa6bce7ae63dc0ec382b200e193b6"
+        },
+        "worktrees/nortropic-h039-r14-gate-review-a-1ac9e788/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/nortropic-h039-r14-gate-review-a-1ac9e788",
+          "oid": "1ac9e7889ab5eab615e9a2b7e50ab3b3f06cf0be"
+        },
+        "worktrees/owner-h031-h032-closed-namespace-r86-c00d5540/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h031-h032-closed-namespace-r86-c00d5540",
+          "oid": "b7753df3a2b4999eb3f2bdceab18395f1b92e30f"
+        },
+        "worktrees/test-author-h035-r29-accept-effects-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r29-accept-effects-c161a1c5",
+          "oid": "4be11f4d11102b70b39184acef0e7c65d5ee5571"
+        },
+        "worktrees/test-author-h035-r21-alias-state-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r21-alias-state-580e4711",
+          "oid": "8becc18145af04bf9df5f1b053b9744926853154"
+        },
+        "worktrees/builder-h038-product-r3-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r3-c161a1c5",
+          "oid": "1940c6da382d63ca036404e7382d898442797745"
+        },
+        "worktrees/builder-h038-product-r2-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r2-c161a1c5",
+          "oid": "3b02072037d06ea6fd378dd862b55b5d038ebf59"
+        },
+        "worktrees/test-author-h037-register-rebind-rv02-final-139d3c7/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h037-register-rebind-rv02-final-139d3c7",
+          "oid": "39eb27c9ce68bbea928dc38158cfdc87037cf025"
+        },
+        "worktrees/owner-h034-r15-registry-refreeze-566027bc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h034-r15-registry-refreeze-566027bc",
+          "oid": "c37fd615caa1b6aa84f323aef2e99c29568ebdd0"
+        },
+        "worktrees/builder-h039-r6-product-341a42ba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r6-product-341a42ba",
+          "oid": "341a42ba4a54e3763dbf79587afc246ae399180b"
+        },
+        "worktrees/review-h036-r4d-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h036-r4d-b",
+          "oid": "29df1bebe99c3efef3fabab6f05e215a9e25b9da"
+        },
+        "worktrees/owner-h003-attestation-validity-44d525a5dd60/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h003-attestation-validity-44d525a5dd60",
+          "oid": "c09a5032647425064ededc83945f02c11eb7532d"
+        },
+        "worktrees/remediation-h032-refreeze-r2/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/remediation-h032-refreeze-r2",
+          "oid": "b377d5996a45b0c1fe6640f61674237e24a978ce"
+        },
+        "worktrees/gym-v1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gym-v1",
+          "oid": "59b5be4bbc18618989a457a27b606ddcccee471c"
+        },
+        "worktrees/h039-r21-published-df5c9823/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r21-published-df5c9823",
+          "oid": "df5c98231cc220e7ed98355cb58ffc18d5b0b23b"
+        },
+        "worktrees/gate-review-h036-v3-b-829234de/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h036-v3-b-829234de",
+          "oid": "829234ded2d6c9618e97b49ffc11a6725c66b976"
+        },
+        "worktrees/gate-review-h039-r13-r4-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r4-a",
+          "oid": "71ed24a74f20992157e4f73ec4065d305dc0e343"
+        },
+        "worktrees/test-author-h039-r8-xattr-reconcile-6d956a3a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r8-xattr-reconcile-6d956a3a",
+          "oid": "20f9a19ae239fba80f62a832ccc698a76a7fd3db"
+        },
+        "worktrees/test-author-h039-r13-fd0-normalization-r4-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r13-fd0-normalization-r4-build",
+          "oid": "71ed24a74f20992157e4f73ec4065d305dc0e343"
+        },
+        "worktrees/test-author-h034-registry-v3-r2-843bf368/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h034-registry-v3-r2-843bf368",
+          "oid": "dd24c6c4d387d49157250835b666486a65d0c13e"
+        },
+        "worktrees/karnuniversalisering/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/karnuniversalisering",
+          "oid": "ea288e1e35dfa9268abec649d70f45b3ecc2630c"
+        },
+        "worktrees/owner-h003-attestation-validity-e56edc08e5f0/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h003-attestation-validity-e56edc08e5f0",
+          "oid": "e56edc08e5f069f16b5bdb853302a0f39c1f7075"
+        },
+        "worktrees/builder-h035-r15-product-5bfdd9af/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r15-product-5bfdd9af",
+          "oid": "d32d405117d593c1e9f75c7ebae8794ebe97049a"
+        },
+        "worktrees/product-review-h039-r8-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r8-a",
+          "oid": "936344abd31c27ae50171b94beac8e2afdfeba3d"
+        },
+        "worktrees/builder-h035-r29-core-r2-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r29-core-r2-ff375102",
+          "oid": "f956b60369e826d444dc0dbf71f988d4ed5e4fcb"
+        },
+        "worktrees/s1min-k4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s1min-k4",
+          "oid": "8b475b0f62951575e5600939317eebaa70a41b8c"
+        },
+        "worktrees/owner-h035-owner-author-workflow-r2-15693f9/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h035-owner-author-workflow-r2-15693f9",
+          "oid": "15693f9e94b28bef2238235fe5d37156cb0794eb"
+        },
+        "worktrees/test-author-h039-r10-metadata-record-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r10-metadata-record-build",
+          "oid": "1c87ca4f1be60cea7553a0ae8c078aeb8d73638c"
+        },
+        "worktrees/h039-r10-published-931e58f4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r10-published-931e58f4",
+          "oid": "931e58f48278922378948da526ebb84dcc8ecdf8"
+        },
+        "worktrees/gate-review-b-h034-v3-dd24c6c4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-b-h034-v3-dd24c6c4",
+          "oid": "dd24c6c4d387d49157250835b666486a65d0c13e"
+        },
+        "worktrees/test-author-h039-r14-r3-manual-ceremony-4bd4257e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r14-r3-manual-ceremony-4bd4257e",
+          "oid": "35a7e56f1def26ecbd0d60a6a45171a169a7ce6e"
+        },
+        "worktrees/h039-r7-product/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r7-product",
+          "oid": "6d956a3aed9f8da30cf5443a72ae6ae647974e2f"
+        },
+        "worktrees/test-author-h039-r5-current-temp-reconcile-287c7436/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r5-current-temp-reconcile-287c7436",
+          "oid": "a4870280de924da26e1aa3e4ebb90afcf3785a97"
+        },
+        "worktrees/review-h035-r32-a-dcd9360a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r32-a-dcd9360a",
+          "oid": "dcd9360a9869cfd9c95bd71c0f4b3ea557736f43"
+        },
+        "worktrees/gate-review-h039-r13-r2-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r2-b",
+          "oid": "70bc52842b8ed5848c6f532eb337edad4cf11020"
+        },
+        "worktrees/product-review-h039-r4-a-b3d76f1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r4-a-b3d76f1",
+          "oid": "b3d76f1a6feed74cb62fde7df8d5003699957f69"
+        },
+        "worktrees/h032-helper-r5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h032-helper-r5",
+          "oid": "a3fb1a1ca1f88575d6f251c23ae353fe10bbefeb"
+        },
+        "worktrees/review-h035-r31-a-b49a99cd/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r31-a-b49a99cd",
+          "oid": "b49a99cd25d3c2a85b397cfb9ffb812adb2acfb8"
+        },
+        "worktrees/verifier-h039-r12-published-09537f74/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/verifier-h039-r12-published-09537f74",
+          "oid": "09537f74d7727544fb1d28c3540774c099a3488c"
+        },
+        "worktrees/builder-h035-r26-product-2bbc0eb2/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h035-r26-product-2bbc0eb2",
+          "oid": "b2cde2c52d2f619b6838785e04a683cb133eb727"
+        },
+        "worktrees/builder-h038-product-r7-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r7-c161a1c5",
+          "oid": "94e790ff1cc8508547d762bc3926689e771b016b"
+        },
+        "worktrees/builder-h038-product-r6-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h038-product-r6-c161a1c5",
+          "oid": "975116028fb46ac058b16331a982e5b0797ac6fe"
+        },
+        "worktrees/s3-planner/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s3-planner",
+          "oid": "2ed6180cdb382b6ef3bfaaa2880141dc2fd1634e"
+        },
+        "worktrees/gate-review-h039-r3-a-6c6c6ba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r3-a-6c6c6ba",
+          "oid": "6c6c6bad9d0cd2c0633b2575ad9a0c18006b5680"
+        },
+        "worktrees/reviewer-h039-r5-b-a487028/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/reviewer-h039-r5-b-a487028",
+          "oid": "a4870280de924da26e1aa3e4ebb90afcf3785a97"
+        },
+        "worktrees/test-author-h039-r15-literal-sync-d337f33d/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r15-literal-sync-d337f33d",
+          "oid": "c35fca70f7cc2e62569dc1dc11ae2eab9ab5d2fe"
+        },
+        "worktrees/owner-h034-r15-registry-refreeze-r2-566027bc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h034-r15-registry-refreeze-r2-566027bc",
+          "oid": "4b4607b3ddffe26e06fdc3cddd3de0c94f953b96"
+        },
+        "worktrees/reviewer-h039-r4-b-4c1ffed/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/reviewer-h039-r4-b-4c1ffed",
+          "oid": "4c1ffed39f867489e312f5b6edbb57bb39060205"
+        },
+        "worktrees/review-h035-r29-a-4be11f4d/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r29-a-4be11f4d",
+          "oid": "4be11f4d11102b70b39184acef0e7c65d5ee5571"
+        },
+        "worktrees/test-author-h035-r19-publication-lineage-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r19-publication-lineage-580e4711",
+          "oid": "29d522e02c4558320646e6406eb8f39a1bd42752"
+        },
+        "worktrees/builder-h039-r7-product-1e8436b8/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r7-product-1e8436b8",
+          "oid": "0a465c77a8adb42780cfbdcc1673e8edd9e650e0"
+        },
+        "worktrees/test-author-h036-registry-v3-35d7fd7c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-registry-v3-35d7fd7c",
+          "oid": "829234ded2d6c9618e97b49ffc11a6725c66b976"
+        },
+        "worktrees/test-author-h039-r19-directory-cursor-f2d8afdc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r19-directory-cursor-f2d8afdc",
+          "oid": "8e1ae01196429dfe3f6f4ea1fdf4ffc5a7c3d7ee"
+        },
+        "worktrees/test-author-h036-runtime-contract-r4-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r4-b17d0941",
+          "oid": "b17d0941f9376505f2bf76f4ce10b3019d978054"
+        },
+        "worktrees/owner-h031-h032-protocol-r90-c00d5540/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h031-h032-protocol-r90-c00d5540",
+          "oid": "9ec7b9059eb6321a00d4ab97a278f6e5d8d35aec"
+        },
+        "worktrees/test-author-h035-r31-complete-request-bound-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r31-complete-request-bound-ff375102",
+          "oid": "b49a99cd25d3c2a85b397cfb9ffb812adb2acfb8"
+        },
+        "worktrees/v4-rubrik-utkast/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/v4-rubrik-utkast",
+          "oid": "b42339c7f8ea1fa66f25c2df35b2efe31bec08fb"
+        },
+        "worktrees/forvarvsbana/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/forvarvsbana",
+          "oid": "7cab432cb72c65a867ce286f2cf50828343382a2"
+        },
+        "worktrees/test-author-h035-r25-unique-evidence-bounded-cleanup-5bfdd9af/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r25-unique-evidence-bounded-cleanup-5bfdd9af",
+          "oid": "785cd181176009ae46df97e190367a95e8937aeb"
+        },
+        "worktrees/spec-r123-positive-overlay/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/spec-r123-positive-overlay",
+          "oid": "a60047f25e1b422fb3fb8d1a9f7c13daf2d5de8b"
+        },
+        "worktrees/r2-provenance/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r2-provenance",
+          "oid": "ee3a728ac8fe4dbed957d5f2a6f13fcd733559e3"
+        },
+        "worktrees/paper-tranche-0/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/paper-tranche-0",
+          "oid": "d87b32d3a43bcc83daa1d83d73bfbd7b5fe6e8b5"
+        },
+        "worktrees/r1-repo-native/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r1-repo-native",
+          "oid": "2f8e87cb88e17e124488452aa0d53c2755e151fb"
+        },
+        "worktrees/product-review-h039-r3-b-87e90b4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r3-b-87e90b4",
+          "oid": "87e90b4f18b9fc4dbf0a0ba54bf2f1099a3403a4"
+        },
+        "worktrees/builder-h039-product-6ff724e6/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-product-6ff724e6",
+          "oid": "6ff724e6c3dad5dd93ece71a29075a56e67533ab"
+        },
+        "worktrees/h031-rebind-52d6b069/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h031-rebind-52d6b069",
+          "oid": "a5707e54d2be0839cace4a5962597c6ee3f6f06c"
+        },
+        "worktrees/s5-gates/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s5-gates",
+          "oid": "9fcde1a36140a12f1f8f19df1231d0f2e380019f"
+        },
+        "worktrees/builder-h032-product-0c379f8e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-product-0c379f8e",
+          "oid": "ff09e3c4aafb54651a320cb966e2c12094606410"
+        },
+        "worktrees/test-author-h039-r22-r3-mediator-prestore-diagnostic-df5c9823/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r22-r3-mediator-prestore-diagnostic-df5c9823",
+          "oid": "8b25da35785f2673339ad09b24941ae43e3c0767"
+        },
+        "worktrees/test-author-h035-r24-parallel-timeout-diagnostic-5bfdd9af/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r24-parallel-timeout-diagnostic-5bfdd9af",
+          "oid": "c0ddd003770c2a79351304b10c46ac1e6570b6d2"
+        },
+        "worktrees/review-h036-r4e-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h036-r4e-b",
+          "oid": "1215ac548f83c427b089d778b00c5a537d0e54b4"
+        },
+        "worktrees/test-author-h039-r17-installed-completion-r2-931e58f4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r17-installed-completion-r2-931e58f4",
+          "oid": "848ec73e3ad5a02ff4db8206620e0b9dea79d43d"
+        },
+        "worktrees/test-author-h039-r19-r3-installer-scope-95edbe75/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r19-r3-installer-scope-95edbe75",
+          "oid": "26cc907b8eeca1aa2f15d158850c1361376321c7"
+        },
+        "worktrees/prefreeze-review-h039-product-r3-97c94021/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/prefreeze-review-h039-product-r3-97c94021",
+          "oid": "97c9402178148a2361d073ec2c3cca7ba4ec4e22"
+        },
+        "worktrees/test-author-h039-r7-portable-fd-closure-341a42ba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r7-portable-fd-closure-341a42ba",
+          "oid": "16bbd01750bbf4d5efe2d56de8baca8969753567"
+        },
+        "worktrees/test-author-h039-r13-fd0-normalization-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r13-fd0-normalization-build",
+          "oid": "8cb829a9dec516349e7c63c57a2b3a758185131a"
+        },
+        "worktrees/h039-r10-polarity-product/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r10-polarity-product",
+          "oid": "af71bbdcc85936a1d9811461d2edc455876829d4"
+        },
+        "worktrees/test-author-h039-r22-r2-mediator-prestore-diagnostic-df5c9823/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r22-r2-mediator-prestore-diagnostic-df5c9823",
+          "oid": "a5869e4a17dcc6db5ce6c4d26e1b61c104eed5ca"
+        },
+        "worktrees/test-author-h039-r9-exact-xattr-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r9-exact-xattr-build",
+          "oid": "d2a4ba5edca6dbb39fb9ee099ad77d9871bfc9ef"
+        },
+        "worktrees/canon-main-7cab432c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/canon-main-7cab432c",
+          "oid": "7cab432cb72c65a867ce286f2cf50828343382a2"
+        },
+        "worktrees/review-h035-r27-b-6419bd0c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r27-b-6419bd0c",
+          "oid": "6419bd0c6d03f05a776c6e6640873b9941f51d35"
+        },
+        "worktrees/test-author-h035-r20-product-source-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r20-product-source-580e4711",
+          "oid": "41962140bb3860f09ea4ef21ff9fe76be23a41a2"
+        },
+        "worktrees/builder-h039-product-r3-97c94021/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-product-r3-97c94021",
+          "oid": "87e90b4f18b9fc4dbf0a0ba54bf2f1099a3403a4"
+        },
+        "worktrees/builder-h039-r15-r9-diagnostic-22abb06f/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r15-r9-diagnostic-22abb06f",
+          "oid": "175a12978ba9fcf8bbafd0c173d7727694c4f03c"
+        },
+        "worktrees/k0-k3/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/k0-k3",
+          "oid": "a2aa7c2f5a9c2833a7b3455e85b51b564ca59410"
+        },
+        "worktrees/gate-review-a-h034-v3-dd24c6c4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-a-h034-v3-dd24c6c4",
+          "oid": "dd24c6c4d387d49157250835b666486a65d0c13e"
+        },
+        "worktrees/builder-h037-register-product-3560d61c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h037-register-product-3560d61c",
+          "oid": "ee84b206a5fc755e0c708153559da6c4ec8df55e"
+        },
+        "worktrees/test-author-h039-r19-r2-directory-cursor-f2d8afdc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r19-r2-directory-cursor-f2d8afdc",
+          "oid": "b0b9b5139a9beae16ac63f8dadae6455d28b9713"
+        },
+        "worktrees/review-h035-r30-b-a42613ee/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r30-b-a42613ee",
+          "oid": "a42613ee94e921c03f56979704e50500311a83b9"
+        },
+        "worktrees/test-author-h035-r17-isolated-fixture-408923a4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r17-isolated-fixture-408923a4",
+          "oid": "0c44eaac01726a10e125c2a7514c034fc5035878"
+        },
+        "worktrees/product-review-h039-r5-a-b1194c0/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r5-a-b1194c0",
+          "oid": "b1194c04f9ae26e7d2555e98e41b5d571746b50a"
+        },
+        "worktrees/test-author-h039-r18-first-effect-diagnostic-6481abc1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r18-first-effect-diagnostic-6481abc1",
+          "oid": "1d73a79ca2cf37d4d35778f7a9e2a9a51d249149"
+        },
+        "worktrees/test-author-h035-r32-closed-ambient-decoys-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r32-closed-ambient-decoys-ff375102",
+          "oid": "dcd9360a9869cfd9c95bd71c0f4b3ea557736f43"
+        },
+        "worktrees/test-author-h039-r12-causal-alias-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r12-causal-alias-build",
+          "oid": "0305f8292d7845e3139b00b2a36726ba2b8c3f8c"
+        },
+        "worktrees/builder-h039-product-r4-287c7436/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-product-r4-287c7436",
+          "oid": "b3d76f1a6feed74cb62fde7df8d5003699957f69"
+        },
+        "worktrees/builder-r128-product-prep-3bf6cdba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-r128-product-prep-3bf6cdba",
+          "oid": "3bf6cdba8bb5b00efed61e9c1aa0fc6b1fe08ebf"
+        },
+        "worktrees/review-h035-r28-a-72c2b9fb/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r28-a-72c2b9fb",
+          "oid": "72c2b9fbd936e855bcc3a99a90d06536ec688361"
+        },
+        "worktrees/test-author-h035-r33-executable-preamble-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r33-executable-preamble-ff375102",
+          "oid": "71f083269c93049184f001d242963f925c282ea5"
+        },
+        "worktrees/prefreeze-build-audit-h039-r3-97c94021/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/prefreeze-build-audit-h039-r3-97c94021",
+          "oid": "97c9402178148a2361d073ec2c3cca7ba4ec4e22"
+        },
+        "worktrees/r4-impeccable-fork/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r4-impeccable-fork",
+          "oid": "f3df37ccfae8e770cba14e30f4e2d51b97eb5be7"
+        },
+        "worktrees/test-author-h035-r15-owner-lifecycle-408923a4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r15-owner-lifecycle-408923a4",
+          "oid": "268e0d8606ae35057456766b9d8de63ce847fc06"
+        },
+        "worktrees/ankarretrofit/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/ankarretrofit",
+          "oid": "1c206173bee20fc5f07ab3cdc99c93aad54f91df"
+        },
+        "worktrees/foundation-cut-compat/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/foundation-cut-compat",
+          "oid": "839ef8accabae87f037c5cdd770582547e29f21e"
+        },
+        "worktrees/test-author-h034-registry-v3-843bf368/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h034-registry-v3-843bf368",
+          "oid": "0294dde4cce1440a9e6a1e185306249c3e384599"
+        },
+        "worktrees/review-h035-r33-a-71f08326/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r33-a-71f08326",
+          "oid": "71f083269c93049184f001d242963f925c282ea5"
+        },
+        "worktrees/r7-lighthouse-gate/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r7-lighthouse-gate",
+          "oid": "1d46c2d11d67cdfdca82d242ba3b0215291789e7"
+        },
+        "worktrees/gate-review-h039-r13-r3-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r3-b",
+          "oid": "a57b9a07328bf1e30c668a501c2ebfe83b45a337"
+        },
+        "worktrees/gate-review-h039-r13-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-a",
+          "oid": "8cb829a9dec516349e7c63c57a2b3a758185131a"
+        },
+        "worktrees/owner-h032-pathless-family-r112-6bb20f68/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h032-pathless-family-r112-6bb20f68",
+          "oid": "6bb20f6817ab94ae4d84da9de2e3ed8fe2f7896f"
+        },
+        "worktrees/builder-h039-product-r5-3cd65a97/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-product-r5-3cd65a97",
+          "oid": "b1194c04f9ae26e7d2555e98e41b5d571746b50a"
+        },
+        "worktrees/h039-r8-product/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/h039-r8-product",
+          "oid": "936344abd31c27ae50171b94beac8e2afdfeba3d"
+        },
+        "worktrees/test-author-h035-r28-runtime-cleanup-registry-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r28-runtime-cleanup-registry-c161a1c5",
+          "oid": "72c2b9fbd936e855bcc3a99a90d06536ec688361"
+        },
+        "worktrees/test-author-h039-r23-fd-scan-upgrade-b9eff66e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r23-fd-scan-upgrade-b9eff66e",
+          "oid": "b5b33b6796c1e2139adc6552c9a29d18ada4e373"
+        },
+        "worktrees/review-h035-r32-b-dcd9360a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r32-b-dcd9360a",
+          "oid": "dcd9360a9869cfd9c95bd71c0f4b3ea557736f43"
+        },
+        "worktrees/test-author-h035-r30-request-bound-registry-ff375102/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r30-request-bound-registry-ff375102",
+          "oid": "a42613ee94e921c03f56979704e50500311a83b9"
+        },
+        "worktrees/test-author-h039-r21-r2-apfs-receipt-9ed9ed70/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r21-r2-apfs-receipt-9ed9ed70",
+          "oid": "6041a336976228dc35b7142d6e64d665ecf9453c"
+        },
+        "worktrees/builder-h032-result-kernel-602f492b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-result-kernel-602f492b",
+          "oid": "602f492bd7664692995381af765e8b89dca4425c"
+        },
+        "worktrees/owner-h032-r128a1b-temporal-process-feba2b92/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/owner-h032-r128a1b-temporal-process-feba2b92",
+          "oid": "feba2b9271ee9907cf566884cd0cc86e192ae77d"
+        },
+        "worktrees/s4-profile/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s4-profile",
+          "oid": "81df97823ca71cffacf0ca6c6bff502a6915e51d"
+        },
+        "worktrees/review-h035-r31-b-b49a99cd/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h035-r31-b-b49a99cd",
+          "oid": "b49a99cd25d3c2a85b397cfb9ffb812adb2acfb8"
+        },
+        "worktrees/review-h036-r4d-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/review-h036-r4d-a",
+          "oid": "29df1bebe99c3efef3fabab6f05e215a9e25b9da"
+        },
+        "worktrees/derisk-h032-product-local/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/derisk-h032-product-local",
+          "oid": "188dbe36317000d1ea350659dd5aafbb401e338b"
+        },
+        "worktrees/reviewer-h039-r4-a-4c1ffed/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/reviewer-h039-r4-a-4c1ffed",
+          "oid": "4c1ffed39f867489e312f5b6edbb57bb39060205"
+        },
+        "worktrees/product-review-h039-r3-87e90b4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r3-87e90b4",
+          "oid": "87e90b4f18b9fc4dbf0a0ba54bf2f1099a3403a4"
+        },
+        "worktrees/gate-review-h036-v3-a-829234de/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h036-v3-a-829234de",
+          "oid": "829234ded2d6c9618e97b49ffc11a6725c66b976"
+        },
+        "worktrees/builder-r125-product-aec22dc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-r125-product-aec22dc",
+          "oid": "aec22dcde6aeb36ea3985a0b71818535a0df0de1"
+        },
+        "worktrees/test-author-h039-r11-connected-source-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r11-connected-source-build",
+          "oid": "4ab2e95ce805a9a720ecd7dc913473f3b2fa899e"
+        },
+        "worktrees/gate-review-h039-r3-b-6c6c6ba/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r3-b-6c6c6ba",
+          "oid": "6c6c6bad9d0cd2c0633b2575ad9a0c18006b5680"
+        },
+        "worktrees/reviewer-h039-r5-a-a487028/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/reviewer-h039-r5-a-a487028",
+          "oid": "a4870280de924da26e1aa3e4ebb90afcf3785a97"
+        },
+        "worktrees/test-author-h039-contract-2fb748b7/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-contract-2fb748b7",
+          "oid": "cd87e6f53aabf945513d9e87dc17a00ac522560b"
+        },
+        "worktrees/test-author-h039-r20-installed-completion-09537f74/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r20-installed-completion-09537f74",
+          "oid": "ccece7cc5097e0ede8a5b2baa8e3a707203fe2a5"
+        },
+        "worktrees/test-author-h039-r14-r4-cfg-clarification-4bd4257e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r14-r4-cfg-clarification-4bd4257e",
+          "oid": "90ab5983fdb33fac745517d988de7c4604d85ca0"
+        },
+        "worktrees/builder-h036-product-56f877b3/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h036-product-56f877b3",
+          "oid": "45044ab6069cad11270835c39ce80aa15894088b"
+        },
+        "worktrees/test-author-h036-runtime-contract-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-b17d0941",
+          "oid": "2c0d43ec165e6c8995851990d08e31d22651a61c"
+        },
+        "worktrees/builder-h039-r12-installer-scope-45a6f191/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r12-installer-scope-45a6f191",
+          "oid": "ab77a0b2e86b8f55752bd92c16f28333941e2c4a"
+        },
+        "worktrees/test-author-h039-r18-r2-production-flush-6481abc1/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r18-r2-production-flush-6481abc1",
+          "oid": "34e8bcc02722ebbbf394e6d41a45225bf003c748"
+        },
+        "worktrees/test-author-h039-r16-polarity-0f717dbf/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r16-polarity-0f717dbf",
+          "oid": "550f376dee4b9f958f4c58c7863f0a91f99e15bd"
+        },
+        "worktrees/verifier-h039-r11-published-f2d8afdc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/verifier-h039-r11-published-f2d8afdc",
+          "oid": "f2d8afdc113ba8decb552bcf4aa8a26cf4d07878"
+        },
+        "worktrees/test-author-h038-r15-refreeze-01a1dedd/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h038-r15-refreeze-01a1dedd",
+          "oid": "f5950a194f635fde28275014a4e1078fcd9cb80d"
+        },
+        "worktrees/test-author-h039-r14-exit-code-diagnostic-build/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r14-exit-code-diagnostic-build",
+          "oid": "1ac9e7889ab5eab615e9a2b7e50ab3b3f06cf0be"
+        },
+        "worktrees/r6-axe-gate/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r6-axe-gate",
+          "oid": "a10b45138bebca8d54fb48c9597a292c5b563cd4"
+        },
+        "worktrees/builder-h032-product-mode-r4-ff09e3c4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-product-mode-r4-ff09e3c4",
+          "oid": "49af17a9c5f98775ef633b852cbfc19adb7dc2e1"
+        },
+        "worktrees/builder-h032-product-cf5d370/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-product-cf5d370",
+          "oid": "cf5d37039de6d7cbb515eaccfc2da1d7bcba5b88"
+        },
+        "worktrees/builder-r127-product-prep-aec22dc/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-r127-product-prep-aec22dc",
+          "oid": "aec22dcde6aeb36ea3985a0b71818535a0df0de1"
+        },
+        "worktrees/product-review-h039-r8-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r8-b",
+          "oid": "936344abd31c27ae50171b94beac8e2afdfeba3d"
+        },
+        "worktrees/test-author-h035-r16-ssh-fixture-408923a4/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r16-ssh-fixture-408923a4",
+          "oid": "7fcfcbe9129e1aee4431ae6866cfbabf09dba3a9"
+        },
+        "worktrees/r8-taste-hygiene/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r8-taste-hygiene",
+          "oid": "1cdac1931ce6f97a3383cbf44b0c83ba44acfdec"
+        },
+        "worktrees/test-author-h035-r23-contract-parent-bind-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r23-contract-parent-bind-580e4711",
+          "oid": "3769e7d2d3f9b540e343a43335bde486bec6b266"
+        },
+        "worktrees/nortropic-h039-r14-r3-gate-review-a-35a7e56/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/nortropic-h039-r14-r3-gate-review-a-35a7e56",
+          "oid": "35a7e56f1def26ecbd0d60a6a45171a169a7ce6e"
+        },
+        "worktrees/test-author-h035-r27-runtime-cleanup-registry-c161a1c5/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r27-runtime-cleanup-registry-c161a1c5",
+          "oid": "6419bd0c6d03f05a776c6e6640873b9941f51d35"
+        },
+        "worktrees/builder-h032-host-2f60878/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h032-host-2f60878",
+          "oid": "2f6087848d87dd5f32e9d34ba2a8ec8ae4163e0b"
+        },
+        "worktrees/test-author-h035-r18-macos-known-hosts-580e4711/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h035-r18-macos-known-hosts-580e4711",
+          "oid": "6a5035e45d6bf4d8acb2aa408e9e10576db993f0"
+        },
+        "worktrees/foundation-precut-reconciliation/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/foundation-precut-reconciliation",
+          "oid": "769827aab892d07383f93574e9167bb72afcd84e"
+        },
+        "worktrees/gate-review-h039-r13-r4-b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r4-b",
+          "oid": "71ed24a74f20992157e4f73ec4065d305dc0e343"
+        },
+        "worktrees/test-author-h036-runtime-contract-r3-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r3-b17d0941",
+          "oid": "9a32d34998daeaffc58ee9ebcfb52ff307f6d96b"
+        },
+        "worktrees/test-author-h036-runtime-contract-r2-b17d0941/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h036-runtime-contract-r2-b17d0941",
+          "oid": "93f4d4ba0ff69e65ac659cce853f091b48062236"
+        },
+        "worktrees/paketarkitektur/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/paketarkitektur",
+          "oid": "030980227d73c3e272dc8daf4b08851963ae84f3"
+        },
+        "worktrees/test-author-h039-r6-install-bootstrap-f190cc57/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r6-install-bootstrap-f190cc57",
+          "oid": "fb088a33341bdd07d2fe140052fefeb6e8907e15"
+        },
+        "worktrees/product-review-h035-r33-61a42918/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h035-r33-61a42918",
+          "oid": "61a42918ce693e7c2b9117c33a1cad2c90bbf9bb"
+        },
+        "worktrees/test-author-h037-register-rebind-139d3c7/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h037-register-rebind-139d3c7",
+          "oid": "ff7cdf6d54d8ef274b4894105d6b1509453c18ef"
+        },
+        "worktrees/gate-review-h039-r13-r2-a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/gate-review-h039-r13-r2-a",
+          "oid": "70bc52842b8ed5848c6f532eb337edad4cf11020"
+        },
+        "worktrees/r3-wdg-pin/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/r3-wdg-pin",
+          "oid": "7a09c66ae505375759f3900c2bcea688c2280c6d"
+        },
+        "worktrees/test-author-h039-r22-mediator-prestore-diagnostic-df5c9823/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r22-mediator-prestore-diagnostic-df5c9823",
+          "oid": "63f4fea7f198e53e2505dbde289c7b40409afac1"
+        },
+        "worktrees/test-author-h038-attempt-root-contract-0c379f8e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h038-attempt-root-contract-0c379f8e",
+          "oid": "c8af6b0f92505bb53bfe578adb848b7a86219b7f"
+        },
+        "worktrees/builder-h039-r13-prestore-diagnostic-8cb87d6b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r13-prestore-diagnostic-8cb87d6b",
+          "oid": "f72e3d1860b77463b3f0f534b5e07bb5dcff110f"
+        },
+        "worktrees/test-author-h034-native-fdd7b0c/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h034-native-fdd7b0c",
+          "oid": "fdd7b0cc04a56303cb13af34edc8f43f91338d6e"
+        },
+        "worktrees/test-author-h039-r22-r4-retained-fd-df5c9823/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r22-r4-retained-fd-df5c9823",
+          "oid": "47bcc29915bb02d514094eec97e573ce2bce31ee"
+        },
+        "worktrees/s7-s8-backtest/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/s7-s8-backtest",
+          "oid": "2d353cf04fef6a68215a886d01c76c96201c64c8"
+        },
+        "worktrees/verifier-h039-r13-published-b9eff66e/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/verifier-h039-r13-published-b9eff66e",
+          "oid": "b9eff66eef4e9de52aaf29ef20e9134db6fe1cc8"
+        },
+        "worktrees/product-review-h039-r5-b-b1194c0/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/product-review-h039-r5-b-b1194c0",
+          "oid": "b1194c04f9ae26e7d2555e98e41b5d571746b50a"
+        }
+      },
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__builder-document-authority-20260909.bundle",
+      "asset_id": 559480999,
+      "sha256": "fc743557db1be9d7a38b6cd3231e694b491f10684af08f64d4f2a8a4d7b2e424",
+      "object_count": 6756,
+      "advertised_ref_count": 8,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__builder-h039-r14-product-96af0d2f.bundle",
+      "asset_id": 559481003,
+      "sha256": "13b8bd1f4b819c26262323ffcf19cf2140ab240cfa09ad4f1ab7729995b07553",
+      "object_count": 6561,
+      "advertised_ref_count": 4,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__builder-r129-product-exact-sha-3bf.bundle",
+      "asset_id": 559481052,
+      "sha256": "0ff659b0000642fd0362dd9a8db609174dafc10be72fcb8a3943fbd466823a05",
+      "object_count": 5771,
+      "advertised_ref_count": 138,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__docs-domain-sync-20260909.bundle",
+      "asset_id": 559481120,
+      "sha256": "916edc60e4f3c106106ac999e842ae0b3ef918eeac011d4391f168bd1287a62e",
+      "object_count": 6705,
+      "advertised_ref_count": 5,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__gate-reviewer-python-authority-1084493.bundle",
+      "asset_id": 559481163,
+      "sha256": "6489f8c4d7553684950690f904f7e42af5f8339fb6c71e4c8ecfcd7572e95d83",
+      "object_count": 2719,
+      "advertised_ref_count": 3,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__gate-reviewer-python-authority-ef5daf4.bundle",
+      "asset_id": 559481229,
+      "sha256": "d42836e89ebee8c553dbbef1ddde7742755b12aff54af12c451b77dd33532d91",
+      "object_count": 2719,
+      "advertised_ref_count": 3,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-git-attributes-5NAtyA__repo.bundle",
+      "asset_id": 559481232,
+      "sha256": "f8487d9b72534e34a1152ea0a02357f9f51184da62626dce9dc2a28b085c6e56",
+      "object_count": 6717,
+      "advertised_ref_count": 2,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-git-observe-bm9MI7__repo.bundle",
+      "asset_id": 559481255,
+      "sha256": "1244bd10d78328a3f4987b2f1347d6e75c2812eeb4ad9983c4379f67a2613351",
+      "object_count": 6717,
+      "advertised_ref_count": 3,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-git-product-zcYxXi__repo.bundle",
+      "asset_id": 559481256,
+      "sha256": "f33bbad66db79ab6819203d911e94f0b434e5420f25fdb0b3496046a3b83165b",
+      "object_count": 6728,
+      "advertised_ref_count": 2,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-formal-gate-review-a-r3.bundle",
+      "asset_id": 559481300,
+      "sha256": "d8a5ce13b25a2f7878d4ea64e17d3595e7c37d359dfc4ef1be323082b0909b64",
+      "object_count": 6874,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-formal-gate-review-a-r4.bundle",
+      "asset_id": 559481338,
+      "sha256": "547a72c0d15fe17a55523e8be24a247a307b9432654882a5dd50755b7c8a9d2a",
+      "object_count": 6874,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-formal-gate-review-b-r3.bundle",
+      "asset_id": 559481378,
+      "sha256": "d8a5ce13b25a2f7878d4ea64e17d3595e7c37d359dfc4ef1be323082b0909b64",
+      "object_count": 6874,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-formal-gate-review-b-r4.bundle",
+      "asset_id": 559481435,
+      "sha256": "547a72c0d15fe17a55523e8be24a247a307b9432654882a5dd50755b7c8a9d2a",
+      "object_count": 6874,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-installed-review-ed584ec3.bundle",
+      "asset_id": 559481439,
+      "sha256": "6b3deb3f00830e52bb380c41e58c8a3ef629b75b2a712e887739a2fa1dcda445",
+      "object_count": 6875,
+      "advertised_ref_count": 17,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-r4-post-publication-ed584ec3.bundle",
+      "asset_id": 559481464,
+      "sha256": "2012485185564490466be60aa45e8a34479d0811220397a17dad16e63d7ccc0c",
+      "object_count": 6704,
+      "advertised_ref_count": 4,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-test-author-r3-9b9a638b.bundle",
+      "asset_id": 559481502,
+      "sha256": "63a1d765c5cbc71bd39569498985388f6c4b23f6fe406ab5cc9c6d7d8abb9a0a",
+      "object_count": 6874,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__h039-r33-test-author-r4-9b9a638b.bundle",
+      "asset_id": 559481574,
+      "sha256": "860a727dee6201db3a6341dc0fe7d0c9af87b0129d7381e34312ef0b28ee1e6c",
+      "object_count": 6875,
+      "advertised_ref_count": 18,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__review-document-authority-contract-20260909.bundle",
+      "asset_id": 559481627,
+      "sha256": "10758885183fd191758293acb5f5e8202a9d20f511397deed3bb8ed76a0a74de",
+      "object_count": 6731,
+      "advertised_ref_count": 6,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__review-document-authority-contract-r2-20260909.bundle",
+      "asset_id": 559481645,
+      "sha256": "c5592aee370a33b2045fd1ead54ad90924f7f7b96fb472cf423cf6b48c0adf2c",
+      "object_count": 6739,
+      "advertised_ref_count": 6,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__review-document-authority-product-20260909.bundle",
+      "asset_id": 559481715,
+      "sha256": "ba6414229fc9c30aa6cc1aa017fddba49f7c12a7bc8bc4ceee7834c9f4c0120a",
+      "object_count": 6749,
+      "advertised_ref_count": 7,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__review-document-authority-product-r2-20260909.bundle",
+      "asset_id": 559481721,
+      "sha256": "1f68fc96946d302f95f9a6eab5043913d98a31bdbc61b5678bde9d755bafc9ee",
+      "object_count": 6756,
+      "advertised_ref_count": 7,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__reviewer-python-interpreter-authority-c4d3581.bundle",
+      "asset_id": 559481780,
+      "sha256": "90a2d71b304d828d93715ca2eedae0ed4c8261fe9f410075fde0955f579db5e2",
+      "object_count": 2719,
+      "advertised_ref_count": 3,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-document-authority-20260909.bundle",
+      "asset_id": 559481862,
+      "sha256": "a14b0f1c57b4e00282b5878a0846b871daefb0e4514d78b490e2e098976b17c5",
+      "object_count": 6739,
+      "advertised_ref_count": 7,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-protected-asset-ed584ec3.bundle",
+      "asset_id": 559481879,
+      "sha256": "bee113662d50d5cb0b6b00962084a7dce35ea4e51ba38072dc5cfbcca2045df6",
+      "object_count": 6704,
+      "advertised_ref_count": 3,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r24-installed-completion-8bb7bae9.bundle",
+      "asset_id": 559481890,
+      "sha256": "1e8c7536ad6e75672bc541ee2c19717ca9292d5e918944d9da2304fcf9d4cf6c",
+      "object_count": 6749,
+      "advertised_ref_count": 30,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {
+        "worktrees/test-author-h039-r26-prestaged-recovery-r2-aa1a304b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r26-prestaged-recovery-r2-aa1a304b",
+          "oid": "bcba53ace8cd73640857a49630a8eb6cfab72324"
+        },
+        "worktrees/test-author-h039-r27-r2-create-phase-diagnostic-c43a4c05/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r27-r2-create-phase-diagnostic-c43a4c05",
+          "oid": "31916290542bd1736c636ed4a6e43c577c3dd474"
+        },
+        "worktrees/test-author-h039-r27-create-phase-diagnostic-c43a4c05/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r27-create-phase-diagnostic-c43a4c05",
+          "oid": "ae10c55972a3122b330ae81f5180b40daed94b0d"
+        },
+        "worktrees/builder-h039-r15-atomic-create-phase-diagnostic-b29376a0/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/builder-h039-r15-atomic-create-phase-diagnostic-b29376a0",
+          "oid": "7786536acd284f2c13341446608a646d6cb761ec"
+        },
+        "worktrees/test-author-h039-r25-group-order-1710d58a/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r25-group-order-1710d58a",
+          "oid": "7c806ea05ffc82548fb962bae93a4e90f4c7ae61"
+        },
+        "worktrees/test-author-h039-r26-prestaged-recovery-aa1a304b/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r26-prestaged-recovery-aa1a304b",
+          "oid": "8f58b01d954273c489d47df2a096fc3bbdbe01cb"
+        }
+      },
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r28-installed-binding-f0877daa.bundle",
+      "asset_id": 559481915,
+      "sha256": "582b4cc14a7fe89935dd11ceeb274f2dd328d4648ab31ba1e76316c7dd76f483",
+      "object_count": 6638,
+      "advertised_ref_count": 2,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r28-r2-installed-binding-f0877daa.bundle",
+      "asset_id": 559481918,
+      "sha256": "3c7560b90074611676b1251de2211cac0a0679f1550c399aed02da26aa778a35",
+      "object_count": 6638,
+      "advertised_ref_count": 2,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r28-r3-exact-delta-f0877daa.bundle",
+      "asset_id": 559482058,
+      "sha256": "1a8f9cc63f32d3b24fc95fd3cf1a12500bfcfb088d4580d2f532894832b2351e",
+      "object_count": 6662,
+      "advertised_ref_count": 5,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r29-devt-compat-a13cd9f6.bundle",
+      "asset_id": 559482072,
+      "sha256": "a61f56a18e69d12f669dbdf4b38f9d7649509c7ca4da1b53a3763d6bde611424",
+      "object_count": 6766,
+      "advertised_ref_count": 184,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r29-r2-line-limit-compat-a13cd9f6.bundle",
+      "asset_id": 559482076,
+      "sha256": "32711a62e7c6c8846ba3ab82d8573570e4aabef8f4255219cdf0d5970e19e73a",
+      "object_count": 6664,
+      "advertised_ref_count": 6,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {
+        "worktrees/test-author-h039-r30-target-namespace-8e44faae/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/test-author-h039-r30-target-namespace-8e44faae",
+          "oid": "276fc91e7e71f7f89b01c293d5d5e0f67c11e965"
+        }
+      },
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-h039-r31-lock-provenance-e1421f35.bundle",
+      "asset_id": 559482091,
+      "sha256": "8a75ad25235c45f1473a35b0f4cd89f783d5cb5df35747e3a3d6dc395e7359b8",
+      "object_count": 6678,
+      "advertised_ref_count": 4,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__worktrees__test-author-invariant-required-20260909.bundle",
+      "asset_id": 559482102,
+      "sha256": "464a66b22a149513ec016043cb784de41b754b233a289eb257c7f70440175df8",
+      "object_count": 6764,
+      "advertised_ref_count": 8,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v313-review-531d37e.bundle",
+      "asset_id": 559482280,
+      "sha256": "a5120b6a0eca34b2b7e0fae2cd4087c75104a5ab776e9fedcd622ab34b7f1541",
+      "object_count": 7152,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v314-h036-contract-8ce985d.bundle",
+      "asset_id": 559482283,
+      "sha256": "fea27f1cbcf3ea92d7048a304c2aae9c2a6bf9270924dba3a6df23999c148ffb",
+      "object_count": 7163,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v314-h036-product-03a364b.bundle",
+      "asset_id": 559482292,
+      "sha256": "be08988917527b0d90486af31c24e7805b2efd1274980d44d98037e304bda2e4",
+      "object_count": 7167,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v315-h037-contract-536352f.bundle",
+      "asset_id": 559482308,
+      "sha256": "472504986d4f5f16d88b3518e625be665698d83ff9b3643dc5bd35e15a011234",
+      "object_count": 7178,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v316-h039-continuity-contract-84aa340.bundle",
+      "asset_id": 559482322,
+      "sha256": "a1d70d6891ac0efe87e8ff5a23f791644ca457b10b5817cb4ebb9c327a3a6b71",
+      "object_count": 7186,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "v316-h039-continuity-product-8095d94.bundle",
+      "asset_id": 559482474,
+      "sha256": "5cc302c9e867a8a74a43317150dd3a3b956207ba1c43a099fe6da512badd2279",
+      "object_count": 7196,
+      "advertised_ref_count": 1,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    }
+  ],
+  "withheld_assets": [
+    "nortropic__innovation-intake.bundle",
+    "nortropic__verkstadsgolvet.bundle"
+  ],
+  "all_work_remotely_secured": false,
+  "dirty_untracked_reflog_recovery": "NOT_PROVED_BY_BUNDLES",
+  "previous_attempt": "R1 restored two bundles; stopped on worktree HEAD pseudoref in third; preserved; R2 checks all in new independent stores with explicit recovery mapping",
+  "gate_runtime_bootstrap_credit": false,
+  "local_originals_deleted": false
+}
