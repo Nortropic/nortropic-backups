@@ -18,6 +18,20 @@ kartans ordning och sammanfoga deras AVKODADE bytes. Kontrollera full tarhash
 och längd4848679936. Första gzipfilen är endast en prefixdel, inte hela basen.
 Release: `backup-20260912-main-archive-multipart`.
 
+Senare samma dag pensionerades även två råa scratchpad-backuprepresentationer
+under external/. Exakta identiteter och lokala gzipvägar finns i
+`../github-history-transfer-20260912.HYawFS/large-raw-retirement-result.json`
+(backuprepot: LARGE-RAW-RETIREMENT-RESULT.json). Arkiven är
+scratchpad-refresh-20260910T195603Z.tar och scratchpad-refresh-20260910T202553Z.tar.
+Deras lokala `.tar.local-representation.gz` kan avkodas direkt till respektive
+ursprungligt råarkiv. Kontrollera både gziphash och full råhash/längd mot kvittot.
+På GitHub finns i stället20 respektive25 RÅsegment i release
+`backup-20260912-large-scratchpad-segments`; kontrollera delhashar/offsets och
+sammanfoga RAW bytes enligt LARGE-EXTERNAL-MANIFEST.json. Alla45 har faktiskt
+återlästs; LARGE-EXTERNAL-REMOTE-RECEIPT.json bevisar fulla arkivbytes, inte en
+ny filsystemsrestaurering. Gzipfilerna är inte uppladdade. Originalscratchpads
+och övriga arbetskopior finns kvar; historiska råfilreferenser ändras inte.
+
 För varje delta: hämta dess gzip från
 `backup-20260912-seven-cumulative-supplements`, kontrollera kodad identitet och
 avkoda; råhash och längd ska stämma med samma karta. Deltorna är kumulativa, inte

@@ -129,6 +129,14 @@ både lokalt och på GitHub. Detta är ett avgränsat genomfört steg, inte en g
 regel att radera allt som är uppladdat. Fullt aktuell täckning och återställning
 ska fortfarande redovisas per batch.
 
+Nästa genomförda steg är exakt två stora råa scratchpad-backuprepresentationer,
+se LARGE-RAW-RETIREMENT-RESULT.json. Varje råarkiv kan återskapas byte-exakt från
+sin lokala gzip eller sina ordnade GitHub-råsegment. Gzipfilerna är endast lokala;
+GitHub innehåller45 råsegment, inte dessa gzipfiler. Följ den aktuella
+README-CURRENT-RECOVERY.md och katalogens representationskarta, inte historiska
+råfilssökvägar som nu är pensionerade. Ingen av dessa ändringar innebär att
+ursprungliga arbetskopior eller unik evidens har raderats.
+
 Behåll aktiva arbetskopior och nödvändig aktuell evidens lokalt. Använd deltakopior
 och strömmad kontroll där det är lämpligt; skapa inte flera fulla arbetskopior av
 slentrian. En ny full bas kan tas vid en större milstolpe eller när deltakedjan

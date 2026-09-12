@@ -967,23 +967,37 @@
     {
       "path": "external/scratchpad-refresh-20260910T195603Z.tar",
       "bytes": 2574610432,
-      "status": "UPLOADED_NOT_REMOTE_VERIFIED",
+      "status": "REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED",
       "sha256": "e36549ff754265541ef9569c2b740ee1ca63303cd4893b9826386a23036aca6a",
       "release_tag": "backup-20260912-large-scratchpad-segments",
       "manifest": "LARGE-EXTERNAL-MANIFEST.json",
       "upload_receipt": "LARGE-EXTERNAL-UPLOAD-RECEIPT.json",
       "parts": 20,
+      "remote_receipt": "LARGE-EXTERNAL-REMOTE-RECEIPT.json",
+      "local_raw_status": "RETIRED_REDUNDANT_REPRESENTATION",
+      "retirement_receipt": "LARGE-RAW-RETIREMENT-RESULT.json",
+      "local_encoding": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/scratchpad-refresh-20260910T195603Z.tar.local-representation.gz",
+      "encoded_bytes": 1313152963,
+      "encoded_sha256": "58bcc04b0a14c1ff90f8ef1faf7946d1487f07478f6e7a0a0a3c4f0b4c39e4ea",
+      "encoding_uploaded": false,
       "filesystem_restore": "NOT_RUN"
     },
     {
       "path": "external/scratchpad-refresh-20260910T202553Z.tar",
       "bytes": 3271506944,
-      "status": "UPLOADED_NOT_REMOTE_VERIFIED",
+      "status": "REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED",
       "sha256": "c106845cf80c9d0657883183c00bc8256eecaedf8eab8d2a6727076ed05f54da",
       "release_tag": "backup-20260912-large-scratchpad-segments",
       "manifest": "LARGE-EXTERNAL-MANIFEST.json",
       "upload_receipt": "LARGE-EXTERNAL-UPLOAD-RECEIPT.json",
       "parts": 25,
+      "remote_receipt": "LARGE-EXTERNAL-REMOTE-RECEIPT.json",
+      "local_raw_status": "RETIRED_REDUNDANT_REPRESENTATION",
+      "retirement_receipt": "LARGE-RAW-RETIREMENT-RESULT.json",
+      "local_encoding": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/scratchpad-refresh-20260910T202553Z.tar.local-representation.gz",
+      "encoded_bytes": 1665404714,
+      "encoded_sha256": "25d4c02522ae19ba45c1fa2d127561f19fed0a1e2801a218b693e04f01733799",
+      "encoding_uploaded": false,
       "filesystem_restore": "NOT_RUN"
     },
     {
@@ -1395,6 +1409,17 @@
       "coverage": "Mapped regular reports except exact withheld reports/v314-h036-product-03a364b-final/product-03a364b-r1.stdout; original log retained locally. No filesystem restore in this batch.",
       "release_tag": "backup-20260912-cleared-cleanup-recovery",
       "receipt": "CLEANUP-MATERIALS-REMOTE-RECEIPT.json"
+    },
+    {
+      "path": "external/h039-supplier-hold-aee154f8-20260912.tar.gz",
+      "bytes": 1145034,
+      "sha256": "743df276b61587a4a80d88d0f1aed64525798f6a6456b331f0871a1cb96f94fe",
+      "status": "REMOTE_BOUNDED_FILES_RESTORED_VERIFIED",
+      "release_tag": "backup-20260912-h039-supplier-aee154f8",
+      "inspection": "H039-SUPPLIER-BACKUP-INSPECTION.json",
+      "receipt": "H039-SUPPLIER-RESTORE-RECEIPT.json",
+      "logical_files": 14,
+      "scope": "Fixed held source/focus/review files only, not successor moving work or complete worktree"
     }
   ]
 }

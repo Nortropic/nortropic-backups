@@ -44,6 +44,30 @@ proof; they are not implicitly approved by the small first batch.
 
 ## Coverage
 
+Latest disk checkpoint, 2026-09-12T17:33Z: all45 large-archive parts completed
+remote byte readback, reconstructing both full original archives exactly.
+LARGE-EXTERNAL-REMOTE-RECEIPT.json records exit0, empty stderr and unchanged
+sources; it is archive reconstruction, not filesystem restoration. The two raw
+local backup representations were then retired after fresh local gzip decoding,
+remote asset/identity checks and no observed open-file use. Their local gzip
+substitutes, all45 remote assets, original work and other evidence remain.
+See LARGE-RAW-RETIREMENT-DECISION.md and LARGE-RAW-RETIREMENT-RESULT.json.
+Logical raw bytes removed5,846,117,376; retained gzip bytes2,978,557,677.
+Immediate observed free delta2,573,602,816 did not yet reflect all released space;
+a later df measured23,709,412KiB (~22.61GiB). Recheck before every heavy operation.
+Together with the earlier eight-file step, this retired ten redundant raw
+representations, not repositories, working copies or unique historical evidence.
+
+Held-source checkpoint: H039-SUPPLIER-RESTORE-RECEIPT.json records an actual
+download and fourteen-file restore of the held aee154f8/dcd1fb68 source tranche,
+its predecessor/focus files and earlier source review. Membership, bytes, modes,
+owner/group, nanosecond mtime, xattrs and independent single-link inodes passed.
+H039-SUPPLIER-SOURCE-REVIEW.md preserves the separate completed supplier review.
+This is not a current moving-worktree snapshot, compiled product or gate credit;
+later F3/F6/source changes need their next own checkpoint. Base history is already
+in the v316-h039-continuity-product-8095d94 bundle and unchanged spec/CLI bytes are
+in the first material-binding batch. Do not apply these held files over later work.
+
 Latest representation checkpoint, 2026-09-12T17:02:02Z: exactly eight redundant
 raw tar files were retired under the user's direct continuation instruction,
 after fresh local byte reconstruction, remote asset ID/size/digest checks and
@@ -121,8 +145,8 @@ for the two large scratchpad archives, with part offsets, sizes and hashes and
 whole-archive hashes. The named private release is
 `backup-20260912-large-scratchpad-segments`. All 45 uploads completed with exit0,
 empty stderr and unchanged source bytes (5,846,117,376 bytes total), recorded in
-LARGE-EXTERNAL-UPLOAD-RECEIPT.json. Independent readback is still in progress;
-uploaded is not yet remotely verified or filesystem-restored.
+LARGE-EXTERNAL-UPLOAD-RECEIPT.json. The later complete readback is recorded in
+LARGE-EXTERNAL-REMOTE-RECEIPT.json; filesystem restoration remains NOT_RUN.
 Download each archive's parts in manifest order, verify them, concatenate their
 RAW bytes (not gzip), then verify the full archive before any safe extraction.
 The upload helper streams exactly Content-Length bytes through configured gh;
@@ -156,8 +180,9 @@ Eight redundant download-cache files were retired after completed restoration;
 their byte-identical local encoded source copies, remote assets and restored trees
 remain. This is not retirement of original backups or repositories.
 Budget genuine remote filesystem restoration separately: the main tar's logical
-regular-file bytes alone are 4266945226, beyond the currently observed margin
-above the 15 GiB floor. Historical local restoration reports are retained but are
+regular-file bytes alone are4266945226, before metadata, delta and safety margin.
+Available disk must be remeasured against the concurrent H039 build budget.
+Historical local restoration reports are retained but are
 not silently promoted to a new remote-restoration result. No generic new owner
 approval is needed for the already-authorized backup engineering; deletion is
 not authorized by this checkpoint.

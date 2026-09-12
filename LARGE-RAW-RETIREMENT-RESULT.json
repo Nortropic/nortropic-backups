@@ -1,0 +1,77 @@
+{
+  "time_utc": "2026-09-12T17:33:52.516801+00:00",
+  "status": "TWO_RAW_REPRESENTATIONS_RETIRED",
+  "removed": 2,
+  "logical_bytes": 5846117376,
+  "retained_encoded_bytes": 2978557677,
+  "free_before": 18435153920,
+  "free_after": 21008756736,
+  "observed_free_delta": 2573602816,
+  "targets": [
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/scratchpad-refresh-20260910T195603Z.tar",
+      "bytes": 2574610432,
+      "sha256": "e36549ff754265541ef9569c2b740ee1ca63303cd4893b9826386a23036aca6a",
+      "identity": [
+        16777230,
+        134510668,
+        33188,
+        501,
+        20,
+        1,
+        2574610432,
+        1789070225526564108,
+        1789070225526564108
+      ],
+      "encoded": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/scratchpad-refresh-20260910T195603Z.tar.local-representation.gz",
+      "encoded_bytes": 1313152963,
+      "encoded_sha256": "58bcc04b0a14c1ff90f8ef1faf7946d1487f07478f6e7a0a0a3c4f0b4c39e4ea",
+      "encoded_identity": [
+        16777230,
+        147018976,
+        33152,
+        501,
+        20,
+        1,
+        1313152963,
+        1789233524208920399,
+        1789233524208920399
+      ]
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/scratchpad-refresh-20260910T202553Z.tar",
+      "bytes": 3271506944,
+      "sha256": "c106845cf80c9d0657883183c00bc8256eecaedf8eab8d2a6727076ed05f54da",
+      "identity": [
+        16777230,
+        134827655,
+        33188,
+        501,
+        20,
+        1,
+        3271506944,
+        1789072024319878221,
+        1789072024319878221
+      ],
+      "encoded": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/scratchpad-refresh-20260910T202553Z.tar.local-representation.gz",
+      "encoded_bytes": 1665404714,
+      "encoded_sha256": "25d4c02522ae19ba45c1fa2d127561f19fed0a1e2801a218b693e04f01733799",
+      "encoded_identity": [
+        16777230,
+        147019031,
+        33152,
+        501,
+        20,
+        1,
+        1665404714,
+        1789233605365209088,
+        1789233605365209088
+      ]
+    }
+  ],
+  "remote_receipt_sha256": "b2ed8f45ece68ded7d47afc958664b42aa638db9b096676e442e209b56adfd01",
+  "decision_sha256": "e3f5ad6db9e2142bc55b671b39add2e5d02281e670b9f655dc040e24035f298e",
+  "recovery": "Decode each retained local gzip or concatenate its verified remote raw segments; require full raw hash/size.",
+  "filesystem_restore": "NOT_RUN",
+  "bootstrap_credit": false
+}
