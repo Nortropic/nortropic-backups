@@ -1,0 +1,77 @@
+{
+  "time_utc": "2026-09-12T15:39:16.994747+00:00",
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "private": true,
+  "release_id": 387616736,
+  "release_tag": "backup-20260912-reviewed-history-remainder",
+  "completed": [
+    {
+      "asset_name": "nortropic__innovation-intake.bundle",
+      "asset_id": 559499067,
+      "sha256": "5ad6228ae6842eb2551f7c315faed6f8638d046eef27d7365630cc5cd0928726",
+      "object_count": 437,
+      "advertised_ref_count": 6,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {},
+      "worktree_admin_index_dirty_files_restored": false
+    },
+    {
+      "asset_name": "nortropic__verkstadsgolvet.bundle",
+      "asset_id": 559499081,
+      "sha256": "7cf39ec828d8723d312be06e0bf49865e9bde231a03c2c58bce577ef97f8b224",
+      "object_count": 2236,
+      "advertised_ref_count": 130,
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "bundle_verify_exit": 0,
+      "unbundle_exit": 0,
+      "fsck_exit": 0,
+      "normal_refs_and_object_projection_exact": true,
+      "worktree_HEAD_recovery_mapping": {
+        "worktrees/room-08_mobile_room-room-08_mobile_room-20260815000407/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/room-08_mobile_room-room-08_mobile_room-20260815000407",
+          "oid": "6831fbd144cce2a3af6c4f51907796937c57e050"
+        },
+        "worktrees/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815101105/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815101105",
+          "oid": "89655e13dc60d853f050fca9caedb698298a94f9"
+        },
+        "worktrees/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815153223/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815153223",
+          "oid": "fecc5643670c751ab6bce0e89e6193cd3feb75c8"
+        },
+        "worktrees/master-00_roadmap_freeze-master-00_roadmap_freeze-20260814111538/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/master-00_roadmap_freeze-master-00_roadmap_freeze-20260814111538",
+          "oid": "d3e3e6d417c46a8be328982309d7e71235bfd07c"
+        },
+        "worktrees/step0a-acq-containment/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/step0a-acq-containment",
+          "oid": "3303fb74a4609ee8a29d5789eee960cc9819deab"
+        },
+        "worktrees/report-01_final_report-report-01_final_report-20260815022907/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/report-01_final_report-report-01_final_report-20260815022907",
+          "oid": "be624ad6610dba12fa47c6a2515b87499600efe4"
+        },
+        "worktrees/cockpit-01_data_layer-cockpit-01_data_layer-20260824170315/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/cockpit-01_data_layer-cockpit-01_data_layer-20260824170315",
+          "oid": "1da978bd08d38a3c7715a3b7a4df718e5b6fb555"
+        },
+        "worktrees/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815142845/HEAD": {
+          "recovery_ref": "refs/backup-recovery/worktree-heads/shredder-01b_showroom_exposure-shredder-01b_showroom_exposure-20260815142845",
+          "oid": "330457cfa56646d5f56b7746c0e0064009505eb5"
+        }
+      },
+      "worktree_admin_index_dirty_files_restored": false
+    }
+  ],
+  "withheld_assets": [],
+  "all_work_remotely_secured": false,
+  "dirty_untracked_reflog_recovery": "NOT_PROVED_BY_BUNDLES",
+  "previous_attempt": "No previous attempt for this two-bundle batch; reuses tested explicit pseudoref recovery mapping",
+  "gate_runtime_bootstrap_credit": false,
+  "local_originals_deleted": false
+}

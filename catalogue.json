@@ -590,7 +590,11 @@
     {
       "path": "bundles/nortropic__innovation-intake.bundle",
       "bytes": 3902860,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "5ad6228ae6842eb2551f7c315faed6f8638d046eef27d7365630cc5cd0928726",
+      "release_tag": "backup-20260912-reviewed-history-remainder",
+      "asset_id": 559499067,
+      "restore_receipt": "HISTORY-REMAINDER-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__nortropic-knowledge.bundle",
@@ -613,7 +617,11 @@
     {
       "path": "bundles/nortropic__verkstadsgolvet.bundle",
       "bytes": 1584021,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_GIT_BUNDLE_RESTORED_VERIFIED",
+      "sha256": "7cf39ec828d8723d312be06e0bf49865e9bde231a03c2c58bce577ef97f8b224",
+      "release_tag": "backup-20260912-reviewed-history-remainder",
+      "asset_id": 559499081,
+      "restore_receipt": "HISTORY-REMAINDER-RESTORE-RECEIPT.json"
     },
     {
       "path": "bundles/nortropic__worktrees__builder-document-authority-20260909.bundle",

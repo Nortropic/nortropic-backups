@@ -1,0 +1,432 @@
+{
+  "status": "FLAGGED_CONTENT_REVIEW_COMPLETE",
+  "scope": "Exact fixture objects, three empty env templates and nested markdown archive; bounded secret patterns and source-context review, not universal absence proof",
+  "fixtures": [
+    {
+      "oid": "11d1443431366d1ae24804f1eb51248e71d30108",
+      "sha256": "f7ef9868ce9e4ac11273d9624a660722b191b7cb05180a0602e9afa0a601b70a",
+      "findings": [
+        {
+          "oid": "11d1443431366d1ae24804f1eb51248e71d30108",
+          "type": "blob",
+          "category": "literal_secret",
+          "offset": 1952
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Literal smoke credential supplied to script-created localhost server only; no server executed"
+    },
+    {
+      "oid": "6066b6414143cd0843970b88d6385a649da63b55",
+      "sha256": "d1288f67f7142995430194c59675737f161954560a9e03f61fb36b90ec614dfe",
+      "findings": [
+        {
+          "oid": "6066b6414143cd0843970b88d6385a649da63b55",
+          "type": "blob",
+          "category": "private_key",
+          "offset": 33190
+        },
+        {
+          "oid": "6066b6414143cd0843970b88d6385a649da63b55",
+          "type": "blob",
+          "category": "github_token",
+          "offset": 32993
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Synthetic scanner-input array; ordered alphabet/digit token; PEM opening marker only; asserted detection, not authentication"
+    },
+    {
+      "oid": "bbad712a798d815bd3419a90de190a1a9457a605",
+      "sha256": "1a60f46b9a43ac5aad6682842a5c2c9f80da0c6205c4b1c168b3cff52b9e14ea",
+      "findings": [
+        {
+          "oid": "bbad712a798d815bd3419a90de190a1a9457a605",
+          "type": "blob",
+          "category": "literal_secret",
+          "offset": 380
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Explicit visual-auth sentinel used in mocked/local test path; no test executed"
+    },
+    {
+      "oid": "cc232e6c578cca363db154e36d3cfd9048b57ad1",
+      "sha256": "51de393acbacfb7680a6d411b9002739931851ba3d753e1d962d7c419e76957c",
+      "findings": [
+        {
+          "oid": "cc232e6c578cca363db154e36d3cfd9048b57ad1",
+          "type": "blob",
+          "category": "private_key",
+          "offset": 31980
+        },
+        {
+          "oid": "cc232e6c578cca363db154e36d3cfd9048b57ad1",
+          "type": "blob",
+          "category": "github_token",
+          "offset": 31783
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Synthetic scanner-input array; ordered alphabet/digit token; PEM opening marker only; asserted detection, not authentication"
+    },
+    {
+      "oid": "eea4e2594bde3e13784924d2215c281da263c4d4",
+      "sha256": "67e0705eed315646fb9c8625cb1b051348286757b951bb76d56cc96db50bc020",
+      "findings": [
+        {
+          "oid": "eea4e2594bde3e13784924d2215c281da263c4d4",
+          "type": "blob",
+          "category": "literal_secret",
+          "offset": 6130
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Explicit visual-auth sentinel used in mocked/local test path; no test executed"
+    },
+    {
+      "oid": "f0c39ab066169c1762426f3d2676953730d4d47d",
+      "sha256": "e7e9e5840fa4de0828d4eb1bdb5ac9a57530cb185e16c87d92b4f1069203a128",
+      "findings": [
+        {
+          "oid": "f0c39ab066169c1762426f3d2676953730d4d47d",
+          "type": "blob",
+          "category": "literal_secret",
+          "offset": 485
+        }
+      ],
+      "disposition": "SYNTHETIC_TEST_FIXTURE",
+      "basis": "Explicit visual-auth sentinel used in mocked/local test path; no test executed"
+    }
+  ],
+  "env_templates": [
+    {
+      "oid": "5225937e3a64700d901446ea5ac0a412bd713d7c",
+      "sha256": "49060c93d6617f4da167e2750dbe0600c0fe95113937b0ed02e6689d1aee6fb6",
+      "assignments": [
+        {
+          "name": "AUTH_SECRET",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_USERNAME",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_PASSWORD",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_READ",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_OWNER",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "WORKFLOW_REPO",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_WRITE",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ANTHROPIC_API_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ONBOARDING_ENABLED",
+          "empty": false,
+          "allowed_boolean_false": true
+        },
+        {
+          "name": "SUPABASE_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "SUPABASE_SERVICE_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "N8N_WEBHOOK_SECRET",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "PLACES_API_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        }
+      ],
+      "disposition": "EMPTY_CONFIGURATION_TEMPLATE"
+    },
+    {
+      "oid": "8c764ab5800fc97eebf5b00792ba5ae2ccf176eb",
+      "sha256": "68c750c981156eb4bfb17cd3ef27e6fdbe367eac2b9ab98196ea8576ecd60cb8",
+      "assignments": [
+        {
+          "name": "AUTH_SECRET",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_USERNAME",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_PASSWORD",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_READ",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_OWNER",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "WORKFLOW_REPO",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_WRITE",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ANTHROPIC_API_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ONBOARDING_ENABLED",
+          "empty": false,
+          "allowed_boolean_false": true
+        },
+        {
+          "name": "SUPABASE_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "SUPABASE_SERVICE_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "N8N_LEADS_WEBHOOK_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "N8N_WEBHOOK_SECRET",
+          "empty": true,
+          "allowed_boolean_false": false
+        }
+      ],
+      "disposition": "EMPTY_CONFIGURATION_TEMPLATE"
+    },
+    {
+      "oid": "9d731b86218f2bf8f81302d3dcfc3e5b9c542b67",
+      "sha256": "226c6201cd185079da5cedca8c2a25d3e1bd4f34fa55abde01d20deef976a20b",
+      "assignments": [
+        {
+          "name": "AUTH_SECRET",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_URL",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_USERNAME",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "AUTH_PASSWORD",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_READ",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_OWNER",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "WORKFLOW_REPO",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "GITHUB_TOKEN_WRITE",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ANTHROPIC_API_KEY",
+          "empty": true,
+          "allowed_boolean_false": false
+        },
+        {
+          "name": "ONBOARDING_ENABLED",
+          "empty": false,
+          "allowed_boolean_false": true
+        }
+      ],
+      "disposition": "EMPTY_CONFIGURATION_TEMPLATE"
+    }
+  ],
+  "nested_archive": {
+    "sha256": "2d8cbc39da762cc088ff170de24e9f3f2513de6c8ae58ba6003f4e34abc6e20d",
+    "members": [
+      {
+        "path": "./GOVERNANCE.md",
+        "bytes": 2326,
+        "sha256": "2f786d0591db68d695e14395c957509ecd62a9cbe13f2cd9696e467914f18193"
+      },
+      {
+        "path": "./README.md",
+        "bytes": 2688,
+        "sha256": "639349b267a91e650c2441b66529566e32d997d0f2f31ee76646f9cb6fefe97a"
+      },
+      {
+        "path": "./CONTRIBUTING.md",
+        "bytes": 877,
+        "sha256": "8b6aa0b65f8183554f836c9e670b34c7bcea71ccee4148ffc14bac8ad78d36b0"
+      },
+      {
+        "path": "./AGENTS.md",
+        "bytes": 1997,
+        "sha256": "82feda7454b9d466c9ced427d675ff4412b15ba6a826d8f59b22e1b7a6c0e8a8"
+      },
+      {
+        "path": "./CLAUDE.md",
+        "bytes": 500,
+        "sha256": "73e9e38afc9ca57ff1d99d2ede18da28ef7bef44afb3bb5d275f7d942c0d09c9"
+      },
+      {
+        "path": "./reports/documentation-architecture-inventory-2026-08-15.md",
+        "bytes": 14832,
+        "sha256": "4572930a89e595e677f35731b3b5c2fafc0b9f6e3698de6c46b170f9d2a4ca18"
+      },
+      {
+        "path": "./reports/README.md",
+        "bytes": 358,
+        "sha256": "b1facf7606c7972de161be0d407398ef13bf8ee7fed6b0a549f521893a9924b6"
+      },
+      {
+        "path": "./handoffs/README.md",
+        "bytes": 259,
+        "sha256": "114d462798064acb878a968d3e6351b06e5d3214f24d89182b672bfec512efab"
+      },
+      {
+        "path": "./templates/knowledge-document.md",
+        "bytes": 1062,
+        "sha256": "17946a4a566efe18627ecdf0e1ef87bfc2a61af04b2b672dacf127ffbffbb8c5"
+      },
+      {
+        "path": "./learnings/README.md",
+        "bytes": 271,
+        "sha256": "9200594fcd99cb95699f11794219c78615829516d55e21e43fa271711de9d77d"
+      },
+      {
+        "path": "./architecture/README.md",
+        "bytes": 472,
+        "sha256": "925d2b8f44e66e1ec3f49dcf630c34195dadb7383f4ff11234d3fdf9409df587"
+      },
+      {
+        "path": "./operations/README.md",
+        "bytes": 309,
+        "sha256": "5e6c019447bf5a78b02a7e120d888857b0f2f41ee07367dfc7d0dc6e429f340e"
+      },
+      {
+        "path": "./decisions/README.md",
+        "bytes": 331,
+        "sha256": "36bed893289c8793362bce5c046f286be8cbaca4efdd0b2d7d0f5ef49943f9ec"
+      },
+      {
+        "path": "./postmortems/README.md",
+        "bytes": 291,
+        "sha256": "30579757f85746a39ffd046147b672ad47b56eaa3abc0effaa12534582ed9a5d"
+      },
+      {
+        "path": "./product/README.md",
+        "bytes": 277,
+        "sha256": "cec65558e4f7c97fc0f61e25a45fc290f06e3bd25ade6396f873b8301437f051"
+      },
+      {
+        "path": "./rfcs/README.md",
+        "bytes": 343,
+        "sha256": "9400d54f71a46c8f24c271be58bc1b260cbe2cae8b0193e3e07db8bc47ba8d0c"
+      },
+      {
+        "path": "./references/verkstadsgolvet.md",
+        "bytes": 4790,
+        "sha256": "1af600f5935c9e71ce0b91710b9bf3d14843b05a9d9b364410c52322d54eb577"
+      },
+      {
+        "path": "./references/nortropic-system.md",
+        "bytes": 5862,
+        "sha256": "0c6913e31979afef7c5a97b203fe3e4594cb94713a65484f3cb0aad8a9ff0bae"
+      },
+      {
+        "path": "./references/README.md",
+        "bytes": 412,
+        "sha256": "3abafcd3b0673e8c0bfe10da8e7282806417cf76cd1fb643f18067beedc6de5d"
+      },
+      {
+        "path": "./archive/README.md",
+        "bytes": 446,
+        "sha256": "9eb00d5b8a4466ded37560e75eb6e71f43244cdf8d074899e08a42a5e2e02d8c"
+      },
+      {
+        "path": "./research/README.md",
+        "bytes": 332,
+        "sha256": "cfa256bbcef54d8f4510ee1d730b943b038fbb1805678eeeb5f7e441b58a6cc8"
+      }
+    ],
+    "regular_count": 21,
+    "bytes": 39035
+  },
+  "main_archive_six_finding_hashes_match_classified_sources": true,
+  "no_archived_code_executed": true,
+  "credential_authentication_attempted": false,
+  "two_bundles_content_clearance": "Bounded content review complete; no live credentials established; previous withheld state preserved",
+  "main_archive_upload_clearance": false
+}
