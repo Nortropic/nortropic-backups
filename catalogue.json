@@ -967,12 +967,24 @@
     {
       "path": "external/scratchpad-refresh-20260910T195603Z.tar",
       "bytes": 2574610432,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "UPLOADED_NOT_REMOTE_VERIFIED",
+      "sha256": "e36549ff754265541ef9569c2b740ee1ca63303cd4893b9826386a23036aca6a",
+      "release_tag": "backup-20260912-large-scratchpad-segments",
+      "manifest": "LARGE-EXTERNAL-MANIFEST.json",
+      "upload_receipt": "LARGE-EXTERNAL-UPLOAD-RECEIPT.json",
+      "parts": 20,
+      "filesystem_restore": "NOT_RUN"
     },
     {
       "path": "external/scratchpad-refresh-20260910T202553Z.tar",
       "bytes": 3271506944,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "UPLOADED_NOT_REMOTE_VERIFIED",
+      "sha256": "c106845cf80c9d0657883183c00bc8256eecaedf8eab8d2a6727076ed05f54da",
+      "release_tag": "backup-20260912-large-scratchpad-segments",
+      "manifest": "LARGE-EXTERNAL-MANIFEST.json",
+      "upload_receipt": "LARGE-EXTERNAL-UPLOAD-RECEIPT.json",
+      "parts": 25,
+      "filesystem_restore": "NOT_RUN"
     },
     {
       "path": "external/v314-h036-and-separation-fixtures-03a364b.tar.gz",

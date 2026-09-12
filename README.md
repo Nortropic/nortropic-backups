@@ -58,6 +58,8 @@ Reconstruction: base uses the two gzip parts in proposal order; concatenate the
 DECODED bytes and verify the full raw hash/length. Each supplement has one gzip
 part; decode and verify its raw hash/length. Never treat the first base part as
 a whole archive. A normal Git clone does not download these release payloads.
+See [README-CURRENT-RECOVERY.md](README-CURRENT-RECOVERY.md) before using the
+preserved historical restore instructions, whose raw input paths were retired.
 Only reconstruct into a fresh budgeted recovery area; this retirement does not
 prove a new composed filesystem restore or recreate historical runtime identity.
 The observed free-space increase was5,232,234,496 bytes; concurrent host activity
@@ -117,7 +119,10 @@ full filesystem restoration.
 LARGE-EXTERNAL-MANIFEST.json defines45 consecutive raw128MiB-or-smaller segments
 for the two large scratchpad archives, with part offsets, sizes and hashes and
 whole-archive hashes. The named private release is
-`backup-20260912-large-scratchpad-segments`; upload/readback are in progress.
+`backup-20260912-large-scratchpad-segments`. All 45 uploads completed with exit0,
+empty stderr and unchanged source bytes (5,846,117,376 bytes total), recorded in
+LARGE-EXTERNAL-UPLOAD-RECEIPT.json. Independent readback is still in progress;
+uploaded is not yet remotely verified or filesystem-restored.
 Download each archive's parts in manifest order, verify them, concatenate their
 RAW bytes (not gzip), then verify the full archive before any safe extraction.
 The upload helper streams exactly Content-Length bytes through configured gh;
