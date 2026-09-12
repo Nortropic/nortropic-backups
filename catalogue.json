@@ -319,7 +319,10 @@
     {
       "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.tar",
       "bytes": 78336,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "48e00a0b9b5ad8feac69b0d5ff971d89e05bf570281f296e296c211e3bcecad9",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/cleanup-fixtures-20260912",
@@ -342,17 +345,26 @@
     {
       "path": "external/h039-asset-local-preparation-2782ead3-20260912.tar.gz",
       "bytes": 391725,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "c6abfbf828204275c0d056ba25afbbf388620ba921d3991f24a9545ed787eb8e",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/h039-asset-numstat-reference-ko8im7by-20260912.tar.gz",
       "bytes": 257762,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "a36e4473b68c096a294d10314303468a6e2bcae0bdc7822181f7e9dd8bd49ba6",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/h039-local-asset-fourpath-4601259e-20260912.tar.gz",
       "bytes": 811120,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "de61e967287894e5801c991c3f8c8c77ebdea13291412af005d8f30f12a68246",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/h039-local-material-binding-dbd51ba7-20260912.tar.gz",
@@ -364,7 +376,10 @@
     {
       "path": "external/h039-local-observer-port-bc056934-20260912.tar.gz",
       "bytes": 818031,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "98599ae57ddc6a2cd4acf894fcddf0afea9160bc5553a612a4695e43961edf45",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/h039-local-two-edge-method-53ms1swj-20260912.tar.gz",
@@ -374,7 +389,10 @@
     {
       "path": "external/h039-observer-causal-method-7z704bbk-20260912.tar.gz",
       "bytes": 1481773,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "71070a47d5a18f1c0c0032ab7f46f16846b7af699b5a5f68bb6262dbbd7e2a6e",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/nortropic-repos__nortropic-system.tar",
@@ -437,7 +455,10 @@
     {
       "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.tar",
       "bytes": 134656,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "21459a37d4d135e500f96272f41e52ff857dfca893c12bba44a7c58c69585446",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.manifest.tsv",
@@ -450,7 +471,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.tar",
       "bytes": 1982976,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "246fb228abafc142ae4c6612b39c225beca458aa98bb06589fccf58d7c85362f",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.manifest.tsv",
@@ -463,7 +487,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.tar",
       "bytes": 1983488,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "f47e9961ae768619cf11fe111708ca3948125abe399b3b6f97c8f0edd2dc8279",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.manifest.tsv",
@@ -476,7 +503,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.tar",
       "bytes": 1983488,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "12db6027c112eba51892c7232a62703dbb00ad7629b03e243ee4545ba82e5a46",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.manifest.tsv",
@@ -489,7 +519,10 @@
     {
       "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.tar",
       "bytes": 16195584,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "fd33ec16b2fb88df6e419224f4daa774e4747d2de842fc3767aceb81f7daf09b",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.manifest.tsv",
@@ -502,7 +535,10 @@
     {
       "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.tar",
       "bytes": 16201216,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "b4065c3c6f5f1ba5d17eb80ce9ab1e2aa9dd3f1d4b3e18ee6e8987cfb6a6bf29",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-product-review.gRXLE4.manifest.tsv",
@@ -515,7 +551,10 @@
     {
       "path": "external/private__tmp__document-authority-product-review.gRXLE4.tar",
       "bytes": 16216064,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "6dca9ff3a84acfcac0bdbbc6a604bf8ae6046552916280672baf3223a29e4f6c",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-dz97l3_7.manifest.tsv",
@@ -528,7 +567,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-dz97l3_7.tar",
       "bytes": 315904,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "3e3c8cafd76d92257c7c50c2eae145b1c4f064cd538a4621d1c06723ce424665",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-i4obi427.manifest.tsv",
@@ -541,7 +583,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-i4obi427.tar",
       "bytes": 693760,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "923c059c308ab795f43865bfa280883c7457669b6038588c128d8853751975fc",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-q2j4bejy.manifest.tsv",
@@ -554,7 +599,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-q2j4bejy.tar",
       "bytes": 2215424,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "68d3b85fd699674fe74ff9223c5112802b2494b9b29b44ef2fc861aff3253c75",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-git-observe-tyt8Rz.manifest.tsv",
@@ -567,7 +615,10 @@
     {
       "path": "external/private__tmp__h039-git-observe-tyt8Rz.tar",
       "bytes": 27294208,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "462dd383500ed4c06c937252d572fae0a985b4a45c7813f93fbef5a10f3821a7",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.manifest.tsv",
@@ -580,7 +631,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.tar",
       "bytes": 16937472,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "4dce2c274fac610f4dc7268d5ec4aafe24346092c4da1e90d320205c1fc17a5d",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.manifest.tsv",
@@ -593,7 +647,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.tar",
       "bytes": 19825664,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "d691bd8221df11455a9a92e1fe860bb067040edc79866aa1a5abd1f24792967e",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.manifest.tsv",
@@ -606,7 +663,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.tar",
       "bytes": 19814912,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "dd3f8dfde522264812c03071100dbb80686af55aadce64e1e60b5006c2c30b6c",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.manifest.tsv",
@@ -619,7 +679,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.tar",
       "bytes": 16970240,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "b1d9644c4669aa1555f18e599c26040406ed1728aa9f747876a88a48b3202644",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.manifest.tsv",
@@ -632,7 +695,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.tar",
       "bytes": 16952320,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "00b063df652c9a732609122a99f3555824dc34c968e6d0b0c6d321d9832abd80",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.manifest.tsv",
@@ -645,7 +711,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.tar",
       "bytes": 19822080,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "d3ccfec68227c41cd5294c267f53d27105caf66f3e84b25a9d5d40e5fcc7cdfd",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.manifest.tsv",
@@ -658,7 +727,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.tar",
       "bytes": 19825664,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "21f3da86aa9990636ad143ec985b7c7925adb6e7fac5d9f916a80b11e530a137",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.manifest.tsv",
@@ -671,7 +743,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.tar",
       "bytes": 16933888,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "6c36a1ce936a2b78ebd2605990d5d523eabe995cbd63a1d7039ea03cd0ff5c13",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.manifest.tsv",
@@ -684,7 +759,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.tar",
       "bytes": 16948736,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "a038b39366209a8addddeb2f2f8cccf0ab3db03cd03874e7f82d6d9f41b589e1",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.manifest.tsv",
@@ -697,7 +775,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.tar",
       "bytes": 19822080,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "5830a24d512927edaaaebe75aed3716faece427ff19a2386e3454f4fce6d23e1",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.manifest.tsv",
@@ -710,37 +791,58 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.tar",
       "bytes": 19832832,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "1d9f7ad918b4cac66c4b91f2efa0e7a26bb642ee03b04c4275502aef8e28d010",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/review-evidence__document-authority-local-35ajl8r5.tar",
       "bytes": 19825664,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "b213239ba9f49a32ed9b55b9228621b4031c8f78c2536cf1ab008d2977d0f75e",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/review-evidence__invariant-required-local-6o8b5s0_.tar",
       "bytes": 1979904,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "2986c2049d87aa6b04ed402d31d7173b3057bbeffade9eaa25d0935077d1592d",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/scratchpad-refresh-20260910T104815Z.tar",
       "bytes": 203776,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "66634af15b3e131ce22b02e8e54d1c88ee031ae7b4e39ce463f1728af807774e",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/scratchpad-refresh-20260910T105109Z.tar",
       "bytes": 203776,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "a700b47e7d108b59c071bd903203342e065057841183330ad89c0aff9839bb63",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/scratchpad-refresh-20260910T110008Z.tar",
       "bytes": 203776,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "a700b47e7d108b59c071bd903203342e065057841183330ad89c0aff9839bb63",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/scratchpad-refresh-20260910T112915Z.tar",
       "bytes": 278016,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "3844c51fd72875c39821ea2e7af7e8d07812e990c3538db3feba706a1187d67c",
+      "release_tag": "backup-20260912-reviewed-external-batch1",
+      "receipt": "EXTERNAL-BATCH1-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/scratchpad-refresh-20260910T161125Z.tar",

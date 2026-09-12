@@ -86,8 +86,10 @@ bounded archive reviews. EXTERNAL-GIT-CONTENT-REVIEW.json closes31 previously
 unknown packs (31,975 objects, fsck0); its sole nested archive is byte-identical
 to the21 Markdown documents in FLAGGED-CONTENT-REVIEW.json. Historical unresolved
 review rows are retained, not rewritten as though already cleared at that time.
-The34 initial clear archives and13 subsequently cleared archives are uploaded;
-their streamed remote verifications are still in progress at this checkpoint.
+The34 initial clear archives have completed streamed remote byte verification;
+see EXTERNAL-BATCH1-REMOTE-RECEIPT.json. This is not filesystem restoration.
+The13 subsequently cleared archives are uploaded; their streamed remote
+verification remains in progress at this checkpoint.
 
 LARGE-EXTERNAL-MANIFEST.json defines45 consecutive raw128MiB-or-smaller segments
 for the two large scratchpad archives, with part offsets, sizes and hashes and
