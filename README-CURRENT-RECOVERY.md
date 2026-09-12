@@ -1,5 +1,44 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senare H039 verifierarutkast — 12 filer faktiskt återställda
+
+En ny liten batch säkrar det ofrusna sexfilsutkastet vid exakt
+P `005366dd5e3a9a74d8140c9dd0c0175aea268294` plus tre inerta provrekord,
+rootens bevarandekontroll, kontinuitet och urvalslista.
+43/43 är endast 18 inerta semantikfall och25 rena käll-/syntetiska graphfall.
+Ingen ny full grind/frysning/produkt/load/query/runtimecredit.
+138 andra spårade filer jämfördes med P:s exakta blobbytes/modes i ec6c28;
+original kvalificerad P är ren. Denna jämförelse finns bland arkivets evidens.
+
+Privat repoID1367371291 kontrollerades602900 före överföring.
+Release `backup-20260912-h039-product-P-005366dd` ID387676316,
+nytt asset559877762, `h039-verifier-draft-P005366dd-20260912.tar.gz`,
+1080389B, SHA256 `98caf435fb124c9ca5b80bad507aaa7f84909a23418ae2729f99a6b013aa22da`.
+Preparef5de4c, upload8376c5→e73e15, download e1bd34→a0f71c och
+faktisk restore40b464 gav allaexit0; serverdigest b0c9f4 stämmer.
+12 logiska filer/24tarposter, inga skannerträffar, oförändrade källor.
+Restore: `/private/tmp/nortropic-h039-verifier-draft-restore-if8crf7p`;
+bytes/storlek/mode/uid/gid/mtime/xattrs/singlelink/oberoende inoder verifierade.
+
+Läs `H039-VERIFIER-DRAFT-SELECTION.json`, `...-INSPECTION.json`,
+`...-RESTORE.json` och `SNAPSHOT-H039-VERIFIER-DRAFT.py`.
+SelectionSHA36c69f7ced73350ecd5d5ac8005ec237c8f619335792afe80e3981a63e3aedfb,
+inspectionSHAe2e30a97fc7284a91238330ecec46671387adc12a108e90f789b68f065ff96ff,
+receiptSHA3d0a13e743b37d3324b6508587836f75ae239ff8063c9aadb18bb435cce018b8,
+methodSHAeb801ac94cd87b88aa8662a65ce2b7c6a5bf1c4cd3d4d6d078d4c8fae2d99756.
+Metoddiff dd96a5 ändrar endast urval/namn/antal/omfattning och höjer diskmarginalen
+från32 till64MiB över20GiB; samma prövade innehålls-/metadata-/restorekontroller.
+
+Återställ först i NY isolerad rot, aldrig över original. De sex källfilerna kan
+rekonstruera just detta opublicerade utkast ovanpå den separat redan återställda
+B→C→P-bundlekedjan; detta är INTE en backup av dess hela Gitadministration,
+index-/processidentiteter eller full Nortropic. Ingen arkiverad kod kördes.
+Inget gammalt asset omöverfördes, inget raderades och inget plattformsrepo pushades.
+Författaren fick fortsätta nästa tranche efter att dessa exakta bytes säkrats:
+senare ändringar och senare kontinuitet tillhör nästa checkpoint.
+Befintliga generella custody-/bas+delta-/lokala representationsluckor består.
+
+
 ## Senare korrigerad H039 P005366dd — lokal kvalificering och ny96filers backup
 
 Samma oförändrade P har nu kvalificerats i den separat granskade korrigerade

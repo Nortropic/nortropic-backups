@@ -1,0 +1,62 @@
+{
+  "count": 11,
+  "base": "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+  "kind": "Uncommitted six-file WIP plus four evidence records and continuity; selection itself is twelfth archived file",
+  "rows": [
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/verify/bin/h-039-exit",
+      "sha256": "3ee49b1a4ce33abafb0929b294504be8681f1048017eea022f26cb60a0ab5f4a",
+      "bytes": 2362328
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/specs/tasks.spec.json",
+      "sha256": "cf8398416ac9b2feea8d911bca4558c4b22f2baa77e2290c66edac6897f9c577",
+      "bytes": 984316
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/verify/bin/platform-separation-final-exit",
+      "sha256": "2131e53fd4944cfc8345090e818d43fff500df84dcd243e534ad65ee0f165faa",
+      "bytes": 322459
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/docs/loop/platform-separation-final-local-development.md",
+      "sha256": "9dc83707940ad06617ee154571571545108045ecf31209e55dadb081ca397d88",
+      "bytes": 310085
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/SEPARATION-20260910/REFREEZE.json",
+      "sha256": "7b591fd8cc18ac067682da2be0ea000dab7d7294b877f1f6ac3b268fdd8cd657",
+      "bytes": 966
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/controller/verify/cli",
+      "sha256": "6248c0afeb0e4f0ddec05389ad81dc879dca8152207b7117e36319f4f22c780d",
+      "bytes": 41991
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-baseline-97bab8.md",
+      "sha256": "89c5f4e263ccd691f83f2a181369618822050101a00cab2decec5cf1893f9711",
+      "bytes": 4474
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-inert-matrix-61bcda.json",
+      "sha256": "05c69cdf02f2e6b88c8f420f294f0178f39bba1db7fd0846859a7b86826b823c",
+      "bytes": 6357
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-coherent-c86df6.json",
+      "sha256": "1024f87c66cfd73ac8f2d2a5e9699e702eb2a04f26f6c5f47a7f98156c58ffbe",
+      "bytes": 17144
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-draft-preservation-ec6c28.json",
+      "sha256": "c169c9eb65439163c990c7a6a09f010899d69fce44af4d529c5350a88149941b",
+      "bytes": 11438
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "6a5e9d920cbde764d59395094f5d7d5fc47b90dcb1617ebfad74ed73a624018c",
+      "bytes": 262695
+    }
+  ]
+}
