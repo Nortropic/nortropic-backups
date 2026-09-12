@@ -1,0 +1,68 @@
+{
+  "time_utc": "2026-09-12T14:29:46.842288+00:00",
+  "status": "REMOTE_RESTORED_VERIFIED",
+  "scope": "ONLY_H039_MATERIAL_BINDING_7_LOGICAL_FILES",
+  "repository": "Nortropic/nortropic-backups",
+  "repository_id": 1367371291,
+  "release_id": 387596174,
+  "asset_id": 559395238,
+  "tag": "backup-20260912-h039-material-binding-dbd51ba7",
+  "asset_name": "h039-local-material-binding-dbd51ba7-20260912.tar.gz",
+  "archive_sha256": "30439948a194dda91c87ebbee1dad260393d84fd0d6db25152326437931f98d2",
+  "archive_bytes": 833877,
+  "logical_files": [
+    {
+      "path": "verify/bin/h-039-exit",
+      "sha256": "dbd51ba7ec70a33bf53e74252a5b338aa0106fc267f1ee0c431272210415792a",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "specs/tasks.spec.json",
+      "sha256": "198767956fcfe456d67270c3706a56537a616b86b7578050b32373214c054c69",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "controller/verify/cli",
+      "sha256": "5c5b0e15d0445fc0ef4c1ddbfd8f131a79312d978ce2845c919e40c9e6e82bc7",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "docs/loop/platform-separation-final-local-development.md",
+      "sha256": "0433b4362217187a0d9f9181d2013d00db65ac5293b7a05f34730a35360f71d9",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7.py",
+      "sha256": "69e79c0ca98f7cede7ff10e0d7a34585eeaa6a29cf34d2242f06a6f546288685",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7-0433b436.py",
+      "sha256": "ef2993918a98cc3c5ea54eaf35a459e3c96b40cfefdc5e052c5e20be435ea71f",
+      "bytes_and_metadata_exact": true
+    },
+    {
+      "path": "h039-local-material-binding-focused.dbd51ba7-0433b436.result.json",
+      "sha256": "70b50c5431b7ec2378b1f3cc2ccba08330ef9e188ce303a8b0110edfdceb32ac",
+      "bytes_and_metadata_exact": true
+    }
+  ],
+  "appledouble_members_preserved_in_archive": 7,
+  "metadata_checked": [
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "nlink"
+  ],
+  "restore_root": "/private/tmp/nortropic-backup-restore-20260912.MXgZVz",
+  "prior_restore": "R1_BYTES_EXACT_BUT_3_TEST_FILE_GIDS_20_NOT_0; retained; no complete restore credit",
+  "group_restore_method": "Fresh UID501/GID0 private temporary root; explicit chgrp20 of exact four source files to match archive; no root or original-file operation",
+  "old_inode_identity_recreated": false,
+  "source_archive_unchanged": true,
+  "all_H_work_remotely_secured": false,
+  "local_backups_deleted": false,
+  "gate_runtime_bootstrap_credit": false
+}

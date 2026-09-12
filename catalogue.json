@@ -234,7 +234,9 @@
     {
       "path": "external/h039-local-material-binding-dbd51ba7-20260912.tar.gz",
       "bytes": 833877,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RESTORED_VERIFIED",
+      "receipt": "FIRST-BATCH-RESTORE-RECEIPT.json",
+      "sha256": "30439948a194dda91c87ebbee1dad260393d84fd0d6db25152326437931f98d2"
     },
     {
       "path": "external/h039-local-observer-port-bc056934-20260912.tar.gz",
