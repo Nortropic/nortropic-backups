@@ -1,5 +1,46 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senaste checkpoint — frusen verifierare C83f75968 och 31 evidens-/källfiler
+
+Lokal C `83f75968b9892ae98a6a879178c407d2a6fd935e`, enda förälder
+P `005366dd5e3a9a74d8140c9dd0c0175aea268294`, tree
+`8da632c48be1705d536be39bb2afc3b4b2d70f51` är bevarad.
+Exakt sex kontraktsfiler, ingen ny produkt. 70/70 rena/inerta prov följdes av
+en verklig lokal verifierarkörning: ab1d84→377734 exit0, 30/30 rader,
+`PASS_LOCAL_VERIFIER_INTEGRATION_ONLY_NOT_FULL_FINAL`.
+Oberoende postreview12644c READY, fulla fysiska pre/postmappar oförändrade.
+Det ger inte full H039, bootstrap-, installations- eller runtimecredit.
+
+Privat repo ID1367371291 bekräftat f38726/a86843. Samma release387676316:
+
+- Bundleasset559913147, `h039-verifier-C-83f75968-incremental.bundle`, 37895B,
+  SHA256 `81cabd9181d7341a1c53c25d6739a73042523de3ee9d10ef081905c78d19e6e9`.
+  16 nya dekomprimerade objekt inspekterade utan mönsterfynd. Faktisk download
+  och restore b1a93a→5d9e94: 301 Git-kommandon0, alla144 blobbytes/modes,
+  exakt commit/förälder/träd i `/private/tmp/nortropic-h039-verifier-C-restore-zitp3lie`.
+  Importeras efter den tidigare verifierade B→C7be3→P005366-bundlekedjan;
+  tidigare bundlar hämtades inte om. Inte en full ny fjärrbas+delta-restore.
+- Filasset559915642, `h039-verifier-C83f75968-qualified-20260912.tar.gz`, 1230309B,
+  SHA256 `072a3966460512fd4ff880f80c56589672ab8a92c20d4ba862a037a53f17e135`.
+  31 logiska filer/62tarposter, inget mönsterfynd. Faktisk download68c69f→09064e
+  och restore017aba exit0 kontrollerar membership, bytes, storlek, mode, uid/gid,
+  mtime, xattrs och oberoende single-link-inoder i en ny rot.
+
+Exakt urval, metoder, kommandon, checksummor och återställningskvitton ligger i
+`H039-VERIFIER-C83F75968-*.json`, `BACKUP-H039-VERIFIER-C83F75968.py` och
+`SNAPSHOT-H039-VERIFIER-C83F75968.py`. Metoderna avser förbrukade backupoperationer;
+kör dem inte igen över befintliga destinationsfiler. En senare återställning ska
+använda en ny separat rot och samma verifierade medlems-/identitetskrav.
+
+Filsnapshoten bevarar de sex frusna källorna, 65/67/70-prov, gamla67-diffen,
+bevarandekontroller/reviews, kopiemetodens NOT_RUN-föregångare och körda version,
+fulla preparation/qualification/post-captures samt kontinuitet vid snapshot.
+Gamla resultat behåller sina subjekt. Arkivet återställer inte originala Git-admin,
+processer, katalogmetadata eller hela Nortropic. Ingen projektkod kördes vid restore.
+Gamla assets överfördes inte igen och inget raderades eller pushades till plattformen.
+Senare kontinuitetsnotiser tillhör nästa checkpoint; tidigare kvarvarande luckor
+för känslig lokal evidens och full fjärrbas+delta-restore är oförändrade.
+
 ## Senare H039 verifierarutkast — 12 filer faktiskt återställda
 
 En ny liten batch säkrar det ofrusna sexfilsutkastet vid exakt

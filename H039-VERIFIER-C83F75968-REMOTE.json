@@ -1,0 +1,59 @@
+{
+  "status": "NEW_VERIFIER_C_AND_31_FILES_REMOTE_RESTORED",
+  "repository": {
+    "id": 1367371291,
+    "full_name": "Nortropic/nortropic-backups",
+    "private": true,
+    "verified_chunks": [
+      "f38726",
+      "a86843"
+    ]
+  },
+  "release": {
+    "id": 387676316,
+    "tag": "backup-20260912-h039-product-P-005366dd"
+  },
+  "candidate": "83f75968b9892ae98a6a879178c407d2a6fd935e",
+  "parent": "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+  "tree": "8da632c48be1705d536be39bb2afc3b4b2d70f51",
+  "bundle": {
+    "id": 559913147,
+    "bytes": 37895,
+    "sha256": "81cabd9181d7341a1c53c25d6739a73042523de3ee9d10ef081905c78d19e6e9",
+    "prepare": "86a45c exit0",
+    "upload": "d9aecd -> 3214e7 exit0",
+    "server_digest": "dbadc5",
+    "download": "960147 exit0",
+    "restore": "b1a93a/session22350 -> 5d9e94 exit0",
+    "restore_receipt_sha256": "aa0101e598fe378c422c91dda2f858b41684fcd2013744c09220730fc09f8c36",
+    "tracked_paths": 144,
+    "git_commands": 301
+  },
+  "files": {
+    "id": 559915642,
+    "bytes": 1230309,
+    "sha256": "072a3966460512fd4ff880f80c56589672ab8a92c20d4ba862a037a53f17e135",
+    "prepare": "cc6dff exit0",
+    "upload": "a86843/session34264 -> 52e337 exit0",
+    "server_digest": "281d03",
+    "download": "68c69f/session84068 -> 09064e exit0",
+    "restore": "017aba exit0",
+    "restore_receipt_sha256": "c0897e19579acc2fa55fb4dd1b663742ae123de64b344a23d7ddcf5356f1fa46",
+    "logical_files": 31,
+    "tar_entries": 62,
+    "scanner_findings": 0
+  },
+  "qualification": {
+    "outer": "ab1d84/session60593 -> 377734 exit0",
+    "result": "PASS_LOCAL_VERIFIER_INTEGRATION_ONLY_NOT_FULL_FINAL",
+    "rows": 30,
+    "independent_postreview": "12644c exit0 READY"
+  },
+  "full_new_remote_base_delta_restore": false,
+  "original_git_admin_restored": false,
+  "runtime_credit": false,
+  "full_h039_credit": false,
+  "deletions": 0,
+  "platform_push": false,
+  "existing_assets_reuploaded": false
+}

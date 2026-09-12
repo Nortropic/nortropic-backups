@@ -1,0 +1,834 @@
+{
+  "status": "LOCAL_NEW_OBJECTS_INSPECTED_NOT_UPLOADED",
+  "candidate": "83f75968b9892ae98a6a879178c407d2a6fd935e",
+  "parent": "005366dd5e3a9a74d8140c9dd0c0175aea268294",
+  "tree": "8da632c48be1705d536be39bb2afc3b4b2d70f51",
+  "bundle_sha256": "81cabd9181d7341a1c53c25d6739a73042523de3ee9d10ef081905c78d19e6e9",
+  "bundle_bytes": 37895,
+  "new_objects": [
+    {
+      "oid": "83f75968b9892ae98a6a879178c407d2a6fd935e",
+      "kind": "commit",
+      "bytes": 296,
+      "sha256": "32207220a99bb8b52ebbe5dd1df62cbf6c1a3ddb5085921a03b752cd9e6d566d"
+    },
+    {
+      "oid": "8da632c48be1705d536be39bb2afc3b4b2d70f51",
+      "kind": "tree",
+      "bytes": 461,
+      "sha256": "7f5363ba888b285c53bd1b9a8b6187338c3167df45bf4ff5338646d9a2745b7b"
+    },
+    {
+      "oid": "d5bb64e7fb4abf15281be624cff2a154e6a7bd06",
+      "kind": "tree",
+      "bytes": 309,
+      "sha256": "e4ebb28d3dcac080340058ae675e919892c393b537e290698c64f3f350e4c6d0"
+    },
+    {
+      "oid": "716f29cf260699bf91fd05db59d1d7e4093f676f",
+      "kind": "blob",
+      "bytes": 998,
+      "sha256": "3c44fd69a5b010b5c6c1bf7afe37d6c739346f2423a526b527e67d1cab8fe0bf"
+    },
+    {
+      "oid": "700607e453979327cc844818c9c82504e50d1688",
+      "kind": "tree",
+      "bytes": 587,
+      "sha256": "879e5edad33b2033974785285a0b782c7c59380c28620e4126a666cdc32f62e7"
+    },
+    {
+      "oid": "dec20042e4d2a2b7285c6684adb8d636080f640a",
+      "kind": "tree",
+      "bytes": 72,
+      "sha256": "bffd984c50faa8f30d638b4c01926b88838aa0b15caa109efd59fe69782c5a29"
+    },
+    {
+      "oid": "593c87e4d8e246f2685e4e31b639364eabc8cb11",
+      "kind": "blob",
+      "bytes": 41991,
+      "sha256": "764fb4215f7567e6daa0d5fc1680ee03583f883aee1a6d9476ef116b67ac7fc7"
+    },
+    {
+      "oid": "309efc3a33a26fcca50e33ff152500425c231baa",
+      "kind": "tree",
+      "bytes": 31,
+      "sha256": "27e4a7cc9a414f5227144478835158cc811151c44a399139f78d258f46cf75e2"
+    },
+    {
+      "oid": "ed14dca5b6e9685cba0dc6d0b2b4c52fc4154a24",
+      "kind": "tree",
+      "bytes": 1374,
+      "sha256": "81939cf04968e0cdcef822cdb50c8f1c3361a80c869e1f3bc528d9632579b377"
+    },
+    {
+      "oid": "593cc311d65062724cc2e428f3e205348367c15c",
+      "kind": "blob",
+      "bytes": 314836,
+      "sha256": "61e025dec29d8247d21d8eb139d26b0eac0e9dab624cd1d099e81280d9fcf2db"
+    },
+    {
+      "oid": "9998f83268658bdad9f815f3195170c5c0093f8c",
+      "kind": "tree",
+      "bytes": 101,
+      "sha256": "b977c127e59f9c2d7b65b9bf842b24bc6e707e3a9f4dac5d1e8e799feaaaa305"
+    },
+    {
+      "oid": "cbfcada71696cbf0d60043e9bf64b8a2907144ff",
+      "kind": "blob",
+      "bytes": 984643,
+      "sha256": "62c183bddc4b50bb15472548424e596972e318b5260cb3004d230a5eaf3d4570"
+    },
+    {
+      "oid": "3ed7fd9ff1c4f05ee79129e51c36954938a2158e",
+      "kind": "tree",
+      "bytes": 92,
+      "sha256": "84ed2c829160c391608e11162abc9042d3127759afd144366dd3a1f6078a1633"
+    },
+    {
+      "oid": "7976039375a90c1d4605d068fa8a1bcc12b3b606",
+      "kind": "tree",
+      "bytes": 1444,
+      "sha256": "f92f46b427e0194fb329f68a5951f9f65b069378f0927f6499c872689e40a0a5"
+    },
+    {
+      "oid": "326fa2f1dfd9b1a44d31193026b26cbfd3511456",
+      "kind": "blob",
+      "bytes": 2389683,
+      "sha256": "429523039de3708f33d510857abd4a454173999cfa387579a3d53b62abe942f8"
+    },
+    {
+      "oid": "389d051cbc4da3e372f5174fdfa4adff5050c2f0",
+      "kind": "blob",
+      "bytes": 332827,
+      "sha256": "b19f4f690e5b10cc36494aff43ecf8b5cc21b1e8d7ecfac5ca3f2ef984c7186f"
+    }
+  ],
+  "findings": [],
+  "scan_scope": "All new decompressed Git objects; bounded patterns not proof of absence",
+  "commands": [
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "rev-parse",
+        "HEAD"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9062,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "1457444fd5d09cca503dee5c6e28fdc8c09776064c44acace0177bd4db4cf1ba",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "show",
+        "-s",
+        "--format=%P%n%T",
+        "83f75968b9892ae98a6a879178c407d2a6fd935e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9063,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f49d77cd6d53dd7ee3d712a3007b36d775674804783a043a306734ec728507e3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "status",
+        "--porcelain=v1",
+        "--untracked-files=all"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9064,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "rev-list",
+        "--objects",
+        "83f75968b9892ae98a6a879178c407d2a6fd935e",
+        "^005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9065,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bcc1922e6b96175846926fb476332402c0f0e6d1e610ef673f71ac907090039b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "83f75968b9892ae98a6a879178c407d2a6fd935e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9066,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "50836eee574ecff79dea3b4fd40673d7d000f7a5f177d8a6a3000b59c78383b8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "commit",
+        "83f75968b9892ae98a6a879178c407d2a6fd935e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9067,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "32207220a99bb8b52ebbe5dd1df62cbf6c1a3ddb5085921a03b752cd9e6d566d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "8da632c48be1705d536be39bb2afc3b4b2d70f51"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9068,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "8da632c48be1705d536be39bb2afc3b4b2d70f51"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9069,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "7f5363ba888b285c53bd1b9a8b6187338c3167df45bf4ff5338646d9a2745b7b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "d5bb64e7fb4abf15281be624cff2a154e6a7bd06"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9070,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "d5bb64e7fb4abf15281be624cff2a154e6a7bd06"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9071,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e4ebb28d3dcac080340058ae675e919892c393b537e290698c64f3f350e4c6d0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "716f29cf260699bf91fd05db59d1d7e4093f676f"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9072,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "716f29cf260699bf91fd05db59d1d7e4093f676f"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9073,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "3c44fd69a5b010b5c6c1bf7afe37d6c739346f2423a526b527e67d1cab8fe0bf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "700607e453979327cc844818c9c82504e50d1688"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9074,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "700607e453979327cc844818c9c82504e50d1688"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9075,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "879e5edad33b2033974785285a0b782c7c59380c28620e4126a666cdc32f62e7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "dec20042e4d2a2b7285c6684adb8d636080f640a"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9076,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "dec20042e4d2a2b7285c6684adb8d636080f640a"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9077,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bffd984c50faa8f30d638b4c01926b88838aa0b15caa109efd59fe69782c5a29",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "593c87e4d8e246f2685e4e31b639364eabc8cb11"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9078,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "593c87e4d8e246f2685e4e31b639364eabc8cb11"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9079,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "764fb4215f7567e6daa0d5fc1680ee03583f883aee1a6d9476ef116b67ac7fc7",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "309efc3a33a26fcca50e33ff152500425c231baa"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9080,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "309efc3a33a26fcca50e33ff152500425c231baa"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9081,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "27e4a7cc9a414f5227144478835158cc811151c44a399139f78d258f46cf75e2",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "ed14dca5b6e9685cba0dc6d0b2b4c52fc4154a24"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9082,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "ed14dca5b6e9685cba0dc6d0b2b4c52fc4154a24"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9083,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "81939cf04968e0cdcef822cdb50c8f1c3361a80c869e1f3bc528d9632579b377",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "593cc311d65062724cc2e428f3e205348367c15c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9084,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "593cc311d65062724cc2e428f3e205348367c15c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9085,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "61e025dec29d8247d21d8eb139d26b0eac0e9dab624cd1d099e81280d9fcf2db",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "9998f83268658bdad9f815f3195170c5c0093f8c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9086,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "9998f83268658bdad9f815f3195170c5c0093f8c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9087,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "b977c127e59f9c2d7b65b9bf842b24bc6e707e3a9f4dac5d1e8e799feaaaa305",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "cbfcada71696cbf0d60043e9bf64b8a2907144ff"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9088,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "cbfcada71696cbf0d60043e9bf64b8a2907144ff"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9089,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "62c183bddc4b50bb15472548424e596972e318b5260cb3004d230a5eaf3d4570",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "3ed7fd9ff1c4f05ee79129e51c36954938a2158e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9090,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "3ed7fd9ff1c4f05ee79129e51c36954938a2158e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9091,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "84ed2c829160c391608e11162abc9042d3127759afd144366dd3a1f6078a1633",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "7976039375a90c1d4605d068fa8a1bcc12b3b606"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9092,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "7976039375a90c1d4605d068fa8a1bcc12b3b606"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9093,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f92f46b427e0194fb329f68a5951f9f65b069378f0927f6499c872689e40a0a5",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "326fa2f1dfd9b1a44d31193026b26cbfd3511456"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9094,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "326fa2f1dfd9b1a44d31193026b26cbfd3511456"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9095,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "429523039de3708f33d510857abd4a454173999cfa387579a3d53b62abe942f8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "389d051cbc4da3e372f5174fdfa4adff5050c2f0"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9096,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "389d051cbc4da3e372f5174fdfa4adff5050c2f0"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9097,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "b19f4f690e5b10cc36494aff43ecf8b5cc21b1e8d7ecfac5ca3f2ef984c7186f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "create",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-C-83f75968-incremental.bundle",
+        "refs/heads/nortropic/loop-h039-verifier-local-20260912",
+        "^005366dd5e3a9a74d8140c9dd0c0175aea268294"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9098,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "list-heads",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-C-83f75968-incremental.bundle"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9101,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "4bbbe58f0e37a7d43518cc5d1fbfea8b3b29d920e6d7f76a12634df1c091f407",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "verify",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-C-83f75968-incremental.bundle"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9102,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "054fe15cc4fe6328ca3a84ec66ab386380c38d2a7420085026f0bddc486982b3",
+      "stderr_sha256": "ebe868f9af56efa6d13526d03da605fc9bd69b70e2f4ada502e84778b921bade"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "status",
+        "--porcelain=v1",
+        "--untracked-files=all"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912",
+      "pid": 9104,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "runtime_credit": false
+}

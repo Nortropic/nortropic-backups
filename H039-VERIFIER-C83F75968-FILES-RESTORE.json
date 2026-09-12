@@ -1,0 +1,25 @@
+{
+  "time_utc": "2026-09-12T20:36:34.399058+00:00",
+  "status": "DOWNLOADED_31_VERIFIER_C_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "90d63f03b198c6dd3a76e4bd46601721e64498f2f5b076d4e4737ad815087f5f",
+  "archive_sha256": "072a3966460512fd4ff880f80c56589672ab8a92c20d4ba862a037a53f17e135",
+  "archive_bytes": 1230309,
+  "restored": "/private/tmp/nortropic-h039-verifier-C-qualified-restore-9qbhc6k9",
+  "logical_files": 31,
+  "checked": [
+    "file_membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "directory_metadata_restored": false,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_final_fixture_restored": false
+}

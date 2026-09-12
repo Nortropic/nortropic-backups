@@ -1,0 +1,126 @@
+{
+  "count": 30,
+  "scope": "Exact frozen verifier C six files, intermediate and final evidence, reviewed preparation and actual qualification captures, continuity, bundle inspection/restore/method; no original Git administration or full-system restoration",
+  "rows": [
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/verify/bin/h-039-exit",
+      "sha256": "429523039de3708f33d510857abd4a454173999cfa387579a3d53b62abe942f8"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/specs/tasks.spec.json",
+      "sha256": "62c183bddc4b50bb15472548424e596972e318b5260cb3004d230a5eaf3d4570"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/verify/bin/platform-separation-final-exit",
+      "sha256": "b19f4f690e5b10cc36494aff43ecf8b5cc21b1e8d7ecfac5ca3f2ef984c7186f"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/docs/loop/platform-separation-final-local-development.md",
+      "sha256": "61e025dec29d8247d21d8eb139d26b0eac0e9dab624cd1d099e81280d9fcf2db"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/SEPARATION-20260910/REFREEZE.json",
+      "sha256": "3c44fd69a5b010b5c6c1bf7afe37d6c739346f2423a526b527e67d1cab8fe0bf"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-P005366dd-20260912/controller/verify/cli",
+      "sha256": "764fb4215f7567e6daa0d5fc1680ee03583f883aee1a6d9476ef116b67ac7fc7"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-observer-capture-b57c7e.json",
+      "sha256": "f2b52b32fb310604ec547398b9deceb595e9a264da049d38e611fee87b47f56e"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-observer-capture-8b5503.json",
+      "sha256": "bb4c6884a1ab5ec446a3e559d5653c91e4d663223f934a51c32f5994048ae4a1"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-observer-capture-9ebd0d.json",
+      "sha256": "1deccdb59afb5b278184a674af731b73b3f8d9ec9b9f7e5c234ace20bbb2360d"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-67-held-P005366dd.patch",
+      "sha256": "7f554016379c9838586feb126840b5fb73224564f61625a2b2af5216fa497060"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-70-preservation.json",
+      "sha256": "e6f836cb751c9f33f3beb282e010bdf8609ad751ec7431d729172945ede8fb94"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-verifier-70-independent-review.json",
+      "sha256": "fb1607bc2b852facd3246b0a4c68f30fc61fe42c9be45af449011b44f54fd0ec"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-C83f75968.py",
+      "sha256": "004e01f466ffa130db04dead769b84acfd25137388d009e3d3f7e0b5ecfa16e9"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-C83f75968-not-run-769de996.py",
+      "sha256": "769de99607ea96aecce02e44094c5af2bdfe871954d309206495ded4147a6317"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-C83f75968-not-run-e1ba227a.py",
+      "sha256": "e1ba227a5c40970e3e964edc1f518b7a0579a29255189caaff117f2bd43dd194"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-C83f75968-cancellation-controls.json",
+      "sha256": "e512074bcf2a08416333aa1fa1060778a6007d848d820344d583048c8ffc58b4"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-C83f75968-final-cancellation-controls.json",
+      "sha256": "46dcfbf8b3e35a224eb9e3b1f4b11d4bb7dffb6a10072a8e69c70a9ecf2c9161"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/preparation.stdout",
+      "sha256": "1275bcf80614d4d0898e17996c1a7aa45f958557a20e6f82740736403b32aa05"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/preparation.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/preparation-run.json",
+      "sha256": "b941e1869165ed7efa6a660f3fa83c6e455031277da08945209329f9aaf7e4f8"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/qualifier.stdout",
+      "sha256": "dbace60ac43efaae6443daa1ae5a2db74b9e89a759f98509606f74f0b22b7f39"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/qualifier.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/post-physical.stdout",
+      "sha256": "6018cc1f9acb66afc5264f04611ce4185f3d9099b2d711abac2049c9c6a679d0"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/post-physical.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/qualification-run.json",
+      "sha256": "4aaed10b19a539e6597cba743a3d7a123f9a845c81112f0d1e4017819115c3af"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-C83f75968-local.qPk42W/independent-postreview.json",
+      "sha256": "fa680f2936ac9dbd4151351584bb1ce1ade27232bd74070ed1c6331c6164178c"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "0c4b6c15452b67e930bf4f2c766f01ee647f401d09791fa8118e83f0d30bf175"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-verifier-C-83f75968-bundle-inspection.json",
+      "sha256": "a6592ce20c04f51eb74ec142ab58eeb72fcfaf62aa88e9ec92d6ba4305180631"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-verifier-C-83f75968-bundle-restore.json",
+      "sha256": "aa0101e598fe378c422c91dda2f858b41684fcd2013744c09220730fc09f8c36"
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/backup-h039-verifier-C83f75968.py",
+      "sha256": "1e69c7308e2c397ebf3343382d58438ff95324ea83b3976fe49e53e3e715c6ae"
+    }
+  ]
+}
