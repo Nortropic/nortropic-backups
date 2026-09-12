@@ -4,6 +4,29 @@
   "status": "INITIAL_CATALOGUE_NOT_REMOTE_PAYLOAD_PROOF",
   "items": [
     {
+      "path": "external/h039-contract-C-7be3a5ab-20260912.tar.gz",
+      "bytes": 1121831,
+      "status": "REMOTE_RESTORED_VERIFIED",
+      "sha256": "d5a000cc3b27d462a94902b87b116cb74314091531cbe6008ea69e24312ee85c",
+      "release_tag": "backup-20260912-h039-contract-C-7be3a5ab",
+      "asset_id": 559756818,
+      "inspection": "H039-C-7BE3A5AB-BACKUP-INSPECTION.json",
+      "receipt": "H039-C-7BE3A5AB-RESTORE-RECEIPT.json",
+      "scope": "55 selected C/R4/review/continuity files; not later edits or full worktree/admin state"
+    },
+    {
+      "path": "bundles/h039-contract-C-7be3a5ab-incremental.bundle",
+      "bytes": 74243,
+      "status": "REMOTE_INCREMENTAL_GIT_RESTORED_OVER_VERIFIED_LOCAL_B_BUNDLE",
+      "sha256": "084bd35fdb07c891efc8b3a7c656d01311c65b144dec1d8837f5bee538a2b2b3",
+      "release_tag": "backup-20260912-h039-contract-C-7be3a5ab",
+      "asset_id": 559756817,
+      "prerequisite": "8095d947c83202e2b87801531d9f7cb1457c8719",
+      "prerequisite_bundle": "bundles/v316-h039-continuity-product-8095d94.bundle",
+      "receipt": "H039-C-7BE3A5AB-RESTORE-RECEIPT.json",
+      "scope": "16 new objects; actual C graph and 144 blobs restored over hash-bound previously remote-verified B bundle. Not dirty/admin restoration."
+    },
+    {
       "path": "README-RESTORE.md",
       "bytes": 1391,
       "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",

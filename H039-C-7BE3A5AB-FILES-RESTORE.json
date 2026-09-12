@@ -1,0 +1,24 @@
+{
+  "time_utc": "2026-09-12T18:39:23.494693+00:00",
+  "status": "DOWNLOADED_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "6f7333f8ce68054ee2e3f80cb501711cccb7f11b87609f97a44bb52286ab50d4",
+  "archive_sha256": "d5a000cc3b27d462a94902b87b116cb74314091531cbe6008ea69e24312ee85c",
+  "archive_bytes": 1121831,
+  "restored": "/private/tmp/nortropic-h039-C-restore-vc2nxgvt",
+  "logical_files": 55,
+  "checked": [
+    "membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "source_archive_unchanged": true,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false
+}

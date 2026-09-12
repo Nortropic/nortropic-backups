@@ -1,5 +1,30 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senare H039 C/R4-checkpoint
+
+`H039-C-7BE3A5AB-RESTORE-RECEIPT.json` binder två nya assets i release
+`backup-20260912-h039-contract-C-7be3a5ab`: ett55-filarkiv och en inkrementell
+Git-bundle. Båda har faktiskt hämtats tillbaka. De55 filerna har återställts
+med registrerade bytes/metadata i en ny separat yta. Arkivnamnen är platta;
+ursprungliga paths finns i inspektionens source-fält. Återställ aldrig blint
+över originalens absoluta paths.
+
+C-bundlen kräver exakt B8095d947 från den redan säkrade
+`v316-h039-continuity-product-8095d94.bundle`; se kvittots exakta SHA256 och
+release/asset-ID. Återställaren importerade hashbunden lokal B-bundle och den
+nyss nedladdade C-bundlen i ett nytt bare repo. Raw C/parent/tree, samtliga144
+spårade blobs/modes och fsck kontrollerades. B hämtades inte på nytt denna gång.
+Detta är inte originalets index/worktree-administration eller full ny
+fjärrbas+delta-filsystemsrestaurering. Kör ingen arkiverad projektkod.
+
+C7be3a5ab är ett lokalt immutable reviewsubject med korrekt uppmätt frånvaro;
+ett ytterligare slutreviewförsök avbröts av usage. Ingen accepterad freeze,
+produkt, installation eller bootstrapcredit följer av arkiveringen. Bevara
+tidigare trancher och deras creditstatus. Senare ändringar i kontinuitetstexten
+ingår inte retroaktivt i arkivets snapshot.
+
+## Tidigare arkivrepresentationer, fortsatt giltiga
+
 Läs denna före den historiska README-RESTORE.md. Den gamla instruktionen och
 dess verifierade hash bevaras oförändrade. Åtta råa tarfiler pensionerades efter
 byte-exakt lokal rekonstruktion och färsk kontroll av redan återlästa GitHub-assets.

@@ -1,0 +1,17 @@
+{
+  "status": "LOCAL_INCREMENTAL_BUNDLE_INSPECTED_NOT_REMOTE_RESTORED",
+  "candidate": "7be3a5ab20b2079b146984915935a2ed6714c286",
+  "tree": "f4de53628896dc48233d999c6c45f9f9bc43899a",
+  "prerequisite": "8095d947c83202e2b87801531d9f7cb1457c8719",
+  "prerequisite_archive": "v316-h039-continuity-product-8095d94.bundle",
+  "ref": "refs/heads/nortropic/loop-h039-asset-local-20260912",
+  "bundle_sha256": "084bd35fdb07c891efc8b3a7c656d01311c65b144dec1d8837f5bee538a2b2b3",
+  "scope": "16 new Git objects: one commit, nine trees and six blobs. Exact six subject blobs also in the 55-file source archive. Not working-index/admin backup.",
+  "bundle_verify_exit": 0,
+  "object_scan_exit": 0,
+  "findings": [],
+  "scan": "Existing bounded PATTERNS applied to every new object's raw bytes, SHA1 object identity verified. No secret match values printed. B already separately archived; scan is not proof of universal absence.",
+  "root_tool_evidence": ["e9456b", "870af4"],
+  "setup_error": "First command used absent /usr/bin/test, so bundle creation did not start. Corrected /bin/test then created this new bundle; no prior bundle overwritten.",
+  "runtime_credit": false
+}
