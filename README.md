@@ -43,3 +43,27 @@ proof; they are not implicitly approved by the small first batch.
 See `catalogue.json` and batch records. `LOCAL_ONLY_NOT_REVIEWED` is not remotely
 secured. The first H039 source batch is not a complete repository, history backup,
 all-H039 backup or all-H-work backup. Local backups must remain available.
+
+2026-09-12 checkpoint: all 43 existing catalogued Git bundles have remote
+download/restore receipts across HISTORY-RESTORE-RECEIPT.json and
+HISTORY-REMAINDER-RESTORE-RECEIPT.json. Their 250 worktree HEAD pseudorefs have
+explicit recovery mappings, not recreated worktree administration or dirty state.
+
+MAIN-CONTENT-REVIEW.json and MAIN-GIT-OBJECT-REVIEW.json finish the bounded content
+review of the existing main tar, including all 36 packs and 1810 loose objects
+(28619 unique Git objects). This does not prove each original checkout's full
+independent closure: the aggregate object store was inspected for backup contents.
+Main archive transfer and remote filesystem restoration remain NOT_RUN.
+The size-limited gzip attempt stopped and is explicitly an incomplete prefix,
+not an uploaded complete archive. Its exact hash and decoded byte boundary are
+recorded. Do not mistake the `.tar.gz` suffix for a complete-backup verdict.
+
+Next transfer work: a reviewed bounded multipart encoding/reassembly plan for
+the unchanged main tar, with full-archive hash and negative reorder/missing-part
+checks. Keep the partial attempt preserved, do not blindly rerun or overwrite it.
+Budget genuine remote filesystem restoration separately: the main tar's logical
+regular-file bytes alone are 4266945226, beyond the currently observed margin
+above the 15 GiB floor. Historical local restoration reports are retained but are
+not silently promoted to a new remote-restoration result. No generic new owner
+approval is needed for the already-authorized backup engineering; deletion is
+not authorized by this checkpoint.

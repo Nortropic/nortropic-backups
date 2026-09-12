@@ -1,0 +1,60 @@
+{
+  "status": "BOUNDED_MAIN_CONTENT_REVIEW_COMPLETE_TRANSPORT_AND_REMOTE_RESTORE_PENDING",
+  "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/nortropic-full.tar",
+  "source_sha256": "b69532a32d38a0ac18065709f501ac7a9e5a40bb966a3890ec9ea6012087bb3c",
+  "source_bytes": 4848679936,
+  "source_unchanged": true,
+  "raw_tar_headers": 321051,
+  "regular_members": 282785,
+  "logical_regular_bytes": 4266945226,
+  "decoded_git_pack_count": 36,
+  "decoded_git_loose_count": 1810,
+  "decoded_git_objects": 28619,
+  "decoded_git_bytes": 725801102,
+  "strict_fsck_exit": 0,
+  "decoded_object_projection_sha256": "b596686404117041c2cbbf1c1a74a6cca250fb61d4df0d294d53f7e545660b05",
+  "first_pack_check": "R1 per-pack strict import stopped on missing object; R2 complete archived object union passed strict fsck; R1 remains incomplete",
+  "credential_review": {
+    "standard_matches": "Exact previously classified synthetic test fixtures only",
+    "additional_assignment_matches": 153,
+    "assignment_values_are_specification_enums": [
+      "REJECT_BEFORE_EFFECT",
+      "SERVER_CSPRNG_32_BYTES_RETURNED_ONLY_IN_PREPARED_FRAME_AND_STORED_ONLY_AS_SHA256"
+    ],
+    "metadata_matches": 0,
+    "empty_env_templates": 9,
+    "credential_free_hosts_config": 1,
+    "nested_archive_markdown_files": 21
+  },
+  "review_limit": "Bounded known credential/key/capability patterns and source-context checks, not proof against every unknown secret format. No live authentication or archived code execution.",
+  "review_sources_sha256": {
+    "main-archive-triage.json": "2d13fdf61cfe99c3278839b4f56132044b08ce912447c4a48d63c8a6d43ee72b",
+    "main-packs-review-r2.json": "e730f388446e6c84410cc8c7c184d8e55f9e9678780d3cf65dc2b7c4ac9bd408",
+    "flagged-content-review.json": "60735734c1f12d19320383101a6caa3ea1fc4602e9537f6b36e860b18dd735db",
+    "archive-sensitive-fields.json": "9921f54660370f0b8cdf2422a37b240ff1fe081bdd745dcd3fbb10d19e0f3c33"
+  },
+  "incomplete_transport": {
+    "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/nortropic-full-20260910T103342Z.tar.gz",
+    "sha256": "f8b1dbbf6d68e90a7498ebaa401f181e13d26f74b070404102518c3cef52bf9a",
+    "bytes": 806324802,
+    "decoded_prefix_bytes": 2751463424,
+    "decoded_prefix_sha256": "9b0b2f01b8e4a0dc6c7d4119aa73f82d34551671ceb7795eabd6ba5d35f60eda",
+    "reason": "768 MiB compressed-output guard exceeded after one input block; helper exit 1; gzip closed but contains only prefix",
+    "complete_archive": false,
+    "uploaded": false,
+    "retain": true
+  },
+  "disk_budget": {
+    "free_bytes_observed": 18217779200,
+    "floor_bytes": 16106127360,
+    "margin_above_floor_bytes": 2111651840,
+    "logical_file_bytes_to_restore": 4266945226,
+    "physical_allocation_not_measured": true
+  },
+  "next": "Use a reviewed low-disk transport plan for the unchanged complete tar and preserve failed prefix; budget genuine full remote restoration separately. No blind upload, complete-restore claim or deletion.",
+  "remote_uploaded": false,
+  "remote_filesystem_restore": "NOT_RUN",
+  "all_work_remotely_secured": false,
+  "originals_deleted": false,
+  "runtime_bootstrap_credit": false
+}
