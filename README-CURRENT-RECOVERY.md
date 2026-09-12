@@ -2,6 +2,15 @@
 
 ## Senare H039 C/R4-checkpoint
 
+Efter arkivsnapshot slutfördes även samlad oberoende review av samma immutable C:
+`H039-C-7BE3A5AB-INDEPENDENT-CONTRACT-REVIEW.md`, SHA256
+`4d401d4aaa598159e26b17ae0250bb5d5d5db91f88126a9baa3dc0cad20a6eb8`.
+C är därmed accepterat som lokalt fryst kontrakt för separat asset-builder.
+Denna senare review ligger i backuprepots Git, inte retroaktivt i55-filarkivet.
+Det tidigare avbrutna reviewförsöket behåller sin status. Ingen P-kvalificering,
+H039-taskcredit, installation eller drift följer. Separat builderförberedelse
+sker lokalt; nya metod-/produktbytes täcks inte av den gamla checkpointen.
+
 `H039-C-7BE3A5AB-RESTORE-RECEIPT.json` binder två nya assets i release
 `backup-20260912-h039-contract-C-7be3a5ab`: ett55-filarkiv och en inkrementell
 Git-bundle. Båda har faktiskt hämtats tillbaka. De55 filerna har återställts
