@@ -2,6 +2,27 @@
 
 ## Senare H039 P005366dd — Git-objekt återställda, kvalificering röd
 
+Senare i samma release finns även asset559809543:
+`h039-P-005366dd-construction-and-first-final-20260912.tar.gz`,473518B,
+SHA256 `d738c02c4d6fcc45c0d30cfa2cd6bfa2c12e97eccf1762759134dc7dd1a192c8`.
+Faktisk uploadcf80e0→77dc41, download952b98→84620e och filrestore9ffc8c
+gav exit0.97 utvalda reguljära filer (194 tarposter inklusive AppleDouble)
+återställdes med bytes/storlek/mode/uid/gid/mtime/xattrs och oberoende inoder.
+Se `H039-P-005366DD-EVIDENCE-INSPECTION.json`, `...-SELECTION.json` och
+`...-RESTORE.json`; faktisk restorereceipt SHA256
+`195f0be6e697d3492e39a6237657b509601f575ded202523ecae07384cb3b355`.
+
+Arkivet använder källans hierarki UTAN inledande slash för att undvika namn-
+kollisioner. Packa bara upp i ny isolerad rot, aldrig i `/` eller över original.
+`SNAPSHOT-H039-P-005366DD-EVIDENCE.py` är det granskade fasta verktyget,
+SHA256 `55d827c20919b7e68aabe5cd003961ab804bb9abb891e757bd56bb52739c169d`.
+Omfattning: byggmetodens gamla/R2-versioner, reviews, placementmetod,
+två råbyggbanor med outputs och16 kommandofångster, samt första misslyckade
+finalförsökets huvudresultat/fångster och148raders pre/postmap.97 inkluderar
+fillistan själv. Inga filer raderades. Källkatalogernas metadata, hela final-
+fixturen och senare korrigerad replikmetod R2 är INTE täckta av denna snapshot.
+Den ursprungliga oförsökta replikmetoden f6b2/d3e0 ingår som historik, inte READY.
+
 Privata repot ID1367371291 kontrollerades före överföring. Ny release
 `backup-20260912-h039-product-P-005366dd` ID387676316 innehåller asset559802438,
 `h039-product-P-005366dd-incremental.bundle`,9603B, SHA256
@@ -27,11 +48,12 @@ Den första faktiska lokala final-kvalificeringen gav exit1/RED:
 `H039-P-005366DD-FIRST-FINAL-RECORD.json`. Backupen ger ingen produkt-/runtime-
 eller bootstrapcredit och ersätter inte det bevarade misslyckade försöket.
 
-Ny builder-/metod-/råbygg- och full kvalificeringsevidens ligger fortfarande
-lokalt i `evidence/v316-h039-continuity-review-20260912/` och de uttryckligen
-namngivna rårotarna. Enbart Git-bundle, återställningsverktyg/kvitto och denna
-avgränsade kvalificeringssammanfattning täcks här; inga äldre arkiv får sägas
-innehålla dessa senare filer. Kvarstående filbackup görs som separat delta.
+Vid den första bundlecheckpointen var builder-/metod-/råbygg- och full
+kvalificeringsevidens fortfarande LOCAL_ONLY. Den senare97-filssnapshoten ovan
+säkrar den där exakt uppräknade delen. Originalen ligger kvar i
+`evidence/v316-h039-continuity-review-20260912/` och namngivna rårotar.
+Senare replik-R2-arbete och ej utvalda fulla fixturer är ännu LOCAL_ONLY;
+inga äldre arkiv får sägas innehålla dessa senare filer.
 
 ## Senare H039 C/R4-checkpoint
 

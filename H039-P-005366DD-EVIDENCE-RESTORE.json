@@ -1,0 +1,25 @@
+{
+  "time_utc": "2026-09-12T19:18:05.399618+00:00",
+  "status": "DOWNLOADED_97_P_EVIDENCE_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "389ba96e96c7a1c40b50758b4502e1ac3ffef749381e213c2fd6cb4bbab4f32c",
+  "archive_sha256": "d738c02c4d6fcc45c0d30cfa2cd6bfa2c12e97eccf1762759134dc7dd1a192c8",
+  "archive_bytes": 473518,
+  "restored": "/private/tmp/nortropic-h039-P-evidence-restore-4_ehx1ny",
+  "logical_files": 97,
+  "checked": [
+    "file_membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "directory_metadata_restored": false,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_final_fixture_restored": false
+}
