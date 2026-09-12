@@ -1,0 +1,1027 @@
+{
+  "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/h039-phase-hold-775b921d-20260912.tar.gz",
+  "archive_sha256": "56d1675a7f0dfc410a7c848cdec6b234dc0c0d5dc70fff76be10579e4a0e2bdd",
+  "archive_bytes": 988076,
+  "files": [
+    {
+      "path": "._h039-phase-held.775b921d.h039-exit",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789234900
+    },
+    {
+      "path": "h039-phase-held.775b921d.h039-exit",
+      "sha256": "775b921db9cb6bf512d382f8cd3dcfabdf9e9de64242628cbeb83570dd26cf3c",
+      "bytes": 2287028,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789234900.286581917",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234900.286582,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.775b921d.h039-exit",
+      "source_identity": [
+        16777230,
+        147025532,
+        33261,
+        501,
+        20,
+        1,
+        2287028,
+        1789234900286581917,
+        1789235205200846158
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.748b2c63.final-exit",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789235093
+    },
+    {
+      "path": "h039-phase-held.748b2c63.final-exit",
+      "sha256": "748b2c63888b6072b52104a4c6a7592ee1bf713e1fa7c5b380db4ed04eee527a",
+      "bytes": 320359,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789235093.307503441",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235093.3075035,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.748b2c63.final-exit",
+      "source_identity": [
+        16777230,
+        147025535,
+        33261,
+        501,
+        20,
+        1,
+        320359,
+        1789235093307503441,
+        1789235205216385056
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.bc5c1050.spec.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789234873
+    },
+    {
+      "path": "h039-phase-held.bc5c1050.spec.json",
+      "sha256": "bc5c10506ba6ee47525bfb95a127d9b67cea102745c095f727bac0bcb4131e48",
+      "bytes": 979530,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789234873.334154068",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234873.3341541,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.bc5c1050.spec.json",
+      "source_identity": [
+        16777230,
+        147025533,
+        33188,
+        501,
+        20,
+        1,
+        979530,
+        1789234873334154068,
+        1789235205204189014
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.b75b1bc6.verify-cli",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789234900
+    },
+    {
+      "path": "h039-phase-held.b75b1bc6.verify-cli",
+      "sha256": "b75b1bc6575354703ab5422e6b647576351bf30270634341b22814ae24b3ce52",
+      "bytes": 41991,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789234900.320337773",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234900.3203378,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.b75b1bc6.verify-cli",
+      "source_identity": [
+        16777230,
+        147025534,
+        33261,
+        501,
+        20,
+        1,
+        41991,
+        1789234900320337773,
+        1789235205209585509
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.d44a8148.REFREEZE.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789234926
+    },
+    {
+      "path": "h039-phase-held.d44a8148.REFREEZE.json",
+      "sha256": "d44a814857ed98ac25c48a2ebbcd78d24c09c9a3e9b849ec25e0324691fb3da1",
+      "bytes": 886,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789234926.789328402",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234926.7893283,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.d44a8148.REFREEZE.json",
+      "source_identity": [
+        16777230,
+        147025536,
+        33188,
+        501,
+        20,
+        1,
+        886,
+        1789234926789328402,
+        1789235205222031845
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.40fc85fb.development.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {},
+      "mtime": 1789235147
+    },
+    {
+      "path": "h039-phase-held.40fc85fb.development.md",
+      "sha256": "40fc85fbecf7412586ceafab2febf67844e726a3ff2f4b6cd06b9851cfe04cb6",
+      "bytes": 300336,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789235147.771481576",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235147.7714815,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.40fc85fb.development.md",
+      "source_identity": [
+        16777230,
+        147025537,
+        33188,
+        501,
+        20,
+        1,
+        300336,
+        1789235147771481576,
+        1789235205226999837
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.775b921d-748b2c63.diff",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235205
+    },
+    {
+      "path": "h039-phase-held.775b921d-748b2c63.diff",
+      "sha256": "db3390f0c67db01417381e404991f5c5aec76eaa9ea022f868fea385ba7dd09c",
+      "bytes": 60346,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235205.340304197",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235205.3403041,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.775b921d-748b2c63.diff",
+      "source_identity": [
+        16777230,
+        147025538,
+        33188,
+        501,
+        0,
+        1,
+        60346,
+        1789235205340304197,
+        1789235205340304197
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-result-contract-test-first.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789233983
+    },
+    {
+      "path": "h039-phase-result-contract-test-first.py",
+      "sha256": "cf01f412f2744a02c66d57307ce2089d92cf6bec18353659aa8246108b32ac41",
+      "bytes": 7717,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789233983.888508989",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789233983.888509,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-result-contract-test-first.py",
+      "source_identity": [
+        16777230,
+        147023152,
+        33188,
+        501,
+        0,
+        1,
+        7717,
+        1789233983888508989,
+        1789233983888508989
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-result-contract-test-first.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-phase-result-contract-test-first.GREEN.json",
+      "sha256": "56ac078bdd26341c8a008f01d3861b6033e13fdd7c94391c35803c7b8720c57d",
+      "bytes": 3881,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.723496844",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.723497,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-result-contract-test-first.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025514,
+        33188,
+        501,
+        0,
+        1,
+        3881,
+        1789235174723496844,
+        1789235174723496844
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-bindings-test-first.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234137
+    },
+    {
+      "path": "h039-phase-bindings-test-first.py",
+      "sha256": "30fd59e29005bc4754ea0c7920164f049e8e48fb54bdb91ff8791ac469ae8c4d",
+      "bytes": 5412,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234137.893593743",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234137.8935938,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-bindings-test-first.py",
+      "source_identity": [
+        16777230,
+        147023241,
+        33188,
+        501,
+        0,
+        1,
+        5412,
+        1789234137893593743,
+        1789234137893593743
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-bindings-test-first.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-phase-bindings-test-first.GREEN.json",
+      "sha256": "ee5716f76e5c3154c490ebc44b5640c0e52f26a59c4c408c79dc44e1c063649f",
+      "bytes": 1014,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.728169877",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.72817,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-bindings-test-first.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025515,
+        33188,
+        501,
+        0,
+        1,
+        1014,
+        1789235174728169877,
+        1789235174728169877
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-cancellation-test-first.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234555
+    },
+    {
+      "path": "h039-cancellation-test-first.py",
+      "sha256": "7c43fa111648de1c64746489fc715f52b0dd08378be24c1720734a7bf53eea25",
+      "bytes": 3025,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234555.574447425",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234555.5744474,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-cancellation-test-first.py",
+      "source_identity": [
+        16777230,
+        147024956,
+        33188,
+        501,
+        0,
+        1,
+        3025,
+        1789234555574447425,
+        1789234555574447425
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-cancellation-test-first.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-cancellation-test-first.GREEN.json",
+      "sha256": "b24b8e6e58cd5dd4eabe283dfe6a01b8a59dfffc0c734b12675c94c958c9f6cb",
+      "bytes": 1608,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.739268369",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.7392683,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-cancellation-test-first.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025517,
+        33188,
+        501,
+        0,
+        1,
+        1608,
+        1789235174739268369,
+        1789235174739268369
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-owned-capture-test-first.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234873
+    },
+    {
+      "path": "h039-owned-capture-test-first.py",
+      "sha256": "1638ae2743a13d92fb96dd39f48ce6aac6284d8fae5ce6c6eef6859dbab72e28",
+      "bytes": 6056,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234873.330528877",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234873.330529,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-owned-capture-test-first.py",
+      "source_identity": [
+        16777230,
+        147025071,
+        33188,
+        501,
+        0,
+        1,
+        6056,
+        1789234873330528877,
+        1789234873330528877
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-owned-capture-test-first.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-owned-capture-test-first.GREEN.json",
+      "sha256": "66eb61f8dfa74e678c9a06ab25bc85d4030352a5e1e8294a9aa35e4e86dbc26e",
+      "bytes": 3288,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.716469088",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.716469,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-owned-capture-test-first.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025513,
+        33188,
+        501,
+        0,
+        1,
+        3288,
+        1789235174716469088,
+        1789235174716469088
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-supplier-mocked.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235147
+    },
+    {
+      "path": "h039-phase-supplier-mocked.py",
+      "sha256": "b4ddb98f206ef3cb5800a9b607c54c5df9e2bd3be35807b4cce1816b4d5e6629",
+      "bytes": 28053,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235147.881407948",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235147.881408,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-supplier-mocked.py",
+      "source_identity": [
+        16777230,
+        147025429,
+        33188,
+        501,
+        0,
+        1,
+        28053,
+        1789235147881407948,
+        1789235147881407948
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-supplier-mocked.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-phase-supplier-mocked.GREEN.json",
+      "sha256": "7f679a63ade577ea718b853a614bbd1a47d603f64718ce855f25d5ff1615f3f4",
+      "bytes": 6874,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.743657649",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.7436576,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-supplier-mocked.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025518,
+        33188,
+        501,
+        0,
+        1,
+        6874,
+        1789235174743657649,
+        1789235174743657649
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-final-binding-focused.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235064
+    },
+    {
+      "path": "h039-phase-final-binding-focused.py",
+      "sha256": "ccdfeaf80285433bedb9a8ee54db4b433b922c8d819d5ba1ae3d3f78d5474407",
+      "bytes": 8305,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235064.839608062",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235064.839608,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-final-binding-focused.py",
+      "source_identity": [
+        16777230,
+        147025469,
+        33188,
+        501,
+        0,
+        1,
+        8305,
+        1789235064839608062,
+        1789235064839608062
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-final-binding-focused.GREEN.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-phase-final-binding-focused.GREEN.json",
+      "sha256": "4eb1b91aa7c799a90324e5a59f97e5a2adc718184f913ec71791bfbf29cf049b",
+      "bytes": 3351,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.73331187",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.733312,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-final-binding-focused.GREEN.json",
+      "source_identity": [
+        16777230,
+        147025516,
+        33188,
+        501,
+        0,
+        1,
+        3351,
+        1789235174733311870,
+        1789235174733311870
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-result-contract-test-first.RED.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234024
+    },
+    {
+      "path": "h039-phase-result-contract-test-first.RED.json",
+      "sha256": "a6c3c06df08e34d68bba028270a6387d06dd5a09ee1cd3b27ce04c7f12c2b5f2",
+      "bytes": 642,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234024.392216404",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234024.3922164,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-result-contract-test-first.RED.json",
+      "source_identity": [
+        16777230,
+        147023165,
+        33188,
+        501,
+        0,
+        1,
+        642,
+        1789234024392216404,
+        1789234024392216404
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-bindings-test-first.RED.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234283
+    },
+    {
+      "path": "h039-phase-bindings-test-first.RED.json",
+      "sha256": "0eb9a90b009334517b97b6155da24ddfd93e3f28589df16665d9cc02367b31dd",
+      "bytes": 591,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234283.428863953",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234283.428864,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-bindings-test-first.RED.json",
+      "source_identity": [
+        16777230,
+        147024660,
+        33188,
+        501,
+        0,
+        1,
+        591,
+        1789234283428863953,
+        1789234283428863953
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-cancellation-test-first.RED.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789234579
+    },
+    {
+      "path": "h039-cancellation-test-first.RED.json",
+      "sha256": "8ab17582a3b1932fe2fa82f16c8d55f490d2be72bc0df4a4f0a4cda0484f1bf7",
+      "bytes": 205,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789234579.730664018",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789234579.730664,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-cancellation-test-first.RED.json",
+      "source_identity": [
+        16777230,
+        147024964,
+        33188,
+        501,
+        0,
+        1,
+        205,
+        1789234579730664018,
+        1789234579730664018
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-owned-capture-test-first.RED.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235174
+    },
+    {
+      "path": "h039-owned-capture-test-first.RED.json",
+      "sha256": "4f497d44827d824d238eac6fd55fe497d5900aa31c170fa296b25a1daf688f17",
+      "bytes": 191,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235174.748079054",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235174.748079,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-owned-capture-test-first.RED.json",
+      "source_identity": [
+        16777230,
+        147025519,
+        33188,
+        501,
+        0,
+        1,
+        191,
+        1789235174748079054,
+        1789235174748079054
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "._h039-phase-held.775b921d-748b2c63.sha256",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {},
+      "mtime": 1789235205
+    },
+    {
+      "path": "h039-phase-held.775b921d-748b2c63.sha256",
+      "sha256": "8253f9c2a68ef5a2a502cd5c3773afac8a96e0aef2fd016689ff05e890472798",
+      "bytes": 3414,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789235205.447380639",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "mtime": 1789235205.4473805,
+      "source": "/private/tmp/nortropic-v313-contract.Fq5ueV/h039-phase-held.775b921d-748b2c63.sha256",
+      "source_identity": [
+        16777230,
+        147025539,
+        33188,
+        501,
+        0,
+        1,
+        3414,
+        1789235205447380639,
+        1789235205447380639
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    }
+  ],
+  "findings": [],
+  "source_unchanged": true,
+  "command": [
+    "/usr/bin/tar",
+    "-czf",
+    "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/h039-phase-hold-775b921d-20260912.tar.gz",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.775b921d.h039-exit",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.748b2c63.final-exit",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.bc5c1050.spec.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.b75b1bc6.verify-cli",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.d44a8148.REFREEZE.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.40fc85fb.development.md",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.775b921d-748b2c63.diff",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-result-contract-test-first.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-result-contract-test-first.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-bindings-test-first.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-bindings-test-first.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-cancellation-test-first.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-cancellation-test-first.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-owned-capture-test-first.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-owned-capture-test-first.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-supplier-mocked.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-supplier-mocked.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-final-binding-focused.py",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-final-binding-focused.GREEN.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-result-contract-test-first.RED.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-bindings-test-first.RED.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-cancellation-test-first.RED.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-owned-capture-test-first.RED.json",
+    "-C",
+    "/private/tmp/nortropic-v313-contract.Fq5ueV",
+    "h039-phase-held.775b921d-748b2c63.sha256"
+  ],
+  "exit": 0,
+  "scope": "24 fixed held source/focus/result/list files, not later WIP, formal review or a complete worktree",
+  "prior_subject_dependency": "H039-SUPPLIER-RESTORE-RECEIPT.json preserves predecessor source tranche; v316-h039-continuity-product-8095d94.bundle preserves local base history",
+  "status": "LOCAL_INSPECTED_NOT_UPLOADED",
+  "runtime_credit": false
+}

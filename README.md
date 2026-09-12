@@ -44,6 +44,13 @@ proof; they are not implicitly approved by the small first batch.
 
 ## Coverage
 
+Latest held-source backup: H039-PHASE-RESTORE-RECEIPT.json covers24 fixed files
+for H039775b921d/final-exit748b2c63 and their focused source/pure/mock evidence.
+Actual GitHub download, extraction and membership/byte/metadata checks passed.
+This preserves the held six-file successor without overwriting its predecessor;
+independent reviews and the later real-process method are outside this snapshot.
+It is not a frozen contract, actual build or qualification result.
+
 Latest disk checkpoint, 2026-09-12T17:33Z: all45 large-archive parts completed
 remote byte readback, reconstructing both full original archives exactly.
 LARGE-EXTERNAL-REMOTE-RECEIPT.json records exit0, empty stderr and unchanged

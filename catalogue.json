@@ -1420,6 +1420,18 @@
       "receipt": "H039-SUPPLIER-RESTORE-RECEIPT.json",
       "logical_files": 14,
       "scope": "Fixed held source/focus/review files only, not successor moving work or complete worktree"
+    },
+    {
+      "path": "external/h039-phase-hold-775b921d-20260912.tar.gz",
+      "bytes": 988076,
+      "sha256": "56d1675a7f0dfc410a7c848cdec6b234dc0c0d5dc70fff76be10579e4a0e2bdd",
+      "status": "REMOTE_BOUNDED_FILES_RESTORED_VERIFIED",
+      "release_tag": "backup-20260912-h039-phase-775b921d",
+      "asset_id": 559683629,
+      "inspection": "H039-PHASE-BACKUP-INSPECTION.json",
+      "receipt": "H039-PHASE-RESTORE-RECEIPT.json",
+      "logical_files": 24,
+      "scope": "Six held sources plus pure/mock scripts/results, earlier REDs, exact delta and identity list; not later review or actual qualification"
     }
   ]
 }

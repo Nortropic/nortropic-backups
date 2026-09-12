@@ -1,0 +1,31 @@
+{
+  "time_utc": "2026-09-12T17:49:08.922259+00:00",
+  "status": "DOWNLOADED_FILES_RESTORED_VERIFIED",
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "private": true,
+  "release_tag": "backup-20260912-h039-phase-775b921d",
+  "release_id": 387653092,
+  "asset_id": 559683629,
+  "asset_name": "h039-phase-hold-775b921d-20260912.tar.gz",
+  "server_digest": "sha256:56d1675a7f0dfc410a7c848cdec6b234dc0c0d5dc70fff76be10579e4a0e2bdd",
+  "inspection_sha256": "53a3982dac8499f6a258f0fb9e8792a406b0e2f8bc598c305c2f246c602a66f4",
+  "archive_sha256": "56d1675a7f0dfc410a7c848cdec6b234dc0c0d5dc70fff76be10579e4a0e2bdd",
+  "archive_bytes": 988076,
+  "restored": "/private/tmp/nortropic-h039-phase-restore-l54y71c7",
+  "logical_files": 24,
+  "checked": ["membership", "bytes", "size", "mode", "uid", "gid", "mtime_ns", "xattrs", "single_link_independent_inode"],
+  "source_archive_unchanged": true,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "qualification_credit": false,
+  "scope": "Six fixed held source files, six pure/mocked test scripts, six GREEN command/results, four RED records, exact delta and SHA list; no later review, method or moving worktree",
+  "commands": [
+    {"command": "/opt/homebrew/bin/python3.12 -I -S -B snapshot_h039_phase_hold.py prepare", "cwd": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS", "exit": 0, "findings": []},
+    {"operation": "gh release create with the single named archive and target 6ba414dbc3eaad59bea80cd96835c237f70761ce", "exit": 0},
+    {"command": "/opt/homebrew/bin/gh release download backup-20260912-h039-phase-775b921d --repo Nortropic/nortropic-backups --pattern h039-phase-hold-775b921d-20260912.tar.gz --output /Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-phase-hold-775b921d-20260912.download.tar.gz", "exit": 0},
+    {"command": "/opt/homebrew/bin/python3.12 -I -S -B snapshot_h039_phase_hold.py verify", "cwd": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS", "exit": 0},
+    {"operation": "gh api exact private repo and release asset ID/size/digest/state recheck", "exit": 0}
+  ]
+}
