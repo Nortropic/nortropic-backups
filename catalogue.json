@@ -6,47 +6,74 @@
     {
       "path": "README-RESTORE.md",
       "bytes": 1391,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "eba5d42c96f55bc889f26aabb75c7b522d22c672e71c1c784a6978fe9b9a9b1e",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-original.tsv",
       "bytes": 25539334,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "2b80f382ed55dd3432c030cd4e48dd5fdb51018854aedb1260f675022bcf90ed",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T104815Z.tsv",
       "bytes": 25732308,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "94c94b4145f224615d640687869d3d069c3861ac6045c3d2db1268034a4d2179",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T105109Z.tsv",
       "bytes": 25732443,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "361b52e7be99d5be2008391919f7998ae9f563e299ebc3c4dca1b8722d1c0829",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T110008Z.tsv",
       "bytes": 25732444,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "1afd04bb9eae911e27aa33b035a4b74af931d850046a115d200b5a8526abed9e",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T112915Z.tsv",
       "bytes": 25826439,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "2aed9f9d77c61179d05d2b1aacedc1f194c21194ac5832a8e4ba8eff317dc074",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T161125Z.tsv",
       "bytes": 25826963,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "a96c72f320f1487c6ed1416d72db9fb810bbe391d73f8740c62365ce2b45cf1c",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T195603Z.tsv",
       "bytes": 25827768,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "4349cd07e9904ee842a4a81a227bfa369526a29cd6fa7e68eccaa9da41b9725d",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "manifest-phase4-20260910T202553Z.tsv",
       "bytes": 25827909,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "e4f6893f5a5ea55a10a3cc837042290c4ce569bd2fca2d8e3d15b6b481d447a5",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "nortropic-full.tar",
@@ -61,142 +88,233 @@
     {
       "path": "phase1-report.json",
       "bytes": 964,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "7fc968da4ab101ef722ed9badb26c0695eec9bdacb13a98cb52778ea27e47b76",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase2-report.json",
       "bytes": 46556,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "b5963455ec44fb474305c0405cc6075a3bdf441ba908258aefa999ae0cbf8fa4",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase2b-restore-report.json",
       "bytes": 109119,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "cd58407eba20a67be509aa3fd3944f3e204c4dd7a2a07faaf2ffa5ffc48838ec",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase2c-restore-report.json",
       "bytes": 109463,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "3fc815fdfb531193a21396c56b7d8f9cc05b0269d590ef26436577be7d938c2b",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase3-external-report.json",
       "bytes": 12878,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "f1693c229671de243c25184967321f9e398ded3e46b9283e1e32eaf2e134215c",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T104815Z.json",
       "bytes": 1307,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "7762555e2e756c10f6c47f291bf166648e8b8ca0a0a00468ba6d432a5bd9d8a9",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T105109Z.json",
       "bytes": 1372,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "4bad03c5e1dfe03ca8ebf62d15ad3025f4206c6bcdb62afb4755bc5547d8423e",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T110008Z.json",
       "bytes": 1372,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "e28a75cb9b221e6b6d33beea930d837001f31164bc9bcab8e2a2fd1f653a54a3",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T112915Z.json",
       "bytes": 1603,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "c2f0a806e9a1880cc0f6e80a77d36eb24ccf0546fe1e597b4e5ac6cc0a8be5ea",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T161125Z.json",
       "bytes": 1847,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "ba3b36e0a82f59b91b2ba64fae832bbc10fd0d583294b0451583adde9dde5b93",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T195603Z.json",
       "bytes": 2328,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "3e8a918fd5a80ee5201bc3cde4a978e28262cf242b39b3fb3909f999b51f7755",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "phase4-delta-report-20260910T202553Z.json",
       "bytes": 2399,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "b46af5705fc9f259a7461dd535d40f45e82daebeed2fff9efb55f57107078173",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "restore-dir-modes.py",
       "bytes": 734,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "7d53a4f975e46c009cad9684e85250408c8f5041bed5bd4d3bc0940e35a30e69",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T104815Z.list",
       "bytes": 90782,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "b337409e1bdf4bd60b232253de6c6b475eea34fe2830f7637f44efd9f309aac3",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T104815Z.tar",
       "bytes": 50636800,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "2f76540486904707896dc3d592ad5b7abbcc423744fb54c42081c19e67614405",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T105109Z.list",
       "bytes": 90839,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "f65bd6e152b16f9ff6b0de1ce3e08fc18f4e170ddec17a92dc8e20f4d00548b3",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T105109Z.tar",
       "bytes": 50647040,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "589f66022b6613c2ce7075000fa241b3adf5676cd3b3946eeeabab858cedb612",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T110008Z.list",
       "bytes": 90839,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "f65bd6e152b16f9ff6b0de1ce3e08fc18f4e170ddec17a92dc8e20f4d00548b3",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T110008Z.tar",
       "bytes": 50650112,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "00f1c1391338834ae249071e42c1eda21e015df9f3c2f6b29bd5d468675453b3",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T112915Z.list",
       "bytes": 134990,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "6c315934001979c0523863afe291349b1ed24d9402236430ba23cd944a717715",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T112915Z.tar",
       "bytes": 75821568,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "2b5d7eb4639257c66dc64739afce8f3f15563cd9bf8359170f45a11c20fa0acc",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T161125Z.list",
       "bytes": 135202,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "ab1a8fb93ee2429c22eb7303ac065abc0669fe1aaa9b98c32e86ea977a85fb54",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T161125Z.tar",
       "bytes": 75857920,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "eadaaeee34e05e39567413cef2f003bee81f9b387aa0acb844ee195b72cceade",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T195603Z.list",
       "bytes": 135593,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "cc423b71bed889b99f7fba3f4b5c2daacc6909413901f4c2bab88ec737ac3740",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T195603Z.tar",
       "bytes": 75924480,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "2ec19907db62ff28a3a42dee5d621056f6a8a4a226d564c29b670c9df20be7bc",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "supplement-20260910T202553Z.list",
       "bytes": 135656,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "9b93f2df707ab8f84f285b347f33dae24c53c1435d116acc523d8c9a7984b789",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "supplement-20260910T202553Z.tar",
       "bytes": 75930112,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED",
+      "sha256": "1ce9625e7b7e46bc6a1a6d4058fc7d4a12de244d786782c5636c07347dee4025",
+      "release_tag": "backup-20260912-seven-cumulative-supplements",
+      "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
+      "base_plus_delta_restore": "NOT_RUN"
     },
     {
       "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.manifest.tsv",
       "bytes": 418,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "2f9c097b89deb422b64ccf36abe557fc7ef0af75d5fceb218a7c6b7fed44c14f",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.tar",
@@ -311,7 +429,10 @@
     {
       "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.manifest.tsv",
       "bytes": 1658,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "54b4508d4e553fdbfa5c26314f45cf104381c4b431618edd9c02fbbfc548702f",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.tar",
@@ -321,7 +442,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.manifest.tsv",
       "bytes": 27591,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "a04ff04bfb19737cae7bd1af107cc42be91090763447c66d29e2e57e06b7fb7c",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-6d9ntpee.tar",
@@ -331,7 +455,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.manifest.tsv",
       "bytes": 27591,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "083a330d174100197d5a29269e7ba14fac6424e01b3468ae10dd77c95ab2ebf5",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-n039c8em.tar",
@@ -341,7 +468,10 @@
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.manifest.tsv",
       "bytes": 27591,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "69aee090e1655c21d387b65f080bc0ae7299760e09acd12b8559a70d3fc69116",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__claude-501__invariant-required-local-v63tfkxe.tar",
@@ -351,7 +481,10 @@
     {
       "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.manifest.tsv",
       "bytes": 20458,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "01c1acd98edfd47940a1899905d5c6df707e1130ff2d8a962c83a1f8574582c0",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-builder-missing-objects.aPg6Iw.tar",
@@ -361,7 +494,10 @@
     {
       "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.manifest.tsv",
       "bytes": 20534,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "2917b21a06669764430ef0d48c47d88bb033a6c7bb5396439310191ba3dbd172",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-product-review-r2.zGZWgd.tar",
@@ -371,7 +507,10 @@
     {
       "path": "external/private__tmp__document-authority-product-review.gRXLE4.manifest.tsv",
       "bytes": 20665,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "19576fb07ec2adc48dbd9f2133826945b074898930d7ac55ea614fb101247eae",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__document-authority-product-review.gRXLE4.tar",
@@ -381,7 +520,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-dz97l3_7.manifest.tsv",
       "bytes": 485,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "9007497f10e30ecd6783f8b4c443d4394490d153ccb48ebbe05a3266458089e5",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-dz97l3_7.tar",
@@ -391,7 +533,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-i4obi427.manifest.tsv",
       "bytes": 576,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "de84f5228aeed044ff964f1f6d77195e10cd7dbf8de6a67646433feb5dcd477b",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-i4obi427.tar",
@@ -401,7 +546,10 @@
     {
       "path": "external/private__tmp__h039-asset-measure-q2j4bejy.manifest.tsv",
       "bytes": 6884,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "6e74bbf96c19be66c365fadcbe3295f659a5b71847fcd5eb51469229d26c0bfd",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-asset-measure-q2j4bejy.tar",
@@ -411,7 +559,10 @@
     {
       "path": "external/private__tmp__h039-git-observe-tyt8Rz.manifest.tsv",
       "bytes": 55298,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "a40a8c720d7a6954257647a9bbce83d4ecad0f2c9b86bfaf35f15a32ed478dea",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__tmp__h039-git-observe-tyt8Rz.tar",
@@ -421,7 +572,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.manifest.tsv",
       "bytes": 35159,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "deba59739fb9ea64de6917063daa5ad9b2d00758a8e950d9627fd8830ee31c20",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-3l_80b3k.tar",
@@ -431,7 +585,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "da7acac3574e248bc867d281ce68b9d86f282a31e9b504778f043fa9ee0bb3f4",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9c5__fw0.tar",
@@ -441,7 +598,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "bae5ecc6b30c34429309d41a0289fb73c807e2875be2b32c0ca72fdc9af9ba13",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-9i9y97xo.tar",
@@ -451,7 +611,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.manifest.tsv",
       "bytes": 35379,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "4c808fd8338a24c4a6844e38d68741083598421bee4871fa4fe6297e149530ce",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-bzxp1mpp.tar",
@@ -461,7 +624,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.manifest.tsv",
       "bytes": 35379,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "4a6e9b8343e302243ebee06a2074a738d539c870e9459b47962c5bf239fc0f98",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-c9rzuzo6.tar",
@@ -471,7 +637,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "d2bba3f0e8769a702240eee2cf92d94312c76f92b82fc1c4ca34035803a46ab1",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-cijlzpz2.tar",
@@ -481,7 +650,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "b5e539f87f8a31b2cc3a5c2eeb2370caaa722f9b6fbad68dc522fbca0e3f953a",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-d5anqyzr.tar",
@@ -491,7 +663,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.manifest.tsv",
       "bytes": 35159,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "b06662324297166eff3aa7cebefd93972503cb9144f253d5480eb2d7534472ca",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-fokymj_y.tar",
@@ -501,7 +676,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.manifest.tsv",
       "bytes": 35379,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "05d1327d3c7465346a49ea45048ac7abccf73f68431e64a0a8bd24c8703fbd58",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-l66ftplh.tar",
@@ -511,7 +689,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "6a27d8ae102db5287fc5be726949e12e093c154e1d5aaaf4f6e98a83e5734aa1",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-v5r7475r.tar",
@@ -521,7 +702,10 @@
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.manifest.tsv",
       "bytes": 37819,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_RECOVERY_METADATA_FILES_RESTORED_VERIFIED",
+      "sha256": "7b9a8693f8937579d55b2e0ddff96e5ed14ec3b4416c2e2767ab6e90439773d1",
+      "release_tag": "backup-20260912-recovery-manifests",
+      "receipt": "RECOVERY-METADATA-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/private__var__folders___v__t4cy04w95gz3m782_3p5qs9h0000gn__T__document-authority-local-y6z4q28m.tar",

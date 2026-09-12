@@ -72,10 +72,20 @@ MAIN-MULTIPART.md. The result is
 The historical failed compression remains preserved; its unchanged output is
 now explicitly part1 of the new verified two-part transport, never a whole tar.
 
-Next transfer work: the reviewed cumulative supplements, required recovery
-manifests/instructions and still-unreviewed external backups. See
-RESTORE-CHAIN-INDEX.json; an index is not evidence that its referenced payloads
-were uploaded. None of these gaps is hidden by the verified base tar.
+Later checkpoint: all seven cumulative supplements are uploaded and have actual
+regular-file restore receipts in SUPPLEMENT-REMOTE-RECEIPT.json (8425 files across
+seven separate generations). RECOVERY-METADATA-REMOTE-RECEIPT.json covers52 exact
+recovery manifests, member lists, instructions and reports downloaded/restored.
+These checks cover file membership/bytes/modes/uid/gid; they do not claim complete
+directory metadata, a composed baseline+delta worktree or archived helper execution.
+RESTORE-CHAIN-INDEX.json originally recorded local-only status; consult these later
+receipts for transfer progress. Its historical source pins are unchanged.
+
+Next transfer work: the remaining external archives and backup containers.
+Full composed baseline+delta restoration and later-work coverage remain open.
+Eight redundant download-cache files were retired after completed restoration;
+their byte-identical local encoded source copies, remote assets and restored trees
+remain. This is not retirement of original backups or repositories.
 Budget genuine remote filesystem restoration separately: the main tar's logical
 regular-file bytes alone are 4266945226, beyond the currently observed margin
 above the 15 GiB floor. Historical local restoration reports are retained but are

@@ -1,0 +1,239 @@
+{
+  "time_utc": "2026-09-12T16:25:09.554224+00:00",
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "private": true,
+  "release_id": 387629251,
+  "release_tag": "backup-20260912-seven-cumulative-supplements",
+  "results": [
+    {
+      "asset": "supplement-20260910T104815Z.tar.gz",
+      "asset_id": 559560771,
+      "raw_sha256": "2f76540486904707896dc3d592ad5b7abbcc423744fb54c42081c19e67614405",
+      "asset_sha256": "eebdcedd24cf8a7ff63cf9671aa9027488e93b04d8d1c180a9f6d4889a7b5424",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T104815Z.tar.gz.files",
+      "files": 936,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T104815Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T104815Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T104815Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T104815Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T105109Z.tar.gz",
+      "asset_id": 559560769,
+      "raw_sha256": "589f66022b6613c2ce7075000fa241b3adf5676cd3b3946eeeabab858cedb612",
+      "asset_sha256": "74bf243988e298f5312cdb6a524ec862d742f5c42ab27ae072dd99cfc341990d",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T105109Z.tar.gz.files",
+      "files": 937,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T105109Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T105109Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T105109Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T105109Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T110008Z.tar.gz",
+      "asset_id": 559560770,
+      "raw_sha256": "00f1c1391338834ae249071e42c1eda21e015df9f3c2f6b29bd5d468675453b3",
+      "asset_sha256": "9ea39f439f28eda472939bb77a2f710dba1743184b4a86bccaf9c9079db0966c",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T110008Z.tar.gz.files",
+      "files": 937,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T110008Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T110008Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T110008Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T110008Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T112915Z.tar.gz",
+      "asset_id": 559560766,
+      "raw_sha256": "2b5d7eb4639257c66dc64739afce8f3f15563cd9bf8359170f45a11c20fa0acc",
+      "asset_sha256": "216675c78c0294a5017f316a249277abf102ad050328db3d92026d7c979b2310",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T112915Z.tar.gz.files",
+      "files": 1397,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T112915Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T112915Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T112915Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T112915Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T161125Z.tar.gz",
+      "asset_id": 559560772,
+      "raw_sha256": "eadaaeee34e05e39567413cef2f003bee81f9b387aa0acb844ee195b72cceade",
+      "asset_sha256": "7fc759763bf67b1bc3487bf34eaea2777eee25abc9a420360be27f98612e02fc",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T161125Z.tar.gz.files",
+      "files": 1401,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T161125Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T161125Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T161125Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T161125Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T195603Z.tar.gz",
+      "asset_id": 559561421,
+      "raw_sha256": "2ec19907db62ff28a3a42dee5d621056f6a8a4a226d564c29b670c9df20be7bc",
+      "asset_sha256": "4e47b5e257cd21efe4f08fad5741db0ba151836ae7df91b7d659b9d5a980b275",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T195603Z.tar.gz.files",
+      "files": 1408,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T195603Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T195603Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T195603Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T195603Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    },
+    {
+      "asset": "supplement-20260910T202553Z.tar.gz",
+      "asset_id": 559561441,
+      "raw_sha256": "1ce9625e7b7e46bc6a1a6d4058fc7d4a12de244d786782c5636c07347dee4025",
+      "asset_sha256": "eb0ab1d548d613aedd47860549280475a5bc52b74bf0683261b8b42628e82514",
+      "restored_root": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T202553Z.tar.gz.files",
+      "files": 1409,
+      "command_download": [
+        "gh",
+        "release",
+        "download",
+        "backup-20260912-seven-cumulative-supplements",
+        "--repo",
+        "Nortropic/nortropic-backups",
+        "--pattern",
+        "supplement-20260910T202553Z.tar.gz",
+        "--output",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T202553Z.tar.gz"
+      ],
+      "command_restore": [
+        "/usr/bin/tar",
+        "-xpf",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T202553Z.tar.gz",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-remote-restored/supplement-20260910T202553Z.tar.gz.files"
+      ],
+      "download_exit": 0,
+      "restore_exit": 0,
+      "regular_members_bytes_modes_uid_gid": true,
+      "directory_metadata_and_complete_worktree_restore": "NOT_CLAIMED",
+      "status": "REMOTE_DELTA_FILES_RESTORED_VERIFIED"
+    }
+  ],
+  "all_seven_verified": true,
+  "originals_unchanged": true,
+  "base_plus_delta_restore": "NOT_RUN",
+  "deleted": false,
+  "runtime_credit": false
+}
