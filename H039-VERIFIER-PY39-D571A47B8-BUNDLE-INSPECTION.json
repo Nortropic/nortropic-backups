@@ -1,0 +1,834 @@
+{
+  "status": "LOCAL_NEW_OBJECTS_INSPECTED_NOT_UPLOADED",
+  "candidate": "571a47b8f5fbf1718125742718d2f5908d49e95c",
+  "parent": "83f75968b9892ae98a6a879178c407d2a6fd935e",
+  "tree": "10d70b1b77601b72b07c633510cb12f5ac657b02",
+  "bundle_sha256": "1f0e03597c3b9dbf503bf2d56d9428f4e175864406599814744e7cc59ee8172c",
+  "bundle_bytes": 10486,
+  "new_objects": [
+    {
+      "oid": "571a47b8f5fbf1718125742718d2f5908d49e95c",
+      "kind": "commit",
+      "bytes": 257,
+      "sha256": "bb09cc1a370f6131df486f0cf057bde4168759627a3585658853eb6b352dd29d"
+    },
+    {
+      "oid": "10d70b1b77601b72b07c633510cb12f5ac657b02",
+      "kind": "tree",
+      "bytes": 461,
+      "sha256": "6f0b8d8cd50aed47d214a8ef4b89978b0d2a3dae5b23e005d54ece86a3c49867"
+    },
+    {
+      "oid": "bac0e47757e5980c695e30f326659c0e1e7548d2",
+      "kind": "tree",
+      "bytes": 309,
+      "sha256": "1894794cac852932e208ce0627f7fbf80841d70d570c7fb054e996b3d9a2799d"
+    },
+    {
+      "oid": "e74b09aec626c62a872dbffd3fb52b231a62c240",
+      "kind": "blob",
+      "bytes": 923,
+      "sha256": "2fdb8b4d62473abbdc637cce576f9b09b63b4d0605f27f5a2c22bbff426bb8f1"
+    },
+    {
+      "oid": "dd707bc66b33a0f452b451b2a150cfd7483869df",
+      "kind": "tree",
+      "bytes": 587,
+      "sha256": "14a2f03f46fcb412085299af5b2c4b3b16e70817d7c9f50ef245499f6207273d"
+    },
+    {
+      "oid": "4f430b25ef4d38fcdca9218ff440e41e748999d2",
+      "kind": "tree",
+      "bytes": 72,
+      "sha256": "d3a17462386a29dcde8a1929913fd79820bc135fa81ca496dfc713e1d90aeb4b"
+    },
+    {
+      "oid": "d61cba6edd788922803e9115c3063952815856bc",
+      "kind": "blob",
+      "bytes": 41991,
+      "sha256": "2e937a17821bc294848086151b18d3b4230b1cefba80453b8682ace762f67243"
+    },
+    {
+      "oid": "72ac1b15cc3ac0e0a1c5fe283f9f448c7a8b84e4",
+      "kind": "tree",
+      "bytes": 31,
+      "sha256": "8c1d8ef447c62fa703d41b922ac13d0867a3db15115787b66135116914f3664c"
+    },
+    {
+      "oid": "0d595e15589711e351928608615cffc682ab0639",
+      "kind": "tree",
+      "bytes": 1374,
+      "sha256": "9cecc200fe782da158965cfdc808207272b6bb3415e9108357893479ce177887"
+    },
+    {
+      "oid": "8775a05f6080b7b4e2221d4328b529af3b6e42b5",
+      "kind": "blob",
+      "bytes": 317894,
+      "sha256": "cbc89287503af994bcbaea4ff21152f08e98b5fb23729494cdfcd7b2c3e0ef9f"
+    },
+    {
+      "oid": "eb72996cc86a4cc296ea85542f0d53316dc58867",
+      "kind": "tree",
+      "bytes": 101,
+      "sha256": "5b8023a133af138f79051eb2f65572cf19d024ca0b562d92e6b60f53b4858dff"
+    },
+    {
+      "oid": "3df9aae79d9feee97678458f061909f8beb7c7e9",
+      "kind": "blob",
+      "bytes": 986346,
+      "sha256": "b5f108d99c42287f2b2187ad4fa973bce9781e63d5ad9d98b6e51f28b12a6cb0"
+    },
+    {
+      "oid": "db2657280adb1fbac59f7a94af9fd86b504b0e8f",
+      "kind": "tree",
+      "bytes": 92,
+      "sha256": "7ca561db628507490c897efaa5cf52a913bd2139df31980ea37c7e965d08b799"
+    },
+    {
+      "oid": "222fc2f07cb72da25b97fb99b37db6adfc12f867",
+      "kind": "tree",
+      "bytes": 1444,
+      "sha256": "e1356c61bf4a5fbe938da01f254d1cd7fd1516544de80426ce4236f462bf530a"
+    },
+    {
+      "oid": "f9e77096ab8f7bc149d2058188e112728a36aa28",
+      "kind": "blob",
+      "bytes": 2404309,
+      "sha256": "ec3e1e8e3b86f9d4cb6cef7d8b04d21bb7413a1303368e541b33fd1dcda76853"
+    },
+    {
+      "oid": "f3c87aa6b4ba10f511f76c4bdbdd236451a458fc",
+      "kind": "blob",
+      "bytes": 336025,
+      "sha256": "e947c81c008e0e6add0cc2df745319626a3eadc17f9110ed87076b4f4a505486"
+    }
+  ],
+  "findings": [],
+  "scan_scope": "All new decompressed Git objects; bounded patterns not proof of absence",
+  "commands": [
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "rev-parse",
+        "HEAD"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12202,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "72348dfd49b601276cf67b5ea0a9ef5eba8bcee079df3327e4b97b3951e3ce6e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "show",
+        "-s",
+        "--format=%P%n%T",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12203,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "9546e0dc74e304108b1c56d760446ba65eee87ead1fe8b941efd7f51eb771ef4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "status",
+        "--porcelain=v1",
+        "--untracked-files=all"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12204,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "rev-list",
+        "--objects",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c",
+        "^83f75968b9892ae98a6a879178c407d2a6fd935e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12205,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "ad4371a6d389bd33be90d2c2f39ce6bc1aaae797c7cbda906c887e1b0cf9550b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12206,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "50836eee574ecff79dea3b4fd40673d7d000f7a5f177d8a6a3000b59c78383b8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "commit",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12207,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bb09cc1a370f6131df486f0cf057bde4168759627a3585658853eb6b352dd29d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "10d70b1b77601b72b07c633510cb12f5ac657b02"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12208,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "10d70b1b77601b72b07c633510cb12f5ac657b02"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12209,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "6f0b8d8cd50aed47d214a8ef4b89978b0d2a3dae5b23e005d54ece86a3c49867",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "bac0e47757e5980c695e30f326659c0e1e7548d2"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12210,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "bac0e47757e5980c695e30f326659c0e1e7548d2"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12211,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "1894794cac852932e208ce0627f7fbf80841d70d570c7fb054e996b3d9a2799d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "e74b09aec626c62a872dbffd3fb52b231a62c240"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12212,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "e74b09aec626c62a872dbffd3fb52b231a62c240"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12213,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "2fdb8b4d62473abbdc637cce576f9b09b63b4d0605f27f5a2c22bbff426bb8f1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "dd707bc66b33a0f452b451b2a150cfd7483869df"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12214,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "dd707bc66b33a0f452b451b2a150cfd7483869df"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12215,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "14a2f03f46fcb412085299af5b2c4b3b16e70817d7c9f50ef245499f6207273d",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "4f430b25ef4d38fcdca9218ff440e41e748999d2"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12216,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "4f430b25ef4d38fcdca9218ff440e41e748999d2"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12217,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "d3a17462386a29dcde8a1929913fd79820bc135fa81ca496dfc713e1d90aeb4b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "d61cba6edd788922803e9115c3063952815856bc"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12218,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "d61cba6edd788922803e9115c3063952815856bc"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12219,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "2e937a17821bc294848086151b18d3b4230b1cefba80453b8682ace762f67243",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "72ac1b15cc3ac0e0a1c5fe283f9f448c7a8b84e4"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12220,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "72ac1b15cc3ac0e0a1c5fe283f9f448c7a8b84e4"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12221,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "8c1d8ef447c62fa703d41b922ac13d0867a3db15115787b66135116914f3664c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "0d595e15589711e351928608615cffc682ab0639"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12222,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "0d595e15589711e351928608615cffc682ab0639"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12223,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "9cecc200fe782da158965cfdc808207272b6bb3415e9108357893479ce177887",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "8775a05f6080b7b4e2221d4328b529af3b6e42b5"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12224,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "8775a05f6080b7b4e2221d4328b529af3b6e42b5"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12225,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "cbc89287503af994bcbaea4ff21152f08e98b5fb23729494cdfcd7b2c3e0ef9f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "eb72996cc86a4cc296ea85542f0d53316dc58867"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12226,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "eb72996cc86a4cc296ea85542f0d53316dc58867"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12227,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "5b8023a133af138f79051eb2f65572cf19d024ca0b562d92e6b60f53b4858dff",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "3df9aae79d9feee97678458f061909f8beb7c7e9"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12228,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "3df9aae79d9feee97678458f061909f8beb7c7e9"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12229,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "b5f108d99c42287f2b2187ad4fa973bce9781e63d5ad9d98b6e51f28b12a6cb0",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "db2657280adb1fbac59f7a94af9fd86b504b0e8f"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12230,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "db2657280adb1fbac59f7a94af9fd86b504b0e8f"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12231,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "7ca561db628507490c897efaa5cf52a913bd2139df31980ea37c7e965d08b799",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "222fc2f07cb72da25b97fb99b37db6adfc12f867"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12232,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "f27e01fe7624cca3e69811a0bf9a4efd9dca9fd39f7a3a8f939cae0cfe8cdfb8",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "tree",
+        "222fc2f07cb72da25b97fb99b37db6adfc12f867"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12233,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e1356c61bf4a5fbe938da01f254d1cd7fd1516544de80426ce4236f462bf530a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "f9e77096ab8f7bc149d2058188e112728a36aa28"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12234,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "f9e77096ab8f7bc149d2058188e112728a36aa28"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12235,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "ec3e1e8e3b86f9d4cb6cef7d8b04d21bb7413a1303368e541b33fd1dcda76853",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "-t",
+        "f3c87aa6b4ba10f511f76c4bdbdd236451a458fc"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12236,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "bc103b4a84971ef6459b294a2b98568a2bfb72cded09d4acd1e16366a401f95b",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "cat-file",
+        "blob",
+        "f3c87aa6b4ba10f511f76c4bdbdd236451a458fc"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12237,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e947c81c008e0e6add0cc2df745319626a3eadc17f9110ed87076b4f4a505486",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "create",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-py39-D-571a47b8-incremental.bundle",
+        "refs/heads/nortropic/loop-h039-verifier-py39-local-20260912",
+        "^83f75968b9892ae98a6a879178c407d2a6fd935e"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12238,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "list-heads",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-py39-D-571a47b8-incremental.bundle"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12241,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "da221f500480ae47bd4b00a38cca74a697c54fcea315e894137c516fb85f8f2a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "bundle",
+        "verify",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/bundles/h039-verifier-py39-D-571a47b8-incremental.bundle"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12242,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "d0394391440f51e1dc624ea356615b7788c0dcdc7b58a4fd5d25bc223de4b849",
+      "stderr_sha256": "1fff90da069df437b89d6358fb00a379c45aba8df7ac80645a71f04870f80422"
+    },
+    {
+      "argv": [
+        "/Library/Developer/CommandLineTools/usr/bin/git",
+        "--no-pager",
+        "--no-replace-objects",
+        "-c",
+        "core.hooksPath=/dev/null",
+        "status",
+        "--porcelain=v1",
+        "--untracked-files=all"
+      ],
+      "cwd": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912",
+      "pid": 12244,
+      "exit": 0,
+      "status": "DIRECT_CHILD_TERMINAL",
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "runtime_credit": false
+}

@@ -1,0 +1,196 @@
+{
+  "count": 38,
+  "scope": "Exact D py39 frozen sources, all named current-tranche controls and captured qualification/preparation/reviews, continuity snapshot and bundle records; not whole-system backup",
+  "rows": [
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-pure-600f56.json",
+      "sha256": "e0ee7a621d145cd74f4dcc479273f75b264659727d106226bdf3f59750595f45",
+      "bytes": 16812
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-independent-identity-effects.json",
+      "sha256": "d94ed308e88aa9b87b93aee9e6d695c27e8c5a9abdb934e6dfaa6c7b34cecb2c",
+      "bytes": 20306
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-py39-D571a47b8.py",
+      "sha256": "42e13b1bd9dfc4ae6651312fa81ffe0fb2da03c5b89faecd34bfc9932a21c5ed",
+      "bytes": 6868
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-75-independent-review.json",
+      "sha256": "1ca422a47b462d5fcfe6dd5becfa5a2c94dc3bd5fd0c4e184764f4a1c1062b1d",
+      "bytes": 15861
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-freeze.json",
+      "sha256": "2de45485d2470d5ae2888fb4a48409e9138fec24f37f640520cd66c791453c11",
+      "bytes": 1241
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/py39-copy-preparation.stdout",
+      "sha256": "07cf3ba279374f077a5dce291e3f0e0d74638a72d2066e367bc0d9278369f886",
+      "bytes": 114110
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/py39-copy-preparation-run.json",
+      "sha256": "c76eab87e27b68ec62ac419bcf657f9674139cb4db4269c29e7f87c985e4f950",
+      "bytes": 958
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-next-tranche-architecture.json",
+      "sha256": "50585e17cdbd67159846a11e04601993b849698e4c8e77b126e01128d3e70036",
+      "bytes": 2185
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-pure-d57bbe.json",
+      "sha256": "85c3ba2ea0965bd61c87a55ed692b70b0221eb055f273f43e3a94da17b130682",
+      "bytes": 16714
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-baseline-5e672c.json",
+      "sha256": "d25fb13652f62099f95c6a1860117c73ef18b8b81410b2cf30d5cca314fd62e0",
+      "bytes": 2170
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/py39-copy-preparation.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-75-preservation.json",
+      "sha256": "32a855657b1de611a0d648e7613b3ee0083ca47c297e15c65bf6860690c25c28",
+      "bytes": 11460
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-direct-identity-b0ca22.json",
+      "sha256": "3dc3c54102ca8b7fc71ea24081b8dc70d7fb7e61cf1ff2d35a8bf64d48ec050a",
+      "bytes": 4437
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-direct-entry-ddde98.json",
+      "sha256": "16786156533bee63c6dd46e993b51b9bb5a621b5178b382175dfd3f03cc2b84d",
+      "bytes": 2033
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-pure-b9c9c4.json",
+      "sha256": "1b6cd90c159cfc5f47f6e16fde554184ed3591d65b67a2dea0c3e268371cdc1a",
+      "bytes": 17084
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-static-identity-966d6a.json",
+      "sha256": "6ea67614cddadbbba41f9734925ff1abc8f899b3d908faf9490600c6aa1e1c2e",
+      "bytes": 4800
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/prepare-h039-verifier-py39-copy.py",
+      "sha256": "a44ed9f4d7a8110b15678f97b760151172cbf8528858eeec92cc267d33c3dba8",
+      "bytes": 6971
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-75-tree-prediction.json",
+      "sha256": "03fa19b20f80a6d371041f96f4cd75971ca718baf3b3505e0024571f342f259a",
+      "bytes": 2704
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/preparation.stdout",
+      "sha256": "e9acdd243a841e39a5deb662beb8f0c5ac3402fbb6ecdb5f3df5a6243b53984c",
+      "bytes": 112348
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/preparation.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/preparation-run.json",
+      "sha256": "711c3a9c51687b629917d34accbb979fcf426175809a7a1308dcbbe32afe790f",
+      "bytes": 910
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/qualifier.stdout",
+      "sha256": "06a9b64bf3cf5e8c911143bfd324673bd69f3f954a2eb19cbc911977bd8e8475",
+      "bytes": 5807
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/qualifier.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/qualification-run.json",
+      "sha256": "fb72c6cbadeb4b26ac2f4eb5fe6a30b35a680101962d62c6073caa0de037ab4a",
+      "bytes": 3496
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/post-physical.stdout",
+      "sha256": "d8b1a551e0592b8f8f31d3538538fff866839df7acd19dc058413c1446fa739d",
+      "bytes": 106017
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/post-physical.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/independent-postreview.json",
+      "sha256": "7328343cfe31870874d6b6d9d527a9a86df441ad4a0392d1964583581e1a0355",
+      "bytes": 11776
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-py39-D571a47b8-local.xGp4Dn/independent-preflight-aa8821.json",
+      "sha256": "549a6da8495470d555fe727ef773ede9b56d87580fd69e6f952af2aca545b4dd",
+      "bytes": 6816
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/verify/bin/h-039-exit",
+      "sha256": "ec3e1e8e3b86f9d4cb6cef7d8b04d21bb7413a1303368e541b33fd1dcda76853",
+      "bytes": 2404309
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/verify/bin/platform-separation-final-exit",
+      "sha256": "e947c81c008e0e6add0cc2df745319626a3eadc17f9110ed87076b4f4a505486",
+      "bytes": 336025
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/specs/tasks.spec.json",
+      "sha256": "b5f108d99c42287f2b2187ad4fa973bce9781e63d5ad9d98b6e51f28b12a6cb0",
+      "bytes": 986346
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/controller/verify/cli",
+      "sha256": "2e937a17821bc294848086151b18d3b4230b1cefba80453b8682ace762f67243",
+      "bytes": 41991
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/SEPARATION-20260910/REFREEZE.json",
+      "sha256": "2fdb8b4d62473abbdc637cce576f9b09b63b4d0605f27f5a2c22bbff426bb8f1",
+      "bytes": 923
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-verifier-py39-C83f75968-20260912/docs/loop/platform-separation-final-local-development.md",
+      "sha256": "cbc89287503af994bcbaea4ff21152f08e98b5fb23729494cdfcd7b2c3e0ef9f",
+      "bytes": 317894
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/backup-h039-verifier-py39-D571a47b8.py",
+      "sha256": "31ecb0ad4d190ed5ba0d1c26c0e6c0336e0efd0f8577532fc93b8ee52ec78b6d",
+      "bytes": 7677
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-verifier-py39-D-571a47b8-bundle-inspection.json",
+      "sha256": "6db307aea43f78d21a7f437df9ea99350b9dd753fd6e4a604bdb76fa6026b544",
+      "bytes": 30217
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-verifier-py39-D-571a47b8-bundle-restore.json",
+      "sha256": "955077a8c92e71ec8cacb7d8f99737a022205a3dd6a5d40f778bd46ac7a05c1b",
+      "bytes": 231400
+    },
+    {
+      "path": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "e88b317f044a5a13d67cb331aed630e695ce0e63a21de96030b5da374bab17e7",
+      "bytes": 279675
+    }
+  ]
+}

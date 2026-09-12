@@ -1,5 +1,42 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senaste checkpoint — D571a47b8, faktisk CPython3.9-kompatibilitet
+
+Lokal kontraktscommit `571a47b8f5fbf1718125742718d2f5908d49e95c`, parent
+`83f75968b9892ae98a6a879178c407d2a6fd935e`, tree
+`10d70b1b77601b72b07c633510cb12f5ac657b02`; exakt sex filer,+405/-11,
+inga produktändringar.75/75 rena3.12-kontroller följdes av oberoende review,
+lokal frysning, separat fysisk kopia och faktisk kvalificering fc1f3c→6ecc99 exit0.
+30/30 rader, varav25 semantiska fall i samma ägda direkta CPython3.9.6/arm64-process.
+`PASS_CPYTHON39_INERT_VERIFIER_COMPATIBILITY_ONLY`. Source261/qual226 fysiska
+rader oförändrade. Oberoende postreview67b6b0 READY. Ingen adapterload/query,
+full H039, installation, receipt-, runtime- eller bootstrapcredit.
+
+Privat repo-ID1367371291 återkontrollerat e598ca/359e40, release387676316:
+
+- Bundle559956924,10486B SHA256
+  `1f0e03597c3b9dbf503bf2d56d9428f4e175864406599814744e7cc59ee8172c`.
+ 16 nya objekt inspekterade; faktisk download9de276 och restore489a9f→bb4dbd
+ verifierar alla144 Gitblobbytes/modes, commit/förälder/tree med302 Gitkommandon0.
+ Tidigare verifierade lokala B/C7be3/P005366/C83-bundlar återanvändes, ej omhämtade.
+- Filasset559959521,1258488B SHA256
+  `ad0ddacef3ba553193e431748d8457a7bc4002ace4332de3e62a2a9e0772a211`.
+ 39 logiska filer/78tarposter; ingen mönsterträff. Faktisk downloadab8da3 och
+ restore399cbd exit0 verifierar medlemskap, bytes, size, mode,uid/gid,mtime,xattrs
+ och oberoende single-link-inoder. Restoreplats
+ `/private/tmp/nortropic-h039-verifier-py39-D-qualified-restore-26uiaw7x`.
+
+Exakta urval/metoder/kvittens finns i `H039-VERIFIER-PY39-D571A47B8-*.json`,
+`BACKUP-H039-VERIFIER-PY39-D571A47B8.py` och `SNAPSHOT-H039-VERIFIER-PY39-D571A47B8.py`.
+Metoderna är förbrukade över befintliga destinationer; en senare restore ska
+använda NY separat rot. Urvalet bevarar hållna mellanversioners prov, det frusna
+subjektet, faktiska råloggar och reviews; gamla resultat behåller sina subjekt.
+Ingen arkiverad projektkod kördes under återställning. Original Gitadministration,
+katalogidentiteter och full ny fjärrbas+delta-restoration är inte verifierade här.
+Känslig lokal custody-evidens och tidigare dokumenterade helhetsluckor består.
+Inget gammalt asset överfördes igen, inget raderades eller pushades till plattformen.
+Senare kontinuitetsnotiser efter snapshot är nästa checkpoints lokala material.
+
 ## Senaste checkpoint — frusen verifierare C83f75968 och 31 evidens-/källfiler
 
 Lokal C `83f75968b9892ae98a6a879178c407d2a6fd935e`, enda förälder

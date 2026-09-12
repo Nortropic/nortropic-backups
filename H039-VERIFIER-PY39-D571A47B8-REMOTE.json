@@ -1,0 +1,67 @@
+{
+  "status": "NEW_D_BACKUP_DOWNLOADED_AND_RESTORED",
+  "repository": {
+    "name": "Nortropic/nortropic-backups",
+    "id": 1367371291,
+    "private": true,
+    "checks": [
+      "e598ca",
+      "359e40"
+    ]
+  },
+  "release": {
+    "tag": "backup-20260912-h039-product-P-005366dd",
+    "id": 387676316
+  },
+  "candidate": "571a47b8f5fbf1718125742718d2f5908d49e95c",
+  "parent": "83f75968b9892ae98a6a879178c407d2a6fd935e",
+  "tree": "10d70b1b77601b72b07c633510cb12f5ac657b02",
+  "bundle": {
+    "asset_id": 559956924,
+    "bytes": 10486,
+    "sha256": "1f0e03597c3b9dbf503bf2d56d9428f4e175864406599814744e7cc59ee8172c",
+    "new_objects_scanned": 16,
+    "findings": [],
+    "prepare": "509383 exit0",
+    "upload": "759132 -> 874798 exit0",
+    "server": "79649a",
+    "download": "9de276 exit0",
+    "restore": "489a9f -> bb4dbd exit0",
+    "restore_commands": 302,
+    "files_verified": 144,
+    "receipt_sha256": "955077a8c92e71ec8cacb7d8f99737a022205a3dd6a5d40f778bd46ac7a05c1b"
+  },
+  "files": {
+    "asset_id": 559959521,
+    "bytes": 1258488,
+    "sha256": "ad0ddacef3ba553193e431748d8457a7bc4002ace4332de3e62a2a9e0772a211",
+    "logical_files": 39,
+    "tar_entries": 78,
+    "findings": [],
+    "prepare": "e3bd3e exit0",
+    "upload": "1f9387 -> a71d1d exit0",
+    "server": "1ecb2d",
+    "download": "ab8da3 exit0",
+    "restore": "399cbd exit0",
+    "receipt_sha256": "ce8fecd80255d58b343b2007fd7ce478fadfd61145ca99cf0e7c6c5654b7ea76"
+  },
+  "qualification": {
+    "command_record": "h039-py39-D571a47b8-local.xGp4Dn/qualification-run.json",
+    "actual_run": "fc1f3c -> 6ecc99 exit0",
+    "rows": 30,
+    "child_semantic_rows": 25,
+    "verdict": "PASS_CPYTHON39_INERT_VERIFIER_COMPATIBILITY_ONLY",
+    "postreview_sha256": "7328343cfe31870874d6b6d9d527a9a86df441ad4a0392d1964583581e1a0355"
+  },
+  "limitations": {
+    "full_h039": false,
+    "native_adapter_loaded": false,
+    "root_install": false,
+    "platform_published": false,
+    "full_new_remote_base_delta_restore": false,
+    "original_git_admin_restored": false,
+    "older_backups_retransferred": false,
+    "deletion": false,
+    "sensitive_custody_local_only": true
+  }
+}

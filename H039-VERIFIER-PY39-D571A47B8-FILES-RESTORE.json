@@ -1,0 +1,25 @@
+{
+  "time_utc": "2026-09-12T21:08:07.980964+00:00",
+  "status": "DOWNLOADED_39_VERIFIER_PY39_D_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "66bd6101782651fea8c4e077d30d627962435a9658587ca48d5909460621ec4e",
+  "archive_sha256": "ad0ddacef3ba553193e431748d8457a7bc4002ace4332de3e62a2a9e0772a211",
+  "archive_bytes": 1258488,
+  "restored": "/private/tmp/nortropic-h039-verifier-py39-D-qualified-restore-26uiaw7x",
+  "logical_files": 39,
+  "checked": [
+    "file_membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "directory_metadata_restored": false,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_final_fixture_restored": false
+}
