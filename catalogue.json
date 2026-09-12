@@ -51,7 +51,12 @@
     {
       "path": "nortropic-full.tar",
       "bytes": 4848679936,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED",
+      "sha256": "b69532a32d38a0ac18065709f501ac7a9e5a40bb966a3890ec9ea6012087bb3c",
+      "release_tag": "backup-20260912-main-archive-multipart",
+      "manifest": "MAIN-MULTIPART-MANIFEST.json",
+      "receipt": "MAIN-MULTIPART-REMOTE-RECEIPT.json",
+      "filesystem_restore": "NOT_RUN"
     },
     {
       "path": "phase1-report.json",

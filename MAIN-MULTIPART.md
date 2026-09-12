@@ -44,3 +44,14 @@ successful, is REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED, NOT a full remo
 filesystem restoration. Keep all originals; this status grants no local deletion.
 Whole current-workspace off-host preservation remains incomplete until remaining
 supplements and the required restoration checks are handled.
+
+## Actual remote result — 2026-09-12T16:10:35Z
+
+MAIN-MULTIPART-REMOTE-RECEIPT.json records successful streamed downloads of both
+assets from release387620383, each exit0 and empty stderr. The actual verifier
+checked compressed hashes/lengths, decoded part hashes/lengths/order, the full
+4848679936-byte tar hash and byte-for-byte equality with the unchanged original.
+Status: `REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED`.
+The positive and nine negative actual-callable transport cases also passed.
+No full remote tar was materialized; filesystem restoration remains `NOT_RUN`.
+No original or preserved attempt was deleted and no archived code executed.

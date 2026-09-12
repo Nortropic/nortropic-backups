@@ -63,9 +63,19 @@ The size-limited gzip attempt stopped and is explicitly an incomplete prefix,
 not an uploaded complete archive. Its exact hash and decoded byte boundary are
 recorded. Do not mistake the `.tar.gz` suffix for a complete-backup verdict.
 
-Next transfer work: a reviewed bounded multipart encoding/reassembly plan for
-the unchanged main tar, with full-archive hash and negative reorder/missing-part
-checks. Keep the partial attempt preserved, do not blindly rerun or overwrite it.
+Later checkpoint, 2026-09-12T16:10:35Z: both reviewed multipart assets were actually
+downloaded from private release387620383. Compressed and decoded hashes/lengths,
+ordered full-tar hash and every original byte matched; both download commands
+returned0 with empty stderr. See MAIN-MULTIPART-REMOTE-RECEIPT.json and
+MAIN-MULTIPART.md. The result is
+`REMOTE_MULTIPART_ARCHIVE_RECONSTRUCTION_VERIFIED`, not filesystem restoration.
+The historical failed compression remains preserved; its unchanged output is
+now explicitly part1 of the new verified two-part transport, never a whole tar.
+
+Next transfer work: the reviewed cumulative supplements, required recovery
+manifests/instructions and still-unreviewed external backups. See
+RESTORE-CHAIN-INDEX.json; an index is not evidence that its referenced payloads
+were uploaded. None of these gaps is hidden by the verified base tar.
 Budget genuine remote filesystem restoration separately: the main tar's logical
 regular-file bytes alone are 4266945226, beyond the currently observed margin
 above the 15 GiB floor. Historical local restoration reports are retained but are
