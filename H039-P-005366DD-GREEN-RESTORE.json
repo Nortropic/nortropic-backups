@@ -1,0 +1,25 @@
+{
+  "time_utc": "2026-09-12T19:35:00.170002+00:00",
+  "status": "DOWNLOADED_96_P_GREEN_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "14b6f1fd75c0e83b7b9f1ba2eea50f901ece8dbbfe832b9fd602fddb91f222f4",
+  "archive_sha256": "da0fdb1c85f1e204a5081aa9a3297ba59d0fe9bb42808f8717ec4eb9376fea15",
+  "archive_bytes": 592950,
+  "restored": "/private/tmp/nortropic-h039-P-green-restore-mjnkb0tp",
+  "logical_files": 96,
+  "checked": [
+    "file_membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "directory_metadata_restored": false,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_final_fixture_restored": false
+}

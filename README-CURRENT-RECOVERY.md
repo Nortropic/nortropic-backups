@@ -1,5 +1,51 @@
 # Aktuell arkivrepresentation — 2026-09-12
 
+## Senare korrigerad H039 P005366dd — lokal kvalificering och ny96filers backup
+
+Samma oförändrade P har nu kvalificerats i den separat granskade korrigerade
+fixturen: faktiskt final-exit0,133/133 unika sanna rader,
+`PASS_LOCAL_QUALIFICATION_ONLY`. Dess H039-child0 ger40/40 och endast
+`PASS_ASSET_BUILD_ONLY_NOT_H039_PASS_OR_ATTESTATION`. Oberoende postreview
+SHA256 `ce1b7231bc951e6e351a30131f29db11a6220c1d43f429930ae15086f18e4474`
+bekräftar utfallet och exakt230rader före/efter, gamlaP:s253oförändrade rader,
+16fångade byggkommandon och20byteidentiska laneoutputs. TidigareRED bevaras
+på sin ursprungliga fixtur; nedanstående historiskaRED-checkpoint omskrivs inte.
+Ingen fullH039, attestation, native-loading, installation eller runtimecredit.
+
+Privata repot ID1367371291 återkontrollerades57735e. Nytt asset559832407 i
+befintlig release `backup-20260912-h039-product-P-005366dd` ID387676316:
+`h039-P-005366dd-corrected-final-green-20260912.tar.gz`,592950bytes,
+SHA256 `da0fdb1c85f1e204a5081aa9a3297ba59d0fe9bb42808f8717ec4eb9376fea15`.
+Upload462006 exit0, faktisk download/serverdigest485161 exit0.
+Restore6a468c exit0 återställde96reguljära filer i ny isolerad rot
+`/private/tmp/nortropic-h039-P-green-restore-mjnkb0tp`.
+Bytes/storlek/mode/uid/gid/mtime/xattrs/singlelink/oberoende inoder verifierade.
+192tarposter inkluderar AppleDouble; inga absoluta paths/länkar. Ingen arkiverad
+kod kördes, inget original ändrades och inget raderades.
+
+Läs `H039-P-005366DD-GREEN-SELECTION.json`, `...-INSPECTION.json` och
+`...-RESTORE.json`; restorereceipt SHA256
+`b75c0a7e012c05eb5a1158498ee9e358aca1160dfb36cde28d888c62fd72fd87`.
+`SNAPSHOT-H039-P-005366DD-GREEN.py` SHA256
+`34db093a10ab41bee1f1aaf4a5ead3a2aa4f253b5790d9fd19d34d69ee227175`
+är samma tidigare prövade fasta tar-/filrestoremetod, endast urval/namn/antal
+och omfattning anpassade. Root jämförde e4f9c3 och kontrollerade alla fyra
+kopierade rapport-/metodbytes c553c4. Innehållssökningen gav inga träffar.
+
+Omfattning: korrigerad replik-R2/metodreviews/mockprov, verkliga prepresultat,
+grönfinalens huvudresultat/captures/fullpre-/postmap, oberoende produktreview,
+de två nya råbyggbanorna och kontinuitetsfilen vid snapshot, plus fillistan.
+Paths är källhierarki utan ledande slash: återställ ENDAST i ny isolerad rot.
+Detta är fristående evidensfilurval, inte ett överlägg för arbetskopian.
+Produktens Gitobjekt följer den redan återställda B→C→P-bundlekedjan nedan;
+ingen ny produktbundle eller gammalöverföring har upprepats.
+
+Hela final-fixturens interna Gitkopior och samtliga understimulusfiler, original-
+repoernas administration och en full ny fjärrbas+delta-filsystemsrestore täcks
+INTE av denna96filers kontroll. Katalogmetadata/ursprungliga inoder återskapas
+inte. Senare kontinuitet efter snapshot tillhör nästa checkpoint. De tidigare
+generella backup-/custodyluckorna kvarstår; denna batch påstår inte att allt är säkrat.
+
 ## Senare H039 P005366dd — Git-objekt återställda, kvalificering röd
 
 Senare i samma release finns även asset559809543:

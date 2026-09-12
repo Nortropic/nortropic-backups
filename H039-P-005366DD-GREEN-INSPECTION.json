@@ -1,0 +1,3668 @@
+{
+  "status": "LOCAL_INSPECTED_NOT_UPLOADED",
+  "archive_sha256": "da0fdb1c85f1e204a5081aa9a3297ba59d0fe9bb42808f8717ec4eb9376fea15",
+  "archive_bytes": 592950,
+  "files": [
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P005366-info-replica-method.r2.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-method.r2.py",
+      "sha256": "0cc0895421605c67c4687edc088064f6128a61b33fc481456dc04d8311bb4f05",
+      "bytes": 16118,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240577.597287206",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-method.r2.py",
+      "source_identity": [
+        "16777230",
+        "147053930",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "16118",
+        "1789240577597287206",
+        "1789240577597287206"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P005366-info-replica-plan-r2.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-plan-r2.md",
+      "sha256": "880d3f5b331c6f08057792a70ab08d87589afadea552f13fafd812ebb02c1d17",
+      "bytes": 4687,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240664.074941476",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-plan-r2.md",
+      "source_identity": [
+        "16777230",
+        "147054073",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "4687",
+        "1789240664074941476",
+        "1789240664074941476"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P005366-replica-r2-lifecycle-pure.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-replica-r2-lifecycle-pure.py",
+      "sha256": "c51638bec47d49c65048efebe0c9477b552c86df5a7c7f52f55ec24b469f17e1",
+      "bytes": 4023,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240621.814856009",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-replica-r2-lifecycle-pure.py",
+      "source_identity": [
+        "16777230",
+        "147053952",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "4023",
+        "1789240621814856009",
+        "1789240621814856009"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P005366-info-replica-root-method-review.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-root-method-review.md",
+      "sha256": "5736b44d7f17c48d95ebfebadccb48297980968e8d99e6e4c9606fc2a2d1958a",
+      "bytes": 3664,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240769.347452919",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-root-method-review.md",
+      "source_identity": [
+        "16777230",
+        "147054351",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "3664",
+        "1789240769347452919",
+        "1789240769347452919"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P005366-info-replica-independent-method-review.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-independent-method-review.md",
+      "sha256": "453884ed61125658fa1566b9193b200a85794855c3b220c03aa3e17cecc74386",
+      "bytes": 15653,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240976.581595124",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-independent-method-review.md",
+      "source_identity": [
+        "16777230",
+        "147053932",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "15653",
+        "1789240976581595124",
+        "1789240976581595124"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-P-005366dd-independent-product-review.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P-005366dd-independent-product-review.md",
+      "sha256": "ce1b7231bc951e6e351a30131f29db11a6220c1d43f429930ae15086f18e4474",
+      "bytes": 26176,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241602.590477452",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P-005366dd-independent-product-review.md",
+      "source_identity": [
+        "16777230",
+        "147041066",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "26176",
+        "1789241602590477452",
+        "1789241602590477452"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/._dispatch.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/dispatch.json",
+      "sha256": "ba77623b47611baaa47038142b7a4648d877694fbb790cbed7c398f53c9be8f1",
+      "bytes": 1759,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241015.079500331",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/dispatch.json",
+      "source_identity": [
+        "16777230",
+        "147062964",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "1759",
+        "1789241015079500331",
+        "1789241015079500331"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/._stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stdout",
+      "sha256": "e0cfae3ffa791a284ab4e1e9d9028775a314e1a2331d237c63628165ca948816",
+      "bytes": 11754,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241221.030799138",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stdout",
+      "source_identity": [
+        "16777230",
+        "147062966",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "11754",
+        "1789241221030799138",
+        "1789241221030799138"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/._stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241015.265993146",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stderr",
+      "source_identity": [
+        "16777230",
+        "147062967",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "0",
+        "1789241015265993146",
+        "1789241015266012396"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/._poststate.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/poststate.json",
+      "sha256": "ed6d7162de07cab184453644bb5a239deb65137590db1bb8a0599725fe4a233e",
+      "bytes": 46765,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241279.326335959",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/poststate.json",
+      "source_identity": [
+        "16777230",
+        "147103519",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "46765",
+        "1789241279326335959",
+        "1789241279326335959"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/._outer-record.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/outer-record.json",
+      "sha256": "62155346de1946a6a4b487dea8a40a2221bc82758d7ee594058b4f3b3315c3f3",
+      "bytes": 4126,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241569.877469666",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/outer-record.json",
+      "source_identity": [
+        "16777230",
+        "147103601",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "4126",
+        "1789241569877469666",
+        "1789241569877469666"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/._stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stdout",
+      "sha256": "8b2a2d4a2820950751cde7be9b7f80f3560cf30682264bd8b529bbc1871d2823",
+      "bytes": 162,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240853.820545574",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stdout",
+      "source_identity": [
+        "16777230",
+        "147054379",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "162",
+        "1789240853820545574",
+        "1789240853820545574"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/._stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240850.73550948",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stderr",
+      "source_identity": [
+        "16777230",
+        "147054380",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "0",
+        "1789240850735509480",
+        "1789240850735544688"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/._dispatch-plan.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/dispatch-plan.json",
+      "sha256": "d072d1607d5772255d7a62ccb71013b6841cd2c22a4d97f1c5bcf80c06f3a886",
+      "bytes": 1178,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240832.194049523",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/dispatch-plan.json",
+      "source_identity": [
+        "16777230",
+        "147054374",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "1178",
+        "1789240832194049523",
+        "1789240832194049523"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/._actual-result.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/actual-result.json",
+      "sha256": "f68b5f53311b09f13f96e5b8e4acda9ee2e0a9dac49269aa88d132a02244d7cc",
+      "bytes": 1398,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240910.591130915",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/actual-result.json",
+      "source_identity": [
+        "16777230",
+        "147056333",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "1398",
+        "1789240910591130915",
+        "1789240910591130915"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/._source-before.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/source-before.json",
+      "sha256": "0002ab4eea5ffb74fc5bfc31edeff5edc56b6b754717aba3e6f8e542b8bc3d4b",
+      "bytes": 75318,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240851.462357529",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/source-before.json",
+      "source_identity": [
+        "16777230",
+        "147054384",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "75318",
+        "1789240851462357529",
+        "1789240851462357529"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/._replica-full-admin-and-files-before-qualification.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/replica-full-admin-and-files-before-qualification.json",
+      "sha256": "902c03c27bfb3d84128d83ee1fa4743c7f05551583f8d6c6af309bc4095b1d6b",
+      "bytes": 68386,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240853.817485143",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/replica-full-admin-and-files-before-qualification.json",
+      "source_identity": [
+        "16777230",
+        "147054700",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "68386",
+        "1789240853817485143",
+        "1789240853817485143"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/._method-result.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/method-result.json",
+      "sha256": "7cf9aba0ae123a8c99222cf875b124dd14e5ef82b218145742a7ff94f0abee88",
+      "bytes": 208672,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789240853.819739695",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/method-result.json",
+      "source_identity": [
+        "16777230",
+        "147054701",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "208672",
+        "1789240853819739695",
+        "1789240853819739695"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/._result.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/result.json",
+      "sha256": "9abe8c5958892cd00e06125d496c6911c3a0d63e9fea53180e84735c01221a8b",
+      "bytes": 80430,
+      "mode": 420,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241221.024685943",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/platform-separation-final-6ofp25uz/result.json",
+      "source_identity": [
+        "16777230",
+        "147103491",
+        "33188",
+        "501",
+        "0",
+        "1",
+        "80430",
+        "1789241221024685943",
+        "1789241221024685943"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/._h039-owned-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/h039-owned-stdout",
+      "sha256": "cd0fe6697c5a4efb68080af65815fb1d832c8116a0e6aa591afd91f2a59a8fb6",
+      "bytes": 2325,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241082.652513445",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/platform-separation-final-6ofp25uz/h039-owned-stdout",
+      "source_identity": [
+        "16777230",
+        "147075213",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "2325",
+        "1789241082652513445",
+        "1789241082652560320"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/._h039-owned-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/h039-owned-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241082.652639112",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/platform-separation-final-6ofp25uz/h039-owned-stderr",
+      "source_identity": [
+        "16777230",
+        "147075214",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241082652639112",
+        "1789241082652687988"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/._h039-owned-capture.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/platform-separation-final-6ofp25uz/h039-owned-capture.json",
+      "sha256": "68fd933eea73a7ab6529de7aaed11a8e61aeb3d40cf6d4afcbe2817a7d21afec",
+      "bytes": 496,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241082.652878863",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/platform-separation-final-6ofp25uz/h039-owned-capture.json",
+      "source_identity": [
+        "16777230",
+        "147075215",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "496",
+        "1789241082652878863",
+        "1789241082652899697"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._mediator.c",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/mediator.c",
+      "sha256": "a1dd9e698a644be61b65f1d73229747c7dfc5257c9073b063b85be75757fa1d8",
+      "bytes": 181592,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.300806053",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/mediator.c",
+      "source_identity": [
+        "16777230",
+        "147075140",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "181592",
+        "1789241080300806053",
+        "1789241080300806053"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._retained-runtime",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/retained-runtime",
+      "sha256": "b874693a31e5255c3b71cbd9aa4bee4a12efd3a4bf03b62d4d86e4d9029f4bf7",
+      "bytes": 106736,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.301006138",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/retained-runtime",
+      "source_identity": [
+        "16777230",
+        "147075141",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "106736",
+        "1789241080301006138",
+        "1789241080301006138"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._adapter.d",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.d",
+      "sha256": "f082346b75281cdca411790c9246ceefd098f9ed3f5bf68ede30dfd6489c119c",
+      "bytes": 32763,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.655141807",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.d",
+      "source_identity": [
+        "16777230",
+        "147075151",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "32763",
+        "1789241080655141807",
+        "1789241080655339141"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._adapter.i",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.i",
+      "sha256": "cc62b86b6ccdc50c96feba283de93e181d9c9d7ceb3482a4866cb8f7bbf7560b",
+      "bytes": 374340,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.462396838",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.i",
+      "source_identity": [
+        "16777230",
+        "147075142",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "374340",
+        "1789241080462396838",
+        "1789241080462931424"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._adapter.ll",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.ll",
+      "sha256": "e63be921eced7c2de6357005b8881754d05f18f6a701b8ec21d7daad4f9d00fe",
+      "bytes": 24994,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.574925813",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.ll",
+      "source_identity": [
+        "16777230",
+        "147075146",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "24994",
+        "1789241080574925813",
+        "1789241080575828109"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._adapter.o",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.o",
+      "sha256": "dc74e336c98e4d8d0c418ca007cc37d71a99b9c5b3d1860c2fe1eb3b8f345e17",
+      "bytes": 5424,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.65466843",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.o",
+      "source_identity": [
+        "16777230",
+        "147075150",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "5424",
+        "1789241080654668430",
+        "1789241080655494934"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._adapter.so",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.so",
+      "sha256": "9f18b8dbc135d9d6e6d2395017e70827aaaf3752a9a0835a94a91b8235fda6ec",
+      "bytes": 51176,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.843257713",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.so",
+      "source_identity": [
+        "16777230",
+        "147075168",
+        "33216",
+        "501",
+        "0",
+        "1",
+        "51176",
+        "1789241080843257713",
+        "1789241080843257713"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._container",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/container",
+      "sha256": "563fcecdf4b4d7625baee7cffa09db53f087a63d437a2846e28912dbd4a598a3",
+      "bytes": 181960,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.890640306",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/container",
+      "source_identity": [
+        "16777230",
+        "147075172",
+        "33216",
+        "501",
+        "0",
+        "1",
+        "181960",
+        "1789241080890640306",
+        "1789241080890640306"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._container.d",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/container.d",
+      "sha256": "74132f32a4911c1fa5fc542403041eff3071650c63a103666e7f6313d596cc3b",
+      "bytes": 24,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.745934932",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/container.d",
+      "source_identity": [
+        "16777230",
+        "147075164",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "24",
+        "1789241080745934932",
+        "1789241080746050267"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._container.i",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/container.i",
+      "sha256": "8e44727a9f77c05ac833f456fe5473048cdfc9139cab00b8993ba8260b5ddd74",
+      "bytes": 26,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.686087907",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/container.i",
+      "source_identity": [
+        "16777230",
+        "147075155",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "26",
+        "1789241080686087907",
+        "1789241080686207825"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._container.ll",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/container.ll",
+      "sha256": "4aa6ececc0ef4bb346a8e034546e43e49b19813820ef3af320d8a87f150c4aa4",
+      "bytes": 1154,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.717085342",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/container.ll",
+      "source_identity": [
+        "16777230",
+        "147075159",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "1154",
+        "1789241080717085342",
+        "1789241080717240384"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._container.o",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/container.o",
+      "sha256": "492d07ced11ce98b5e4771966d5397bb3ca8a6ae0b83aebe302369d3f54602b0",
+      "bytes": 528,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.745803182",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/container.o",
+      "source_identity": [
+        "16777230",
+        "147075163",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "528",
+        "1789241080745803182",
+        "1789241080746144392"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-00-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-status.json",
+      "sha256": "124b2e1f37c577b2b10891c51c67c5205795ea0d6319ed4d9b9d2f1c0d7e2813",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.470546375",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-status.json",
+      "source_identity": [
+        "16777230",
+        "147075145",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080470546375",
+        "1789241080470546375"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-00-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.470356249",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stdout",
+      "source_identity": [
+        "16777230",
+        "147075143",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080470356249",
+        "1789241080470385541"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-00-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.470438791",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stderr",
+      "source_identity": [
+        "16777230",
+        "147075144",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080470438791",
+        "1789241080470455291"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-01-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-status.json",
+      "sha256": "90061311d1ca440e53a25c09f6915577d4f8fab8d752aa28b138a0d86cb50d6e",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.578165286",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-status.json",
+      "source_identity": [
+        "16777230",
+        "147075149",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080578165286",
+        "1789241080578165286"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-01-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.577988536",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stdout",
+      "source_identity": [
+        "16777230",
+        "147075147",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080577988536",
+        "1789241080578012369"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-01-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.578061494",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stderr",
+      "source_identity": [
+        "16777230",
+        "147075148",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080578061494",
+        "1789241080578077203"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-02-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-status.json",
+      "sha256": "61e7a604c7e6ea6ffd11655af558b087a8c4fc6b83ff04b5a8535f4942f4a5a0",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.658069862",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-status.json",
+      "source_identity": [
+        "16777230",
+        "147075154",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080658069862",
+        "1789241080658069862"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-02-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.657872653",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stdout",
+      "source_identity": [
+        "16777230",
+        "147075152",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080657872653",
+        "1789241080657909820"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-02-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.65796707",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stderr",
+      "source_identity": [
+        "16777230",
+        "147075153",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080657967070",
+        "1789241080657984695"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-03-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-status.json",
+      "sha256": "4cb668dcad20461a032fbf037e0ae154ae842ff232963dfa79d973321a76ecd8",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.688657961",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-status.json",
+      "source_identity": [
+        "16777230",
+        "147075158",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080688657961",
+        "1789241080688657961"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-03-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.688450752",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stdout",
+      "source_identity": [
+        "16777230",
+        "147075156",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080688450752",
+        "1789241080688486169"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-03-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.68854321",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stderr",
+      "source_identity": [
+        "16777230",
+        "147075157",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080688543210",
+        "1789241080688566919"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-04-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-status.json",
+      "sha256": "a3afd41f4593eb5c86da58f6238549a854a40bb69859c57afb9d95c3a3c93477",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.719245477",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-status.json",
+      "source_identity": [
+        "16777230",
+        "147075162",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080719245477",
+        "1789241080719245477"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-04-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.719069392",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stdout",
+      "source_identity": [
+        "16777230",
+        "147075160",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080719069392",
+        "1789241080719094184"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-04-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.719146518",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stderr",
+      "source_identity": [
+        "16777230",
+        "147075161",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080719146518",
+        "1789241080719166976"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-05-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-status.json",
+      "sha256": "7c1575bda31c73b4b678a577ed7ef69c9f993c83a7697e9515d7c3fc371399cf",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.748142568",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-status.json",
+      "source_identity": [
+        "16777230",
+        "147075167",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080748142568",
+        "1789241080748142568"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-05-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.74798365",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stdout",
+      "source_identity": [
+        "16777230",
+        "147075165",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080747983650",
+        "1789241080748004525"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-05-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.748050234",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stderr",
+      "source_identity": [
+        "16777230",
+        "147075166",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080748050234",
+        "1789241080748066401"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-06-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-status.json",
+      "sha256": "98fba741181b8c73d9437720981ac42fba448538c5b07ef5ad8122446085f69d",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.850486288",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-status.json",
+      "source_identity": [
+        "16777230",
+        "147075171",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080850486288",
+        "1789241080850486288"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-06-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.850185912",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stdout",
+      "source_identity": [
+        "16777230",
+        "147075169",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080850185912",
+        "1789241080850223537"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-06-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stderr",
+      "sha256": "69b6d71fa30c544a0dd74dbed59e93e265fbdc66d9afe992bf515f532799a269",
+      "bytes": 44,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.850337787",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stderr",
+      "source_identity": [
+        "16777230",
+        "147075170",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "44",
+        "1789241080850337787",
+        "1789241080850337787"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-07-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-status.json",
+      "sha256": "23ddef588c7cbaddf36752e867f8921e5f9c1ffc0aed6e11e05f601dbaf9d788",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.893372318",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-status.json",
+      "source_identity": [
+        "16777230",
+        "147075175",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080893372318",
+        "1789241080893372318"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-07-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.893182276",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stdout",
+      "source_identity": [
+        "16777230",
+        "147075173",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080893182276",
+        "1789241080893220693"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/._command-07-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.893268526",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stderr",
+      "source_identity": [
+        "16777230",
+        "147075174",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080893268526",
+        "1789241080893292027"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._mediator.c",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/mediator.c",
+      "sha256": "a1dd9e698a644be61b65f1d73229747c7dfc5257c9073b063b85be75757fa1d8",
+      "bytes": 181592,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.896508791",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/mediator.c",
+      "source_identity": [
+        "16777230",
+        "147075177",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "181592",
+        "1789241080896508791",
+        "1789241080896508791"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._retained-runtime",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/retained-runtime",
+      "sha256": "b874693a31e5255c3b71cbd9aa4bee4a12efd3a4bf03b62d4d86e4d9029f4bf7",
+      "bytes": 106736,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.896679834",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/retained-runtime",
+      "source_identity": [
+        "16777230",
+        "147075178",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "106736",
+        "1789241080896679834",
+        "1789241080896679834"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._adapter.d",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.d",
+      "sha256": "f082346b75281cdca411790c9246ceefd098f9ed3f5bf68ede30dfd6489c119c",
+      "bytes": 32763,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.065919111",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.d",
+      "source_identity": [
+        "16777230",
+        "147075188",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "32763",
+        "1789241081065919111",
+        "1789241081066062987"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._adapter.i",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.i",
+      "sha256": "cc62b86b6ccdc50c96feba283de93e181d9c9d7ceb3482a4866cb8f7bbf7560b",
+      "bytes": 374340,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.940803953",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.i",
+      "source_identity": [
+        "16777230",
+        "147075179",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "374340",
+        "1789241080940803953",
+        "1789241080940973537"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._adapter.ll",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.ll",
+      "sha256": "e63be921eced7c2de6357005b8881754d05f18f6a701b8ec21d7daad4f9d00fe",
+      "bytes": 24994,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.001388857",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.ll",
+      "source_identity": [
+        "16777230",
+        "147075183",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "24994",
+        "1789241081001388857",
+        "1789241081001643524"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._adapter.o",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.o",
+      "sha256": "dc74e336c98e4d8d0c418ca007cc37d71a99b9c5b3d1860c2fe1eb3b8f345e17",
+      "bytes": 5424,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.065633402",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.o",
+      "source_identity": [
+        "16777230",
+        "147075187",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "5424",
+        "1789241081065633402",
+        "1789241081066178196"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._adapter.so",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.so",
+      "sha256": "9f18b8dbc135d9d6e6d2395017e70827aaaf3752a9a0835a94a91b8235fda6ec",
+      "bytes": 51176,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.185035742",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.so",
+      "source_identity": [
+        "16777230",
+        "147075205",
+        "33216",
+        "501",
+        "0",
+        "1",
+        "51176",
+        "1789241081185035742",
+        "1789241081185035742"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._container",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/container",
+      "sha256": "563fcecdf4b4d7625baee7cffa09db53f087a63d437a2846e28912dbd4a598a3",
+      "bytes": 181960,
+      "mode": 448,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.226328265",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/container",
+      "source_identity": [
+        "16777230",
+        "147075209",
+        "33216",
+        "501",
+        "0",
+        "1",
+        "181960",
+        "1789241081226328265",
+        "1789241081226328265"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._container.d",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/container.d",
+      "sha256": "74132f32a4911c1fa5fc542403041eff3071650c63a103666e7f6313d596cc3b",
+      "bytes": 24,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.149251869",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/container.d",
+      "source_identity": [
+        "16777230",
+        "147075201",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "24",
+        "1789241081149251869",
+        "1789241081149360495"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._container.i",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/container.i",
+      "sha256": "8e44727a9f77c05ac833f456fe5473048cdfc9139cab00b8993ba8260b5ddd74",
+      "bytes": 26,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.093953157",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/container.i",
+      "source_identity": [
+        "16777230",
+        "147075192",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "26",
+        "1789241081093953157",
+        "1789241081094061324"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._container.ll",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/container.ll",
+      "sha256": "4aa6ececc0ef4bb346a8e034546e43e49b19813820ef3af320d8a87f150c4aa4",
+      "bytes": 1154,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.12105199",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/container.ll",
+      "source_identity": [
+        "16777230",
+        "147075196",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "1154",
+        "1789241081121051990",
+        "1789241081121273824"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._container.o",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/container.o",
+      "sha256": "492d07ced11ce98b5e4771966d5397bb3ca8a6ae0b83aebe302369d3f54602b0",
+      "bytes": 528,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.149126161",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/container.o",
+      "source_identity": [
+        "16777230",
+        "147075200",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "528",
+        "1789241081149126161",
+        "1789241081149447162"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-00-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-status.json",
+      "sha256": "c55918fd5fc3140b15e66c222f188f80528012b056391f9ce320fc2b7fe1b618",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.943092005",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-status.json",
+      "source_identity": [
+        "16777230",
+        "147075182",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241080943092005",
+        "1789241080943092005"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-00-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.942939463",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stdout",
+      "source_identity": [
+        "16777230",
+        "147075180",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080942939463",
+        "1789241080942964046"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-00-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241080.94300738",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stderr",
+      "source_identity": [
+        "16777230",
+        "147075181",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241080943007380",
+        "1789241080943022505"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-01-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-status.json",
+      "sha256": "2454bb86cc76c8b2d4482d21024963127fa95186940802a62e99af473a503d8a",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.003854451",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-status.json",
+      "source_identity": [
+        "16777230",
+        "147075186",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241081003854451",
+        "1789241081003854451"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-01-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.003681909",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stdout",
+      "source_identity": [
+        "16777230",
+        "147075184",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081003681909",
+        "1789241081003706951"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-01-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.003755076",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stderr",
+      "source_identity": [
+        "16777230",
+        "147075185",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081003755076",
+        "1789241081003772159"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-02-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-status.json",
+      "sha256": "d6613f5331f7d57ef273411447c238db14c41aec091f25d37deeb21664cc34cd",
+      "bytes": 550,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.068550457",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-status.json",
+      "source_identity": [
+        "16777230",
+        "147075191",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "550",
+        "1789241081068550457",
+        "1789241081068550457"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-02-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.068362664",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stdout",
+      "source_identity": [
+        "16777230",
+        "147075189",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081068362664",
+        "1789241081068390331"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-02-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.068438706",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stderr",
+      "source_identity": [
+        "16777230",
+        "147075190",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081068438706",
+        "1789241081068460457"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-03-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-status.json",
+      "sha256": "6ca7d36c92912706211da892a3ee74d5ac9f7780de4838c8316e2970845bb4bd",
+      "bytes": 552,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.095902791",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-status.json",
+      "source_identity": [
+        "16777230",
+        "147075195",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "552",
+        "1789241081095902791",
+        "1789241081095902791"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-03-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.095757124",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stdout",
+      "source_identity": [
+        "16777230",
+        "147075193",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081095757124",
+        "1789241081095776915"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-03-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.095818916",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stderr",
+      "source_identity": [
+        "16777230",
+        "147075194",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081095818916",
+        "1789241081095833666"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-04-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-status.json",
+      "sha256": "ea0c4f7b550700f0c2471bb6ef6b8ce0c946ecc8c0757252c9ae1af175546bb5",
+      "bytes": 552,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.123327209",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-status.json",
+      "source_identity": [
+        "16777230",
+        "147075199",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "552",
+        "1789241081123327209",
+        "1789241081123327209"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-04-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.123147583",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stdout",
+      "source_identity": [
+        "16777230",
+        "147075197",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081123147583",
+        "1789241081123182833"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-04-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.123230042",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stderr",
+      "source_identity": [
+        "16777230",
+        "147075198",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081123230042",
+        "1789241081123247000"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-05-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-status.json",
+      "sha256": "ae2d75c2de65d06e4eda130b3d891a771f0c6d35604a75a00c111a82e1358e3f",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.151278754",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-status.json",
+      "source_identity": [
+        "16777230",
+        "147075204",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241081151278754",
+        "1789241081151278754"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-05-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.15112067",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stdout",
+      "source_identity": [
+        "16777230",
+        "147075202",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081151120670",
+        "1789241081151145212"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-05-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.151187337",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stderr",
+      "source_identity": [
+        "16777230",
+        "147075203",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081151187337",
+        "1789241081151209587"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-06-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-status.json",
+      "sha256": "1cd0b5dde5a0971b87d0136cd4db1913dfb0a860a0f18c90c632dbc29a9b943c",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.186818417",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-status.json",
+      "source_identity": [
+        "16777230",
+        "147075208",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241081186818417",
+        "1789241081186818417"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-06-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.186585708",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stdout",
+      "source_identity": [
+        "16777230",
+        "147075206",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081186585708",
+        "1789241081186607708"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-06-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stderr",
+      "sha256": "69b6d71fa30c544a0dd74dbed59e93e265fbdc66d9afe992bf515f532799a269",
+      "bytes": 44,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.186691375",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stderr",
+      "source_identity": [
+        "16777230",
+        "147075207",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "44",
+        "1789241081186691375",
+        "1789241081186691375"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-07-status.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-status.json",
+      "sha256": "6fd7e76bb3bdf7c39fe1a7177bad78e6ae923f1192c29baac43429bdeea27b50",
+      "bytes": 554,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.22874211",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-status.json",
+      "source_identity": [
+        "16777230",
+        "147075212",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "554",
+        "1789241081228742110",
+        "1789241081228742110"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-07-stdout",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.228581192",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stdout",
+      "source_identity": [
+        "16777230",
+        "147075210",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081228581192",
+        "1789241081228604567"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/._command-07-stderr",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {}
+    },
+    {
+      "path": "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384,
+      "uid": 501,
+      "gid": 0,
+      "pax": {
+        "mtime": "1789241081.228648234",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stderr",
+      "source_identity": [
+        "16777230",
+        "147075211",
+        "33152",
+        "501",
+        "0",
+        "1",
+        "0",
+        "1789241081228648234",
+        "1789241081228668276"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/._CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "d58976070245982c16239d4ff913d51bb491aeb59bee231d9451908a0927b3d4",
+      "bytes": 253860,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241657.641392697",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "source_identity": [
+        "16777230",
+        "132339113",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "253860",
+        "1789241657641392697",
+        "1789241657641392697"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/._h039-P-005366dd-green-selection.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-P-005366dd-green-selection.json",
+      "sha256": "607f60058bf132cad9b625025963feb629c08e230eb65161a5ece29faa791911",
+      "bytes": 20106,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789241657.796725532",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-P-005366dd-green-selection.json",
+      "source_identity": [
+        "16777230",
+        "147103702",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "20106",
+        "1789241657796725532",
+        "1789241657796725532"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    }
+  ],
+  "findings": [],
+  "logical_files": 96,
+  "source_unchanged": true,
+  "command": [
+    "/usr/bin/tar",
+    "-czf",
+    "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/external/h039-P-005366dd-corrected-final-green-20260912.tar.gz",
+    "-C",
+    "/",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-method.r2.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-plan-r2.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-replica-r2-lifecycle-pure.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-root-method-review.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-independent-method-review.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P-005366dd-independent-product-review.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/dispatch.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stdout",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/stderr",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/poststate.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-final-corrected.sb8rbA/outer-record.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stdout",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/stderr",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/dispatch-plan.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-r2-dispatch.J1urHg/actual-result.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/source-before.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/replica-full-admin-and-files-before-qualification.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-P005366-info-replica-evidence-20260912/method-result.json",
+    "private/tmp/platform-separation-final-6ofp25uz/result.json",
+    "private/tmp/platform-separation-final-6ofp25uz/h039-owned-stdout",
+    "private/tmp/platform-separation-final-6ofp25uz/h039-owned-stderr",
+    "private/tmp/platform-separation-final-6ofp25uz/h039-owned-capture.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/mediator.c",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/retained-runtime",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.d",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.i",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.ll",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.o",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/adapter.so",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/container",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/container.d",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/container.i",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/container.ll",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/container.o",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-00-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-01-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-02-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-03-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-04-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-05-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-06-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-a/command-07-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/mediator.c",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/retained-runtime",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.d",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.i",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.ll",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.o",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/adapter.so",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/container",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/container.d",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/container.i",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/container.ll",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/container.o",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-00-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-01-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-02-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-03-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-04-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-05-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-06-stderr",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-status.json",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stdout",
+    "private/tmp/h039-asset-measure-y673d8gl/build-b/command-07-stderr",
+    "Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+    "Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/h039-P-005366dd-green-selection.json"
+  ],
+  "exit": 0,
+  "scope": "Exact R2 preparation methods/results, corrected final captures/result/full subject snapshot, independent postreview, fresh two build lanes and current continuity snapshot; not full final fixture, original repository administration or a whole-system restoration",
+  "runtime_credit": false
+}
