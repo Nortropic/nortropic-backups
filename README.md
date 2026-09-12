@@ -44,6 +44,26 @@ proof; they are not implicitly approved by the small first batch.
 
 ## Coverage
 
+Latest representation checkpoint, 2026-09-12T17:02:02Z: exactly eight redundant
+raw tar files were retired under the user's direct continuation instruction,
+after fresh local byte reconstruction, remote asset ID/size/digest checks and
+open-file checks. All nine local compressed parts, remote assets, receipts,
+original working copies and restored trees remain. See
+RAW-ARCHIVE-RETIREMENT-AUTHORIZATION.md, RAW-ARCHIVE-RETIREMENT-PROPOSAL.json,
+RAW-ARCHIVE-RETIREMENT-PREFLIGHT.json, RAW-ARCHIVE-RETIREMENT-EXECUTION.jsonl and
+RAW-ARCHIVE-RETIREMENT-RESULT.json. Historical statements below about raw paths
+describe their checkpoint; current catalogue rows now record their replacement.
+
+Reconstruction: base uses the two gzip parts in proposal order; concatenate the
+DECODED bytes and verify the full raw hash/length. Each supplement has one gzip
+part; decode and verify its raw hash/length. Never treat the first base part as
+a whole archive. A normal Git clone does not download these release payloads.
+Only reconstruct into a fresh budgeted recovery area; this retirement does not
+prove a new composed filesystem restore or recreate historical runtime identity.
+The observed free-space increase was5,232,234,496 bytes; concurrent host activity
+means it is not an exact attribution of reclaimed blocks. A later df measured
+20,988,296 KiB available, just over20 GiB. Recheck before every heavy operation.
+
 See `catalogue.json` and batch records. `LOCAL_ONLY_NOT_REVIEWED` is not remotely
 secured. The first H039 source batch is not a complete repository, history backup,
 all-H039 backup or all-H-work backup. Local backups must remain available.
@@ -88,8 +108,11 @@ to the21 Markdown documents in FLAGGED-CONTENT-REVIEW.json. Historical unresolve
 review rows are retained, not rewritten as though already cleared at that time.
 The34 initial clear archives have completed streamed remote byte verification;
 see EXTERNAL-BATCH1-REMOTE-RECEIPT.json. This is not filesystem restoration.
-The13 subsequently cleared archives are uploaded; their streamed remote
-verification remains in progress at this checkpoint.
+The13 subsequently cleared archives have also completed streamed remote byte
+verification, all commands exit0/empty stderr and source bytes unchanged:
+EXTERNAL-BATCH2-REMOTE-RECEIPT.json. Together these two batches cover47 external
+archives. This is complete archive-byte readback for those subjects, not a new
+full filesystem restoration.
 
 LARGE-EXTERNAL-MANIFEST.json defines45 consecutive raw128MiB-or-smaller segments
 for the two large scratchpad archives, with part offsets, sizes and hashes and

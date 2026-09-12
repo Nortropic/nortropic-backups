@@ -83,7 +83,14 @@
       "release_tag": "backup-20260912-main-archive-multipart",
       "manifest": "MAIN-MULTIPART-MANIFEST.json",
       "receipt": "MAIN-MULTIPART-REMOTE-RECEIPT.json",
-      "filesystem_restore": "NOT_RUN"
+      "filesystem_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/nortropic-full-20260910T103342Z.tar.gz",
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/nortropic-full-20260910T103342Z.part-002.tar-segment.gz"
+      ]
     },
     {
       "path": "phase1-report.json",
@@ -204,7 +211,13 @@
       "sha256": "2f76540486904707896dc3d592ad5b7abbcc423744fb54c42081c19e67614405",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T104815Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T105109Z.list",
@@ -221,7 +234,13 @@
       "sha256": "589f66022b6613c2ce7075000fa241b3adf5676cd3b3946eeeabab858cedb612",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T105109Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T110008Z.list",
@@ -238,7 +257,13 @@
       "sha256": "00f1c1391338834ae249071e42c1eda21e015df9f3c2f6b29bd5d468675453b3",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T110008Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T112915Z.list",
@@ -255,7 +280,13 @@
       "sha256": "2b5d7eb4639257c66dc64739afce8f3f15563cd9bf8359170f45a11c20fa0acc",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T112915Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T161125Z.list",
@@ -272,7 +303,13 @@
       "sha256": "eadaaeee34e05e39567413cef2f003bee81f9b387aa0acb844ee195b72cceade",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T161125Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T195603Z.list",
@@ -289,7 +326,13 @@
       "sha256": "2ec19907db62ff28a3a42dee5d621056f6a8a4a226d564c29b670c9df20be7bc",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T195603Z.tar.gz"
+      ]
     },
     {
       "path": "supplement-20260910T202553Z.list",
@@ -306,7 +349,13 @@
       "sha256": "1ce9625e7b7e46bc6a1a6d4058fc7d4a12de244d786782c5636c07347dee4025",
       "release_tag": "backup-20260912-seven-cumulative-supplements",
       "receipt": "SUPPLEMENT-REMOTE-RECEIPT.json",
-      "base_plus_delta_restore": "NOT_RUN"
+      "base_plus_delta_restore": "NOT_RUN",
+      "local_representation": "RAW_TAR_RETIRED_EXACT_ENCODED_COPIES_RETAINED",
+      "local_retirement_receipt": "RAW-ARCHIVE-RETIREMENT-RESULT.json",
+      "reconstruction_manifest": "RAW-ARCHIVE-RETIREMENT-PROPOSAL.json",
+      "retained_encoded_paths": [
+        "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-transfer/supplement-20260910T202553Z.tar.gz"
+      ]
     },
     {
       "path": "external/Users__elinhaggstrom__.codex__.chatgpt-projects__g-p-6a86d9dcb8488191b03ee843bb19eb6c.manifest.tsv",
@@ -390,7 +439,12 @@
     {
       "path": "external/h039-local-two-edge-method-53ms1swj-20260912.tar.gz",
       "bytes": 11454035,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "2e4f1322a49e4a3a3d2a0339f808dfe14652fc3aa442aee5ef27274ca9e846b6",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578607,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/h039-observer-causal-method-7z704bbk-20260912.tar.gz",
@@ -403,52 +457,102 @@
     {
       "path": "external/nortropic-repos__nortropic-system.tar",
       "bytes": 21847040,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "34b61c5543925bcc869d1bcd1c947c2c798a01c44a2480ad5356b32675783ae0",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578610,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-system__final-20260910.tar",
       "bytes": 23714816,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "56fd1fe155850a4be5d6e31104332778887e99fee2e65530e204ab185dc93f15",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578611,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-system__slut-20260910.tar",
       "bytes": 24704512,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "94402218272a531605d9e1dd42044db09f2aef941eeeed7f6f0834755d745808",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578608,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-system__slut2-20260910.tar",
       "bytes": 24893440,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "687374996529a8fd5fda92a9809c8c37f084167b3e00ad34928a711e08202dd6",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578612,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-webbforvaltning.tar",
       "bytes": 11290112,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "767c75a670677b512d8864bcf801af2fadbc377298f4018224e77ab8dd9eae36",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559578938,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-webbforvaltning__final-20260910.tar",
       "bytes": 11307520,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "2bdd723f3cd1477c419cae2bed616d69910a5935d22d944cd4a5a7fcd0ea0496",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579157,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__nortropic-webbforvaltning__slut-20260910.tar",
       "bytes": 11484672,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "3b24f3c9f5a000fc5cec5a020f697e20b1b2f19ba8d74b9cdb18225d84f29928",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579296,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__work__final-20260910.tar",
       "bytes": 175644672,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "c2141220b60e6984a52a4448591d6c5d0aaad5652b6529d4e6d0608eaba0a467",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579336,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__work__slut-20260910.tar",
       "bytes": 343311360,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "3437532ac66590e340ac348919eece5589703c6b7626978e8e0d6729e6176884",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579435,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/nortropic-repos__work__slut2-20260910.tar",
       "bytes": 343483904,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "9bea82c30e7bd1d96a09edb3513bf1385115e7ab3050b4013a398455ce128476",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579457,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/private__tmp__claude-501__-Users-elinhaggstrom__0ddbf920-6604-417d-96d9-f3cea3d3c77d__scratchpad.manifest.tsv",
@@ -853,7 +957,12 @@
     {
       "path": "external/scratchpad-refresh-20260910T161125Z.tar",
       "bytes": 19741184,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "918ea53d8c0898f4416ce53f3037f743c28795fbff80dc14741b9093249a4fd7",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579481,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "external/scratchpad-refresh-20260910T195603Z.tar",
@@ -873,7 +982,12 @@
     {
       "path": "external/v315-h037-and-separation-fixtures-536352f.tar.gz",
       "bytes": 524693522,
-      "status": "LOCAL_ONLY_NOT_REVIEWED"
+      "status": "REMOTE_ARCHIVE_BYTES_VERIFIED",
+      "sha256": "27263aeafe7d143d50bdd413f3b9626d1b616386be117e96e4064beb7e01aa3a",
+      "release_tag": "backup-20260912-reviewed-external-batch2",
+      "receipt": "EXTERNAL-BATCH2-REMOTE-RECEIPT.json",
+      "asset_id": 559579526,
+      "filesystem_restore": "NOT_RUN_THIS_BATCH"
     },
     {
       "path": "bundles/nortropic__innovation-intake-freshclone-verify.bundle",

@@ -119,6 +119,16 @@ de är inte originalens administrationsstruktur. Inode/ctime/levande identiteter
 
 ## Disk och retention
 
+Användarens fortsättningsbesked 2026-09-12 preciserar riktningen: GitHub används
+för bevarade, granskade arkiv; en liten nödvändig aktiv arbetsyta finns på Macen.
+Lagring på GitHub betyder inte att bootstrapen körs där. Befintlig macOS-/verktygs-
+och tillitsbindning ändras inte genom backup. Runtimeflytt är en annan förändring.
+Första konkreta minskningen är de åtta råtarrepresentationerna i
+RAW-ARCHIVE-RETIREMENT-RESULT.json, ersatta av byte-exakt verifierad komprimering
+både lokalt och på GitHub. Detta är ett avgränsat genomfört steg, inte en generell
+regel att radera allt som är uppladdat. Fullt aktuell täckning och återställning
+ska fortfarande redovisas per batch.
+
 Behåll aktiva arbetskopior och nödvändig aktuell evidens lokalt. Använd deltakopior
 och strömmad kontroll där det är lämpligt; skapa inte flera fulla arbetskopior av
 slentrian. En ny full bas kan tas vid en större milstolpe eller när deltakedjan

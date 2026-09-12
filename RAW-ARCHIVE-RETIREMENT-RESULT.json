@@ -1,0 +1,13 @@
+{
+  "time_utc": "2026-09-12T17:02:02.240935+00:00",
+  "status": "EIGHT_RAW_REPRESENTATIONS_RETIRED",
+  "removed": 8,
+  "logical_bytes": 5304147968,
+  "free_before": 16188264448,
+  "free_after": 21420498944,
+  "observed_free_delta": 5232234496,
+  "normal_20GiB_target_met": false,
+  "recovery": "Retained nine encoded local parts and same remote assets; proposal binds decoding order and full raw hashes.",
+  "bootstrap_credit": false,
+  "full_remote_filesystem_restore": "NOT_RUN"
+}
