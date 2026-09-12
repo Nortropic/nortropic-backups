@@ -1,0 +1,29 @@
+{
+  "asset": "cleanup-recovery-cleared-materials-20260912.tar.gz",
+  "bytes": 121740798,
+  "sha256": "33af25cc31e2e1bfa9ccf96a90a6f8b72b4d38b1d1b7371a9e9df72706b58368",
+  "files": 17866,
+  "unique_objects": 9389,
+  "mapping_sha256": "031eb70a19b4af181cfa684dd9b7c05083d403e92a82e946d0a954ebf76ad1ce",
+  "excluded": [
+    {
+      "path": "reports/v314-h036-product-03a364b-final/product-03a364b-r1.stdout",
+      "bytes": 33801,
+      "sha256": "23b13e5bdb5486374e6d16e8a236ab660069bcbe3884cae15335d2155547f3dd",
+      "identity": [
+        16777230,
+        146440636,
+        33188,
+        33801,
+        1789211265026908832,
+        1789211813023712060
+      ]
+    }
+  ],
+  "review_sha256": "f1fe8dec43d991ce7ae98be15dd9edefc1ca3d89e4d200c86b10ed6bddac6f81",
+  "git_review_sha256": "1dbeeb705a7532e421cdb3f7b052839a116a14eb352ddf5246bba9a44d7dd677",
+  "free_bytes": 16181481472,
+  "status": "LOCAL_REVIEWED_PACKAGE_NOT_UPLOADED",
+  "source_unchanged": true,
+  "restored_duplicate_trees": "NOT_PACKAGED"
+}

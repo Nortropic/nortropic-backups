@@ -108,8 +108,21 @@ existing process is active, clobber parts, or treat a partial release as complet
 
 The v314 H036 archive remains withheld: one historical log contains raw capability
 values whose custody clearance is not established. It is not sanitized/replaced.
-Cleanup backup containers and reports require their own payload review; restored
-duplicate trees remain local. Next transfer work is these bounded remaining items.
+Cleanup recovery material is now verified in CLEANUP-MATERIALS-REMOTE-RECEIPT.json:
+17,866 mapped files /9,389 content objects, downloaded as an exact121,740,798-byte
+archive and all mapping/object hashes checked. Eleven additional Git packs were
+decoded and scanned (CLEANUP-PAYLOAD-GIT-REVIEW.json, fsck0, no findings; same
+previously reviewed nested Markdown archive). One identical H036 log copy in
+reports is withheld. Existing restored duplicate trees remain local and were
+not repackaged; catalogue container rows state this partial coverage explicitly.
+
+To recover these materials, download the exact asset in CLEANUP-MATERIALS-PACKAGE.json,
+verify its archive hash, validate mapping.json's pinned hash, and require exactly
+that mapping plus objects/<sha256>. Verify every object length/hash and each mapped
+path before writing into a NEW isolated recovery tree. Copy object bytes to mapped
+regular paths; never hardlink recovery files into originals. The recorded stat
+identity is historical, not recreated authority. Do not execute archived helpers
+or recreate absolute pointers into live repositories as a backup test.
 Full composed baseline+delta restoration and later-work coverage remain open.
 Eight redundant download-cache files were retired after completed restoration;
 their byte-identical local encoded source copies, remote assets and restored trees

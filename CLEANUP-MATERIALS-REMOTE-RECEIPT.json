@@ -1,0 +1,49 @@
+{
+  "time_utc": "2026-09-12T16:52:30.088060+00:00",
+  "repo": "Nortropic/nortropic-backups",
+  "repo_id": 1367371291,
+  "private": true,
+  "release_id": 387636559,
+  "release_tag": "backup-20260912-cleared-cleanup-recovery",
+  "asset_id": 559598688,
+  "asset": "cleanup-recovery-cleared-materials-20260912.tar.gz",
+  "bytes": 121740798,
+  "sha256": "33af25cc31e2e1bfa9ccf96a90a6f8b72b4d38b1d1b7371a9e9df72706b58368",
+  "mapping_sha256": "031eb70a19b4af181cfa684dd9b7c05083d403e92a82e946d0a954ebf76ad1ce",
+  "mapped_files": 17866,
+  "objects": 9389,
+  "excluded": [
+    {
+      "path": "reports/v314-h036-product-03a364b-final/product-03a364b-r1.stdout",
+      "bytes": 33801,
+      "sha256": "23b13e5bdb5486374e6d16e8a236ab660069bcbe3884cae15335d2155547f3dd",
+      "identity": [
+        16777230,
+        146440636,
+        33188,
+        33801,
+        1789211265026908832,
+        1789211813023712060
+      ]
+    }
+  ],
+  "command": [
+    "gh",
+    "release",
+    "download",
+    "backup-20260912-cleared-cleanup-recovery",
+    "--repo",
+    "Nortropic/nortropic-backups",
+    "--pattern",
+    "cleanup-recovery-cleared-materials-20260912.tar.gz",
+    "--output",
+    "-"
+  ],
+  "exit": 0,
+  "stderr_bytes": 0,
+  "status": "REMOTE_ARCHIVE_AND_MAPPED_OBJECT_BYTES_VERIFIED",
+  "filesystem_restore": "NOT_RUN_THIS_BATCH",
+  "source_unchanged": true,
+  "deleted": false,
+  "runtime_credit": false
+}

@@ -327,20 +327,26 @@
     {
       "path": "external/cleanup-fixtures-20260912",
       "kind": "directory",
-      "status": "LOCAL_ONLY_NOT_REVIEWED",
-      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+      "status": "REMOTE_CLEARED_RECOVERY_MATERIALS_VERIFIED_PARTIAL_CONTAINER",
+      "coverage": "Exact inventory.json and payload regular-file bytes mapped in verified content-addressed remote archive. Existing restored duplicate trees retained locally, NOT packaged or given new restore credit.",
+      "release_tag": "backup-20260912-cleared-cleanup-recovery",
+      "receipt": "CLEANUP-MATERIALS-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/cleanup-fixtures-20260912-r2",
       "kind": "directory",
-      "status": "LOCAL_ONLY_NOT_REVIEWED",
-      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+      "status": "REMOTE_CLEARED_RECOVERY_MATERIALS_VERIFIED_PARTIAL_CONTAINER",
+      "coverage": "Exact inventory.json and payload regular-file bytes mapped in verified content-addressed remote archive. Existing restored duplicate trees retained locally, NOT packaged or given new restore credit.",
+      "release_tag": "backup-20260912-cleared-cleanup-recovery",
+      "receipt": "CLEANUP-MATERIALS-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/cleanup-fixtures-reserve-20260912",
       "kind": "directory",
-      "status": "LOCAL_ONLY_NOT_REVIEWED",
-      "coverage": "CONTENTS_NOT_REINVENTORIED; use existing manifests"
+      "status": "REMOTE_CLEARED_RECOVERY_MATERIALS_VERIFIED_PARTIAL_CONTAINER",
+      "coverage": "Exact inventory.json and payload regular-file bytes mapped in verified content-addressed remote archive. Existing restored duplicate trees retained locally, NOT packaged or given new restore credit.",
+      "release_tag": "backup-20260912-cleared-cleanup-recovery",
+      "receipt": "CLEANUP-MATERIALS-REMOTE-RECEIPT.json"
     },
     {
       "path": "external/h039-asset-local-preparation-2782ead3-20260912.tar.gz",
@@ -1259,8 +1265,10 @@
     {
       "path": "reports/",
       "kind": "directory",
-      "status": "LOCAL_ONLY_NOT_REVIEWED",
-      "coverage": "Existing reports retained; no recursive inventory in this step"
+      "status": "REMOTE_CLEARED_RECOVERY_MATERIALS_VERIFIED_PARTIAL_CONTAINER",
+      "coverage": "Mapped regular reports except exact withheld reports/v314-h036-product-03a364b-final/product-03a364b-r1.stdout; original log retained locally. No filesystem restore in this batch.",
+      "release_tag": "backup-20260912-cleared-cleanup-recovery",
+      "receipt": "CLEANUP-MATERIALS-REMOTE-RECEIPT.json"
     }
   ]
 }

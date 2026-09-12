@@ -1,0 +1,31 @@
+{
+  "packs": [
+    "1b44921d1ed02db11a75fd8eb9268cbc498ca3538c45c220c74c23d6cc56139d",
+    "2a43b219d65ab3f0ba39ed5d688b9c3cae59f5a73b8753301e635c98d14ef85b",
+    "3c904102092471aedf0f213a4bc1ade418d2dc4b427946ad171aea459de7d9aa",
+    "5c30a16f6b691c4732fdaa28a2a4fc0aee9bfb8b4296cb0b380beeeb920a0c0e",
+    "a533617d5989ecf0b5c1cdb05bd96183205af926cb7bdf74e45ed2df04dc2dc4",
+    "a798a62fae5d6e815ab374b49dc5bc0bde60e3602eb2e1cbf77ce4979547fd70",
+    "adecb454b66c404dd13fccf9a8efb99063682591c09ae82151c6cd3e28f8b961",
+    "b1a44ae8e1b86fab7c53984085b1aaa916bf3be040d0494f6b5d152a11356045",
+    "ba647ab9386145abb2fd3b400a42911620af53ad1e9b23433431fb4896dbc7d4",
+    "bc6d244b2cd21d57e224fcf8583ab60c6056fa4e2c972c7502a7f386a469804a",
+    "d00bdc80da45e0401ce87d9910312c85f3d3085e1b9dca8c1dafccb4c54b247b"
+  ],
+  "loose_objects": 0,
+  "objects": 31985,
+  "unpacked_bytes": 748078758,
+  "projection_sha256": "fdd88aa07c3a697ae615e6490d833aaff158c4bc5d17876c624e0fbb8729f6d8",
+  "fsck_exit": 0,
+  "findings": [],
+  "nested": [
+    {
+      "oid": "0b670abc9b59485fed0c030a6cff23ea362ca463",
+      "sha256": "2d8cbc39da762cc088ff170de24e9f3f2513de6c8ae58ba6003f4e34abc6e20d",
+      "bytes": 13490
+    }
+  ],
+  "classified": 163,
+  "source_archives_unchanged": true,
+  "status": "DECODED_EXTERNAL_OBJECT_REVIEW_NOT_UPLOAD_OR_RESTORE"
+}
