@@ -1,0 +1,675 @@
+{
+  "status": "SEVEN_EXISTING_DELTA_ARCHIVES_CONTENT_REVIEWED_NOT_TRANSFERRED",
+  "archives": [
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T104815Z.tar",
+      "sha256": "2f76540486904707896dc3d592ad5b7abbcc423744fb54c42081c19e67614405",
+      "bytes": 50636800,
+      "stamp": "20260910T104815Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 1872,
+      "member_projection_sha256": "54c3d7df21c80e4295345c005a8b2ba85b13843d03ed0c27ee01f03a537af083",
+      "classified_match_count": 4
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T105109Z.tar",
+      "sha256": "589f66022b6613c2ce7075000fa241b3adf5676cd3b3946eeeabab858cedb612",
+      "bytes": 50647040,
+      "stamp": "20260910T105109Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 1874,
+      "member_projection_sha256": "c66e288ca0fde35f0292e888420241db2985067d1d59341929a2e900432592c9",
+      "classified_match_count": 4
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T110008Z.tar",
+      "sha256": "00f1c1391338834ae249071e42c1eda21e015df9f3c2f6b29bd5d468675453b3",
+      "bytes": 50650112,
+      "stamp": "20260910T110008Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 1874,
+      "member_projection_sha256": "bbdf9d6c49dfbfe5b4eeb57f192ce489a4fa28a50a75866196f7b1b9e8374b05",
+      "classified_match_count": 4
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T112915Z.tar",
+      "sha256": "2b5d7eb4639257c66dc64739afce8f3f15563cd9bf8359170f45a11c20fa0acc",
+      "bytes": 75821568,
+      "stamp": "20260910T112915Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "906eec103a7a3114f92e85d715c4e10c16bbb564ce0cdf8e1494e45428318f39",
+          "path": "nortropic/worktrees/test-author-platform-lane-20260910/.git/objects/pack/pack-f2f27a9325e93f1f4416e7b5835f934ba18539e8.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 2794,
+      "member_projection_sha256": "b8245e6fece8afd0690e88211f32670d4c14922567399f8b8ad8c9e2847072fd",
+      "classified_match_count": 6
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T161125Z.tar",
+      "sha256": "eadaaeee34e05e39567413cef2f003bee81f9b387aa0acb844ee195b72cceade",
+      "bytes": 75857920,
+      "stamp": "20260910T161125Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "906eec103a7a3114f92e85d715c4e10c16bbb564ce0cdf8e1494e45428318f39",
+          "path": "nortropic/worktrees/test-author-platform-lane-20260910/.git/objects/pack/pack-f2f27a9325e93f1f4416e7b5835f934ba18539e8.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 2802,
+      "member_projection_sha256": "5aa3c56b18b2aa3c8fd4bd2e29608277cafa2e76f8c7d3037ba9e9b66d68978b",
+      "classified_match_count": 6
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T195603Z.tar",
+      "sha256": "2ec19907db62ff28a3a42dee5d621056f6a8a4a226d564c29b670c9df20be7bc",
+      "bytes": 75924480,
+      "stamp": "20260910T195603Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "906eec103a7a3114f92e85d715c4e10c16bbb564ce0cdf8e1494e45428318f39",
+          "path": "nortropic/worktrees/test-author-platform-lane-20260910/.git/objects/pack/pack-f2f27a9325e93f1f4416e7b5835f934ba18539e8.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 2816,
+      "member_projection_sha256": "ce5dfcfb1571a5ea31165836a1ee8290a8e8f710b210337c8d421d25f0d5eb74",
+      "classified_match_count": 6
+    },
+    {
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/full-20260910T103342Z/supplement-20260910T202553Z.tar",
+      "sha256": "1ce9625e7b7e46bc6a1a6d4058fc7d4a12de244d786782c5636c07347dee4025",
+      "bytes": 75930112,
+      "stamp": "20260910T202553Z",
+      "historical_report_digest_matches": true,
+      "source_unchanged": true,
+      "links": [],
+      "unresolved_findings": [],
+      "unreviewed_payloads": [
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/builder-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+          "path": "nortropic/worktrees/review-invariant-required-20260910/.git/objects/pack/pack-ecaeb737a01b512fedf0e4a85bc14a763ca4694d.pack"
+        },
+        {
+          "reason": "COMPRESSED_PAYLOAD_REQUIRES_DECODED_REVIEW",
+          "sha256": "906eec103a7a3114f92e85d715c4e10c16bbb564ce0cdf8e1494e45428318f39",
+          "path": "nortropic/worktrees/test-author-platform-lane-20260910/.git/objects/pack/pack-f2f27a9325e93f1f4416e7b5835f934ba18539e8.pack"
+        }
+      ],
+      "status": "CONTENT_SCAN_COMPLETE_NOT_UPLOAD_OR_RESTORE_APPROVAL",
+      "regular_members": 2818,
+      "member_projection_sha256": "37b4e7728e3ef4ec56b4ae83058e7eaf0bd8b72b0b568219c4362f6029cc1fbc",
+      "classified_match_count": 6
+    }
+  ],
+  "decoded_git_review": {
+    "pack_sha256": [
+      "5db82316719105344c5332b923b451bae6a494146e86642303d5a5aa7d773c31",
+      "906eec103a7a3114f92e85d715c4e10c16bbb564ce0cdf8e1494e45428318f39"
+    ],
+    "loose_objects": 7,
+    "objects": 6771,
+    "object_projection_sha256": "7c58742de6061fdbf515654aa60303147ad31c4e2e578d0ab25624d4a485d267",
+    "fsck_exit": 0,
+    "findings": [],
+    "nested": [],
+    "classified": [
+      {
+        "oid": "0cd4c70e4b86b905adebb2a4f2794f487db5572f",
+        "sha256": "ab9f2708bdc8aab1b050a39dfe50db2722bc361118296e53ada1be7e2c355078",
+        "category": "credential_assignment",
+        "offset": 236085
+      },
+      {
+        "oid": "0cd840f57941c71fbac805c0f4449c7366405252",
+        "sha256": "be2162af7e028646f69e1766f4a309c620a65e576b5cca200bb9f0b0188423e0",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "0cd840f57941c71fbac805c0f4449c7366405252",
+        "sha256": "be2162af7e028646f69e1766f4a309c620a65e576b5cca200bb9f0b0188423e0",
+        "category": "credential_assignment",
+        "offset": 595440
+      },
+      {
+        "oid": "103a5f0ad9ebb3d34be0945a78d7b5c8916abddd",
+        "sha256": "54bbf2a34aae46035b5745c650031a387dec3e369fc893c9cd5aa2c79c159ce3",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "103a5f0ad9ebb3d34be0945a78d7b5c8916abddd",
+        "sha256": "54bbf2a34aae46035b5745c650031a387dec3e369fc893c9cd5aa2c79c159ce3",
+        "category": "credential_assignment",
+        "offset": 532947
+      },
+      {
+        "oid": "10bfadc759d6761c7a0ad60172a16017f55f9467",
+        "sha256": "c5adc9e738fef75129188847f3d26d37923928f1249e81507e00576c2c3d7213",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "10bfadc759d6761c7a0ad60172a16017f55f9467",
+        "sha256": "c5adc9e738fef75129188847f3d26d37923928f1249e81507e00576c2c3d7213",
+        "category": "credential_assignment",
+        "offset": 619988
+      },
+      {
+        "oid": "1963e8476f24a8071d904cfbf0b01db4f7a93c2e",
+        "sha256": "a11d942b265cbb287fc60364af0b9ae074055e0b6a26bc66b94947972c68af7c",
+        "category": "credential_assignment",
+        "offset": 439054
+      },
+      {
+        "oid": "1af552252b57a4bdb14e6fb7e7a87a2385029838",
+        "sha256": "6d52ab5f5ce1348076b0b1c25bfe74f2d41c2ce1fc9967d2c3681831d62b8a28",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "1af552252b57a4bdb14e6fb7e7a87a2385029838",
+        "sha256": "6d52ab5f5ce1348076b0b1c25bfe74f2d41c2ce1fc9967d2c3681831d62b8a28",
+        "category": "credential_assignment",
+        "offset": 607066
+      },
+      {
+        "oid": "2324b2fe9b98bfb4f6a1b38e81154325e09f2bc0",
+        "sha256": "5592e77437fe55c7b12ea10b5b35274dbe13bbb39a2a869226c8f1ac55e18061",
+        "category": "credential_assignment",
+        "offset": 497436
+      },
+      {
+        "oid": "2324b2fe9b98bfb4f6a1b38e81154325e09f2bc0",
+        "sha256": "5592e77437fe55c7b12ea10b5b35274dbe13bbb39a2a869226c8f1ac55e18061",
+        "category": "credential_assignment",
+        "offset": 756527
+      },
+      {
+        "oid": "317fce0acb1e643d220f58277938a2ef2ec3cd06",
+        "sha256": "e382dd6dae2b7961347df97fb7fa396abe8967af76ef85267b31605e48407959",
+        "category": "credential_assignment",
+        "offset": 448698
+      },
+      {
+        "oid": "371bca7e0ce10befcffee3f23e65d7d1a4f89625",
+        "sha256": "49a6f0f510e3776591de5f6d261c568586a13a32c78e6a963e149162c76f614a",
+        "category": "credential_assignment",
+        "offset": 240278
+      },
+      {
+        "oid": "3847922accdd24aa3d8bebb2cd3866ef5e7120ae",
+        "sha256": "5bfc0e481ede96d50f4e9b6f100864c536072cb9aec34c26b89204edbf97d1e7",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "3847922accdd24aa3d8bebb2cd3866ef5e7120ae",
+        "sha256": "5bfc0e481ede96d50f4e9b6f100864c536072cb9aec34c26b89204edbf97d1e7",
+        "category": "credential_assignment",
+        "offset": 672032
+      },
+      {
+        "oid": "3b5155af11cbe4d4fadeb7d4dca1e3d45f277563",
+        "sha256": "62380e1dfc21a9f2bc6ab9722a0df0b47b7e508f568cdd29a7584c40eaf2ca58",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "3b5155af11cbe4d4fadeb7d4dca1e3d45f277563",
+        "sha256": "62380e1dfc21a9f2bc6ab9722a0df0b47b7e508f568cdd29a7584c40eaf2ca58",
+        "category": "credential_assignment",
+        "offset": 755752
+      },
+      {
+        "oid": "49c481ec20f7fb10a304e8a9dbc12c7641f7f793",
+        "sha256": "e71dbb6ddf8045138f18705a7319818c8a231bca279601e364884114cfc99550",
+        "category": "credential_assignment",
+        "offset": 443892
+      },
+      {
+        "oid": "4b17fa3907ee773653cdf9aef7f799f5b177088e",
+        "sha256": "7211970337d57fd12816c962224ce9ea790b6ee6f22cf43df5acb55d81e1167d",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "4b17fa3907ee773653cdf9aef7f799f5b177088e",
+        "sha256": "7211970337d57fd12816c962224ce9ea790b6ee6f22cf43df5acb55d81e1167d",
+        "category": "credential_assignment",
+        "offset": 559903
+      },
+      {
+        "oid": "52418301ea804509b6826454d2f7e03f8cd29650",
+        "sha256": "a66c8facfd8fbb4862070440c5c30cb3b70494a4358f0a2f050f4e62b7ce0505",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "52418301ea804509b6826454d2f7e03f8cd29650",
+        "sha256": "a66c8facfd8fbb4862070440c5c30cb3b70494a4358f0a2f050f4e62b7ce0505",
+        "category": "credential_assignment",
+        "offset": 751600
+      },
+      {
+        "oid": "55d3acd1afd17998b8fba664a086affe0df42567",
+        "sha256": "fb672722feec942f39722394810f8645470afe3eb2610fb939d724f8b6142087",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "55d3acd1afd17998b8fba664a086affe0df42567",
+        "sha256": "fb672722feec942f39722394810f8645470afe3eb2610fb939d724f8b6142087",
+        "category": "credential_assignment",
+        "offset": 612594
+      },
+      {
+        "oid": "5b60a871ac4123d59efb145854dd685b8c58f0c5",
+        "sha256": "aa5149806dab29cda8fbd52695d21013cab257ae84fd7d3c27c5c1e6131fd591",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "5b60a871ac4123d59efb145854dd685b8c58f0c5",
+        "sha256": "aa5149806dab29cda8fbd52695d21013cab257ae84fd7d3c27c5c1e6131fd591",
+        "category": "credential_assignment",
+        "offset": 562728
+      },
+      {
+        "oid": "5c1883de6f1285449bc54cc709198ab8c856e0fc",
+        "sha256": "289f4ce75a8da0dd7fb369826e3694743f64b68c75344888dcff2ddf52c35f46",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "5c1883de6f1285449bc54cc709198ab8c856e0fc",
+        "sha256": "289f4ce75a8da0dd7fb369826e3694743f64b68c75344888dcff2ddf52c35f46",
+        "category": "credential_assignment",
+        "offset": 590145
+      },
+      {
+        "oid": "67ba1c979576830877441edf13c5f7c822f4b505",
+        "sha256": "7d266c94c5b03c690bf70be4299050345ff5a5df6dd054e7a3fe89b0a6f503c3",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "67ba1c979576830877441edf13c5f7c822f4b505",
+        "sha256": "7d266c94c5b03c690bf70be4299050345ff5a5df6dd054e7a3fe89b0a6f503c3",
+        "category": "credential_assignment",
+        "offset": 628887
+      },
+      {
+        "oid": "6b6e027bb8a2040eaa034c53e3b5ec1a39ac7a62",
+        "sha256": "d057317170f8156aee11e079a27aa17d71f7471e9af59b6a1d07cff0e3057022",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "6b6e027bb8a2040eaa034c53e3b5ec1a39ac7a62",
+        "sha256": "d057317170f8156aee11e079a27aa17d71f7471e9af59b6a1d07cff0e3057022",
+        "category": "credential_assignment",
+        "offset": 584843
+      },
+      {
+        "oid": "6c54d7be2b2581f723e070b28f0c2a40647107a9",
+        "sha256": "0b159160c6f31797b0aa4f3e051ae0ade3303fd3997deb631c16b49fe9e51507",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "6c54d7be2b2581f723e070b28f0c2a40647107a9",
+        "sha256": "0b159160c6f31797b0aa4f3e051ae0ade3303fd3997deb631c16b49fe9e51507",
+        "category": "credential_assignment",
+        "offset": 535060
+      },
+      {
+        "oid": "75e60c22d592db597126b66042c87387e5b512ac",
+        "sha256": "79be4a7595d78f5bbf9b1d649c8f60022348c585f1deb65ed7c7baeea87aed32",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "75e60c22d592db597126b66042c87387e5b512ac",
+        "sha256": "79be4a7595d78f5bbf9b1d649c8f60022348c585f1deb65ed7c7baeea87aed32",
+        "category": "credential_assignment",
+        "offset": 645012
+      },
+      {
+        "oid": "79e69069fb4edb7589e9bbb6e9bd5e5b72fb8c69",
+        "sha256": "65d3648c7216279e2fd5cb21f73a850ce78ecedec8407dcce1ac9e1321421654",
+        "category": "credential_assignment",
+        "offset": 464620
+      },
+      {
+        "oid": "8270604963f016c4188086038402878eadbbb259",
+        "sha256": "185ff3d0f4025cd290f0b19b207a65f0301a5280a8861977f122ddeeaa608cd1",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "8270604963f016c4188086038402878eadbbb259",
+        "sha256": "185ff3d0f4025cd290f0b19b207a65f0301a5280a8861977f122ddeeaa608cd1",
+        "category": "credential_assignment",
+        "offset": 719872
+      },
+      {
+        "oid": "84cc21e85aae80bf2d8405af4912263d707ef69e",
+        "sha256": "a0cc266eb52aab0c75942683f53d0b95c90051552cc9ed205292753836a65641",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "84cc21e85aae80bf2d8405af4912263d707ef69e",
+        "sha256": "a0cc266eb52aab0c75942683f53d0b95c90051552cc9ed205292753836a65641",
+        "category": "credential_assignment",
+        "offset": 536453
+      },
+      {
+        "oid": "87ee6e31b60c60896acff2ebfae85cf7b4a9228e",
+        "sha256": "52d18129b7e5d822991efaadd233bb9e951098a26a4f3e24ce6bd1610ba4caf1",
+        "category": "credential_assignment",
+        "offset": 491907
+      },
+      {
+        "oid": "8ddb09a9e4f2b8126b2647c4e84753e546a45298",
+        "sha256": "31c5aeafb08d0222007c63e67b5d2f91212828bc74710a47465e5390ac15d574",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "8ddb09a9e4f2b8126b2647c4e84753e546a45298",
+        "sha256": "31c5aeafb08d0222007c63e67b5d2f91212828bc74710a47465e5390ac15d574",
+        "category": "credential_assignment",
+        "offset": 577938
+      },
+      {
+        "oid": "8f2b80759239b9c06ff26c8842a3bff77086a6b5",
+        "sha256": "f6d93dde1750b6884adfe74bcc01280db15e9f7bf340344db1e549d1e9d27fef",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "aada4e11e50ce9e19350bba3e9672726eb948427",
+        "sha256": "2bd7d06672683e669be4071d96698f1ba782e385894557d88cdf78915140279e",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "aada4e11e50ce9e19350bba3e9672726eb948427",
+        "sha256": "2bd7d06672683e669be4071d96698f1ba782e385894557d88cdf78915140279e",
+        "category": "credential_assignment",
+        "offset": 656492
+      },
+      {
+        "oid": "aafd187bbf2df072917693bce145d21e52865182",
+        "sha256": "c4bbff795a8d739eea6d43b4086a2724c504b2b31868e6a25a6c854429653486",
+        "category": "credential_assignment",
+        "offset": 237024
+      },
+      {
+        "oid": "b59e0c14f4c17de59d253674c751a4c540fae616",
+        "sha256": "1438a5561672b95971c673aadc829340666986b05c1a72219bcf574811ac4eff",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "b59e0c14f4c17de59d253674c751a4c540fae616",
+        "sha256": "1438a5561672b95971c673aadc829340666986b05c1a72219bcf574811ac4eff",
+        "category": "credential_assignment",
+        "offset": 748654
+      },
+      {
+        "oid": "bd70f7322aab51b16d168cdc6cf041d77bd131ef",
+        "sha256": "4b0284c6724a9644bb95bd3b91b8212c2b13a4d52f6d75be73c74536c467d18f",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "bd70f7322aab51b16d168cdc6cf041d77bd131ef",
+        "sha256": "4b0284c6724a9644bb95bd3b91b8212c2b13a4d52f6d75be73c74536c467d18f",
+        "category": "credential_assignment",
+        "offset": 538310
+      },
+      {
+        "oid": "cca774262806fd7896508ed7a0c60ac548cf34a2",
+        "sha256": "6611b5f7498997e924eadcaf25a1638cdaeb763f75ec40ad14025ae5496b181c",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "cca774262806fd7896508ed7a0c60ac548cf34a2",
+        "sha256": "6611b5f7498997e924eadcaf25a1638cdaeb763f75ec40ad14025ae5496b181c",
+        "category": "credential_assignment",
+        "offset": 728696
+      },
+      {
+        "oid": "cf7784d9194f70525ae2995a286302d70f73c755",
+        "sha256": "725d9532ace9162cd1074c275f2bb9988c38d9aeec76145b119fae2fca45ffba",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "cf7784d9194f70525ae2995a286302d70f73c755",
+        "sha256": "725d9532ace9162cd1074c275f2bb9988c38d9aeec76145b119fae2fca45ffba",
+        "category": "credential_assignment",
+        "offset": 582132
+      },
+      {
+        "oid": "d06332945fac89001146890d8395358f4587b969",
+        "sha256": "a37a86c72c7ac6b931c9a2e941f9f54bf50c601180b3a08f8b1600a38d450101",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "d06332945fac89001146890d8395358f4587b969",
+        "sha256": "a37a86c72c7ac6b931c9a2e941f9f54bf50c601180b3a08f8b1600a38d450101",
+        "category": "credential_assignment",
+        "offset": 533804
+      },
+      {
+        "oid": "d3fa4de52a4aac1245159b2b8e023e84bd573a6a",
+        "sha256": "69f74967f18c62784d5399167a62fa2571339cd8e51272f2db2d22beb8ad7198",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "d3fa4de52a4aac1245159b2b8e023e84bd573a6a",
+        "sha256": "69f74967f18c62784d5399167a62fa2571339cd8e51272f2db2d22beb8ad7198",
+        "category": "credential_assignment",
+        "offset": 688494
+      },
+      {
+        "oid": "d9c33e08259f244d207a1600fa2886cfb912025a",
+        "sha256": "cd69b3e7be75b1b31139b2032db07cbbb96db5647fa4a05c3827356659ec9645",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "de8734c134e41ea8453ebe621cf3dc88f975d308",
+        "sha256": "07b95f008a0c1a60c2f6ee0a0062b286399b8f4db158cee035a39d4892408b0f",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "de8734c134e41ea8453ebe621cf3dc88f975d308",
+        "sha256": "07b95f008a0c1a60c2f6ee0a0062b286399b8f4db158cee035a39d4892408b0f",
+        "category": "credential_assignment",
+        "offset": 703363
+      },
+      {
+        "oid": "df383f59e72d59df59e34d9d5eee82991f77b2b3",
+        "sha256": "5cadd4f0a5afd338bc98c7ee3f4a10eecb3cfc167b1220de42176dd377f4f65c",
+        "category": "credential_assignment",
+        "offset": 448698
+      },
+      {
+        "oid": "e0637ebbcd9035f77c2916298db652c7fcbc3e3d",
+        "sha256": "408f4c6641645756a03ccecb6f10b560075348a6557c938ddb523b4e6f4707ee",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "e0637ebbcd9035f77c2916298db652c7fcbc3e3d",
+        "sha256": "408f4c6641645756a03ccecb6f10b560075348a6557c938ddb523b4e6f4707ee",
+        "category": "credential_assignment",
+        "offset": 735760
+      },
+      {
+        "oid": "e86cf0c382616a07f7326eca16cf93bd3b456454",
+        "sha256": "3a77f1ae995bea9e40bd4e0dd6e191217b99caf6ed63603430025f950f4c576d",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "e86cf0c382616a07f7326eca16cf93bd3b456454",
+        "sha256": "3a77f1ae995bea9e40bd4e0dd6e191217b99caf6ed63603430025f950f4c576d",
+        "category": "credential_assignment",
+        "offset": 613693
+      },
+      {
+        "oid": "ef0e394f7fb5e639cb949b87a52f0706723f58c8",
+        "sha256": "cb0851acef5c0b10c5f1cb0b48af167c7d2abf0a9299b975a8da94b7f6383104",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "ef0e394f7fb5e639cb949b87a52f0706723f58c8",
+        "sha256": "cb0851acef5c0b10c5f1cb0b48af167c7d2abf0a9299b975a8da94b7f6383104",
+        "category": "credential_assignment",
+        "offset": 742587
+      },
+      {
+        "oid": "f5b36b6dc3a303f255330a35a27d940438037f17",
+        "sha256": "af2d2753f586d93674c79ca4f1e06a8c160d4380f09e2415d80a3d5d83e6c044",
+        "category": "credential_assignment",
+        "offset": 496661
+      },
+      {
+        "oid": "f5b36b6dc3a303f255330a35a27d940438037f17",
+        "sha256": "af2d2753f586d93674c79ca4f1e06a8c160d4380f09e2415d80a3d5d83e6c044",
+        "category": "credential_assignment",
+        "offset": 572209
+      },
+      {
+        "oid": "fcac4b22599282bed6dffc5cd396453735a42a28",
+        "sha256": "6b43d1107a0389bffaf1bb78fb6b3a3ed7ef1361408ec6082af070f4311be0e5",
+        "category": "credential_assignment",
+        "offset": 240278
+      }
+    ],
+    "source_archives_unchanged": true,
+    "upload": false,
+    "restore": false,
+    "scope": "All archived delta Git pack/loose objects decoded and identity-scanned; aggregate store not per-original-worktree restore proof"
+  },
+  "full_local_archive_report": "/Users/elinhaggstrom/nortropic-backups-20260910/github-history-transfer-20260912.HYawFS/supplement-archive-review.json",
+  "full_local_archive_report_sha256": "4215f7358671bbb5cef40e62b2f9643bf80b8fb3b44583bfd23314c003529734",
+  "first_git_scan": "R1 stopped on AppleDouble filename ending .pack; preserved incomplete. R2 selects exact Git pack namespace and decoded both real packages plus loose objects.",
+  "limits": "Bounded content scan, no new secret findings; per-archive members and source hashes bound. No archive uploaded/extracted. Delta application requires the base plus corresponding manifest and historical removal list; this is not full worktree recovery.",
+  "archive_bytes": 455468032,
+  "originals_changed": false
+}

@@ -7,6 +7,10 @@ documented private-backup-repository proposal.
 
 ## Working method
 
+The ongoing checkpoint, recovery, disk-budget and handoff routine is documented
+in [BACKUP-RUNBOOK.md](BACKUP-RUNBOOK.md). This is an operator/agent routine;
+no unattended scheduler or automatic deletion has been installed.
+
 - Git contains the backup catalogue, checksums, transfer results and recovery
   instructions. Actual backup archives are uniquely named private release assets,
   not duplicated in ordinary Git history. Do not overwrite historical assets.
@@ -53,7 +57,8 @@ MAIN-CONTENT-REVIEW.json and MAIN-GIT-OBJECT-REVIEW.json finish the bounded cont
 review of the existing main tar, including all 36 packs and 1810 loose objects
 (28619 unique Git objects). This does not prove each original checkout's full
 independent closure: the aggregate object store was inspected for backup contents.
-Main archive transfer and remote filesystem restoration remain NOT_RUN.
+At that content-review checkpoint, main archive transfer and remote filesystem
+restoration were NOT_RUN; see the later multipart records for actual progress.
 The size-limited gzip attempt stopped and is explicitly an incomplete prefix,
 not an uploaded complete archive. Its exact hash and decoded byte boundary are
 recorded. Do not mistake the `.tar.gz` suffix for a complete-backup verdict.
