@@ -4,6 +4,22 @@
   "status": "INITIAL_CATALOGUE_NOT_REMOTE_PAYLOAD_PROOF",
   "items": [
     {
+      "path": "external/h039-loader-8dfbfeeb-20260913T083032Z.tar.gz",
+      "bytes": 1259520,
+      "sha256": "1388bd515114624434ca13ffb5c5e1d996878a8e1bfc883fe26dbb141b31d630",
+      "status": "REMOTE_BOUNDED_FILES_RESTORED_VERIFIED",
+      "release_tag": "backup-20260912-h039-product-P-005366dd",
+      "release_id": 387676316,
+      "asset_id": 560877424,
+      "inspection": "H039-LOADER-8DFBFEEB-INSPECTION.json",
+      "receipt": "H039-LOADER-8DFBFEEB-RESTORE.json",
+      "reconstruction": "H039-LOADER-8DFBFEEB-RECONSTRUCTION.json",
+      "transfer": "H039-LOADER-8DFBFEEB-TRANSFER.json",
+      "logical_files": 29,
+      "base_commit": "571a47b8f5fbf1718125742718d2f5908d49e95c",
+      "scope": "Six unfrozen source files, three historical patches, consumed observation sources/captures, continuity and selection. Not full agent transcripts, Git administration or whole-system restoration."
+    },
+    {
       "path": "external/h039-contract-C-7be3a5ab-20260912.tar.gz",
       "bytes": 1121831,
       "status": "REMOTE_RESTORED_VERIFIED",

@@ -1,0 +1,1122 @@
+{
+  "status": "LOCAL_INSPECTED_NOT_UPLOADED",
+  "archive_sha256": "1388bd515114624434ca13ffb5c5e1d996878a8e1bfc883fe26dbb141b31d630",
+  "archive_bytes": 1259520,
+  "files": [
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/._h-039-exit",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/h-039-exit",
+      "sha256": "8dfbfeeb568fd851a7dee2936bb6873c50c158dd406d4ee388a6f57feb995f31",
+      "bytes": 2432959,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286071.663454076",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/h-039-exit",
+      "source_identity": [
+        "16777230",
+        "147214648",
+        "33261",
+        "501",
+        "20",
+        "1",
+        "2432959",
+        "1789286071663454076",
+        "1789286071663454076"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/._platform-separation-final-exit",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/platform-separation-final-exit",
+      "sha256": "20b0e9d04485e66e832bdf639cf24789a2ecadc1cb2951e1b8f3316ed0f5fcf6",
+      "bytes": 339268,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286091.772881714",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/platform-separation-final-exit",
+      "source_identity": [
+        "16777230",
+        "147214655",
+        "33261",
+        "501",
+        "20",
+        "1",
+        "339268",
+        "1789286091772881714",
+        "1789286091772881714"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/specs/._tasks.spec.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/specs/tasks.spec.json",
+      "sha256": "9282dae4426ac92c49e2503a2a03f632023707701eb9f694ddc8ce69f4b040ed",
+      "bytes": 989567,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286053.957987119",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/specs/tasks.spec.json",
+      "source_identity": [
+        "16777230",
+        "147214590",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "989567",
+        "1789286053957987119",
+        "1789286053957987119"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/controller/verify/._cli",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/controller/verify/cli",
+      "sha256": "97027013e9dccf2a478c1e56e83dfc9a7dc35226b57f6b98a978a8f4a0556a86",
+      "bytes": 41991,
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286071.667267999",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/controller/verify/cli",
+      "source_identity": [
+        "16777230",
+        "147214549",
+        "33261",
+        "501",
+        "20",
+        "1",
+        "41991",
+        "1789286071667267999",
+        "1789286071667267999"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/SEPARATION-20260910/._REFREEZE.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/SEPARATION-20260910/REFREEZE.json",
+      "sha256": "9608f270f517b4cce57f0407a0b4a69baa59dbeba0a85483a445577670c7e360",
+      "bytes": 874,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286091.774132758",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/SEPARATION-20260910/REFREEZE.json",
+      "source_identity": [
+        "16777230",
+        "147214487",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "874",
+        "1789286091774132758",
+        "1789286091774132758"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/docs/loop/._platform-separation-final-local-development.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/docs/loop/platform-separation-final-local-development.md",
+      "sha256": "3422a25cdbd7b2f6dc81bd49d5315be97ef2449dbb0b40a1ed7fd11ee48a61d4",
+      "bytes": 343977,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286150.946199486",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/docs/loop/platform-separation-final-local-development.md",
+      "source_identity": [
+        "16777230",
+        "147214582",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "343977",
+        "1789286150946199486",
+        "1789286150946199486"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-loader-before-r2-integration.patch",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-r2-integration.patch",
+      "sha256": "874da6875205869fa5a24ea7b8fe1a6b5e37d70440ef78e9a727e2fcc1c45146",
+      "bytes": 59538,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789285162.69191556",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-r2-integration.patch",
+      "source_identity": [
+        "16777230",
+        "147226950",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "59538",
+        "1789285162691915560",
+        "1789285162691915560"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-loader-before-native-8dfbfeeb.patch",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-native-8dfbfeeb.patch",
+      "sha256": "c6fb74759f76809a34221986a953831ecada9ba0bc4a2f9fd67ffced65b273b5",
+      "bytes": 72963,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286415.896733205",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-native-8dfbfeeb.patch",
+      "source_identity": [
+        "16777230",
+        "147240146",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "72963",
+        "1789286415896733205",
+        "1789286415896733205"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-loader-leaf-method-held-9fc27d54.patch",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-leaf-method-held-9fc27d54.patch",
+      "sha256": "5670486a59ff93f35b0ccb6fb95918d42e85dc929ba43c0213c27f4c0b94378c",
+      "bytes": 69562,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789285876.770879527",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-leaf-method-held-9fc27d54.patch",
+      "source_identity": [
+        "16777230",
+        "147239736",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "69562",
+        "1789285876770879527",
+        "1789285876770879527"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-r2-invoke.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-invoke.py",
+      "sha256": "4457752135cfdc4dee671c9d7af17284a9bcff07d9eed482f72de80eef8bb045",
+      "bytes": 19703,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789284817.570623015",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-invoke.py",
+      "source_identity": [
+        "16777230",
+        "147226583",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "19703",
+        "1789284817570623015",
+        "1789284817570623015"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-observer.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observer.py",
+      "sha256": "05c754a7c7e7ee1325b6db2690978aa1c8f8a3ba75fa472decc476a4a2204afc",
+      "bytes": 13565,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789284025.581202941",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observer.py",
+      "source_identity": [
+        "16777230",
+        "147221999",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "13565",
+        "1789284025581202941",
+        "1789284025581202941"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-observation-20260913-r2-run1.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-r2-run1.json",
+      "sha256": "ad0017ae71f18fbbbaa3e2fbb9680eab588080510ae5c0d67cd9fb348bb7bfeb",
+      "bytes": 8907,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789285020.576542055",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-r2-run1.json",
+      "source_identity": [
+        "16777230",
+        "147226812",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "8907",
+        "1789285020576542055",
+        "1789285020576542055"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-r2-observer.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-observer.py",
+      "sha256": "5b7e1c1ac125c57fd4216d315fbc8f18bc1087e99f74ff0afdb8c1e952168dc4",
+      "bytes": 15045,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789284801.63342711",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-observer.py",
+      "source_identity": [
+        "16777230",
+        "147226530",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "15045",
+        "1789284801633427110",
+        "1789284801633427110"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-invoke.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-invoke.py",
+      "sha256": "065dcde43edd083e52856dfaba12c1aa2028bf9968a72f480d036abaae8418d3",
+      "bytes": 19399,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789284079.063861619",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-invoke.py",
+      "source_identity": [
+        "16777230",
+        "147222080",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "19399",
+        "1789284079063861619",
+        "1789284079063861619"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-system-selection-observation-20260913-run1.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-run1.json",
+      "sha256": "ca5ed1e907b216d72e971fddc0157f7031a0fb0b0013875df836ce8b8aa6fb15",
+      "bytes": 5754,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789284472.581569713",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-run1.json",
+      "source_identity": [
+        "16777230",
+        "147226390",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "5754",
+        "1789284472581569713",
+        "1789284472581569713"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-invoke-09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35.py",
+      "sha256": "09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35",
+      "bytes": 16520,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281476.460337646",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35.py",
+      "source_identity": [
+        "16777230",
+        "147213994",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "16520",
+        "1789281476460337646",
+        "1789281476460337646"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-invoke-20d91f10964718120f442d518bb665b7a0c2f8c3683de8361404ae37dfd9baaf.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-20d91f10964718120f442d518bb665b7a0c2f8c3683de8361404ae37dfd9baaf.py",
+      "sha256": "20d91f10964718120f442d518bb665b7a0c2f8c3683de8361404ae37dfd9baaf",
+      "bytes": 16469,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281315.428990071",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-20d91f10964718120f442d518bb665b7a0c2f8c3683de8361404ae37dfd9baaf.py",
+      "source_identity": [
+        "16777230",
+        "147212384",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "16469",
+        "1789281315428990071",
+        "1789281315428990071"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observer.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer.py",
+      "sha256": "083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f",
+      "bytes": 14177,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281257.9047159",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer.py",
+      "source_identity": [
+        "16777230",
+        "147207486",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "14177",
+        "1789281257904715900",
+        "1789281257904715900"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observer-5c47af48145f7ebbb8648c25f41933be0434bb7c0005284e1b230346159f3a72.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-5c47af48145f7ebbb8648c25f41933be0434bb7c0005284e1b230346159f3a72.py",
+      "sha256": "5c47af48145f7ebbb8648c25f41933be0434bb7c0005284e1b230346159f3a72",
+      "bytes": 13822,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281315.427641075",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-5c47af48145f7ebbb8648c25f41933be0434bb7c0005284e1b230346159f3a72.py",
+      "source_identity": [
+        "16777230",
+        "147212381",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "13822",
+        "1789281315427641075",
+        "1789281315427641075"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-invoke.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke.py",
+      "sha256": "09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35",
+      "bytes": 16520,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281281.410800346",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke.py",
+      "source_identity": [
+        "16777230",
+        "147210296",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "16520",
+        "1789281281410800346",
+        "1789281281410800346"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observation-20260913-run1.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run1.json",
+      "sha256": "54dc67c0e403d1c1d7545b2f818ecbfe0424a0c8a1a73f5a3c0f885204f56be8",
+      "bytes": 1730,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789280917.722289944",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run1.json",
+      "source_identity": [
+        "16777230",
+        "147212204",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "1730",
+        "1789280917722289944",
+        "1789280917722289944"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observer-a691b6b1c74f7c2ce62cbd370fc206d49e15909d4c5e9d277a5b99bc85ea6b1a.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-a691b6b1c74f7c2ce62cbd370fc206d49e15909d4c5e9d277a5b99bc85ea6b1a.py",
+      "sha256": "a691b6b1c74f7c2ce62cbd370fc206d49e15909d4c5e9d277a5b99bc85ea6b1a",
+      "bytes": 13743,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281315.428482447",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-a691b6b1c74f7c2ce62cbd370fc206d49e15909d4c5e9d277a5b99bc85ea6b1a.py",
+      "source_identity": [
+        "16777230",
+        "147212383",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "13743",
+        "1789281315428482447",
+        "1789281315428482447"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-invoke-69ecd939c47d760e4127b916601f08d0bc85d28012ec3339e622f41599e12156.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-69ecd939c47d760e4127b916601f08d0bc85d28012ec3339e622f41599e12156.py",
+      "sha256": "69ecd939c47d760e4127b916601f08d0bc85d28012ec3339e622f41599e12156",
+      "bytes": 16520,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281315.427916533",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-69ecd939c47d760e4127b916601f08d0bc85d28012ec3339e622f41599e12156.py",
+      "source_identity": [
+        "16777230",
+        "147212382",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "16520",
+        "1789281315427916533",
+        "1789281315427916533"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observation-20260913-run3.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run3.json",
+      "sha256": "a10ec4d67e937fdf36174dcd65270904591db64c93fb8ff5d277c97756c0312f",
+      "bytes": 3581,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281426.368733962",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run3.json",
+      "source_identity": [
+        "16777230",
+        "147212605",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "3581",
+        "1789281426368733962",
+        "1789281426368733962"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observation-20260913-run2.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run2.json",
+      "sha256": "84191670364d3a0c7bbd79681c2b03d8e801f063dfad3c487c489e5034d43c59",
+      "bytes": 3554,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281119.255039359",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run2.json",
+      "source_identity": [
+        "16777230",
+        "147212304",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "3554",
+        "1789281119255039359",
+        "1789281119255039359"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observation-proposal.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-proposal.md",
+      "sha256": "a2927a46190eba29093f4f793fd49c64d270a0037bd0de263003b683c8df8076",
+      "bytes": 17049,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281332.012026276",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-proposal.md",
+      "source_identity": [
+        "16777230",
+        "147207430",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "17049",
+        "1789281332012026276",
+        "1789281332012026276"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/._h039-cache-backing-observer-083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f.py",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f.py",
+      "sha256": "083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f",
+      "bytes": 14177,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789281476.46060452",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f.py",
+      "source_identity": [
+        "16777230",
+        "147213995",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "14177",
+        "1789281476460604520",
+        "1789281476460604520"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/._CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "sha256": "5b9212c0d47696efb55b07741db2c27d5de305cc16bef4357bf0cd0bd18f0080",
+      "bytes": 332982,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789286517.6274853",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+      "source_identity": [
+        "16777230",
+        "132339113",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "332982",
+        "1789286517627485300",
+        "1789286517627485300"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-backups-20260910/github-transfer-20260912.dVjQlj/repo/._H039-LOADER-8DFBFEEB-SELECTION.json",
+      "sha256": "6017cad7dec6244953f1e3e0199f574cd5e308495cce82e12aaa49f67b742fb5",
+      "bytes": 163,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {}
+    },
+    {
+      "path": "Users/elinhaggstrom/nortropic-backups-20260910/github-transfer-20260912.dVjQlj/repo/H039-LOADER-8DFBFEEB-SELECTION.json",
+      "sha256": "7c886f0d853c65e6da2fa265567ae91b7a246beaf44943c6a593c956d6874173",
+      "bytes": 7784,
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "pax": {
+        "mtime": "1789288252.508305676",
+        "LIBARCHIVE.xattr.com.apple.provenance": "AQIA0UlPfUugGTI",
+        "SCHILY.xattr.com.apple.provenance": "\u0001\u0002\u0000\udcd1IO}K\udca0\u00192"
+      },
+      "source": "/Users/elinhaggstrom/nortropic-backups-20260910/github-transfer-20260912.dVjQlj/repo/H039-LOADER-8DFBFEEB-SELECTION.json",
+      "source_identity": [
+        "16777230",
+        "147250450",
+        "33188",
+        "501",
+        "20",
+        "1",
+        "7784",
+        "1789288252508305676",
+        "1789288252508305676"
+      ],
+      "xattrs": {
+        "com.apple.provenance": "AQIA0UlPfUugGTI="
+      }
+    }
+  ],
+  "findings": [],
+  "logical_files": 29,
+  "source_unchanged": true,
+  "command": [
+    "/usr/bin/tar",
+    "-czf",
+    "-",
+    "-C",
+    "/",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/h-039-exit",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/verify/bin/platform-separation-final-exit",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/specs/tasks.spec.json",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/controller/verify/cli",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/SEPARATION-20260910/REFREEZE.json",
+    "Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913/docs/loop/platform-separation-final-local-development.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-r2-integration.patch",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-before-native-8dfbfeeb.patch",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-loader-leaf-method-held-9fc27d54.patch",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-invoke.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observer.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-r2-run1.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-r2-observer.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-invoke.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-system-selection-observation-20260913-run1.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-09581f533bd3a20d392d404ecfb483b40a2db50e2b90048d3c5b5a118809ba35.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-20d91f10964718120f442d518bb665b7a0c2f8c3683de8361404ae37dfd9baaf.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-5c47af48145f7ebbb8648c25f41933be0434bb7c0005284e1b230346159f3a72.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run1.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-a691b6b1c74f7c2ce62cbd370fc206d49e15909d4c5e9d277a5b99bc85ea6b1a.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-invoke-69ecd939c47d760e4127b916601f08d0bc85d28012ec3339e622f41599e12156.py",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run3.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-20260913-run2.json",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observation-proposal.md",
+    "Users/elinhaggstrom/nortropic/evidence/v316-h039-continuity-review-20260912/h039-cache-backing-observer-083d3a3412d14399f37a31cf32c7550303d561c2be565d7efb09cd1bd9bae74f.py",
+    "Users/elinhaggstrom/nortropic/CLAUDE-CHECKPOINT-20260910-INVARIANT-REQUIRED.md",
+    "Users/elinhaggstrom/nortropic-backups-20260910/github-transfer-20260912.dVjQlj/repo/H039-LOADER-8DFBFEEB-SELECTION.json"
+  ],
+  "exit": 0,
+  "scope": "Six unfrozen loader 8dfbfeeb files above D571a47b8, three preserved patches, consumed cache/system observation sources and captures, continuity and selection; no original Git administration, no full review transcripts or whole-system restoration",
+  "runtime_credit": false
+}

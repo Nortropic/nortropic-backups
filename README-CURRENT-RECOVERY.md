@@ -1,4 +1,58 @@
-# Aktuell arkivrepresentation — 2026-09-12
+# Aktuell arkivrepresentation — uppdaterad 2026-09-13
+
+## Senaste checkpoint — ofrusen loaderhållning 8dfbfeeb ovanpå D571a47b8
+
+Privat repo ID1367371291 verifierat 0479dc/edb7de. Nytt asset **560877424**
+i befintlig release387676316 (`backup-20260912-h039-product-P-005366dd`):
+`h039-loader-8dfbfeeb-20260913T083032Z.tar.gz`, 1259520B, SHA256
+`1388bd515114624434ca13ffb5c5e1d996878a8e1bfc883fe26dbb141b31d630`.
+Upload b42b81→57862f, serverdigest3433e6, download801190→ce18fb och
+faktisk restoreaba613 gav exit0.29 logiska filer/58tarposter återställdes i
+`/private/tmp/nortropic-h039-loader-8dfbfeeb-restore-9gb0737o`:
+bytes, medlemskap, storlek, mode, uid/gid, mtime_ns, xattrs, single-link och
+oberoende inoder verifierade. Inga original eller gamla assets ändrades/raderades.
+
+Urvalet omfattar de sex aktuella ofrusna källfilerna, tre hållna historiska
+patchar, cache-/systemobservationernas källor och fem försökskvitton samt
+kontinuitet vid snapshot och urvalslistan.28 källfiler var tillsammans4913916B.
+Skannern fann inga mönsterträffar i arkiv/metadata eller avkodade JSON-strängar;
+det är begränsad innehållsgranskning, inte bevis för universell hemlighetsfrihet.
+Gamla försök förblir consumed och gamla resultat behåller sina subjekt.
+92/92-modellresultat och oberoende review återges i den arkiverade checkpointen;
+fulla agent-/verktygstranskript ingår inte. Ingen ny modell/nativekörning gjordes.
+
+Läs `H039-LOADER-8DFBFEEB-SELECTION.json`, `...-INSPECTION.json`,
+`...-RESTORE.json`, `...-RECONSTRUCTION.json` och `...-TRANSFER.json`.
+Snapshotmetoden och den separata read-only rekonstruktionskontrollen finns i
+`SNAPSHOT-H039-LOADER-8DFBFEEB.py` respektive
+`RESTORE-CHECK-H039-LOADER-8DFBFEEB.py`. Snapshotmetodens prepare/verify är
+förbrukade över dessa destinationsnamn; framtida restore kräver ny isolerad rot.
+Denna lilla batch använder runbookens15GiB-golv +64MiB explicit arbetsbudget,
+inte tidigare metodens20GiB-normalmål som startvillkor. Både total källa och
+arkiv begränsas till8MiB; faktisk tillgänglig disk före steget20737140KiB.
+20GiB kvarstår som normalmål. Detta ändrar ingen retention-/cleanupbefogenhet.
+
+a921c4 exit0 rekonstruerade samtliga sex slutbytes i minnet från den faktiskt
+nedladdade full-index-patchen och D:s tidigare återställda Gitobjekt. Exakt
+D571a47b8/tree10d70b1b, alla sex arkiverade filer och28 originalhashar stämde;
+TA-index var tomt. Första hjälpkontrollen289126 stoppade före rekonstruktion
+på korta kontra fulla indexrader;7330ac isolerade396 formatteringsbytes,
+inte källändring. Inga originalpatchar ändrades för att få kontrollen grön.
+
+För återuppbyggnad: återställ först den redan dokumenterade B→C7be3→P005366→
+C83→D571a-bundlekedjan i en NY separat yta. Verifiera D:s commit/förälder/träd.
+Hämta detta asset separat från Releases, verifiera SHA och säkra medlemsvägar,
+återställ de29 filerna i en ny rot och använd de sex hela sluttexterna eller
+den exakta kumulativa patchen ovanpå D. Inga paths är borttagna. Gamla patchar
+är historik, inte en serie som ska appliceras före aktuell kumulativ patch.
+Inga arkiverade kommandon ska köras som en del av filåterställningen.
+
+Detta återanvände tidigare återställda D-objekt, inte en ny full fjärrbas+delta-
+återställning. Originalens Gitadministration, katalogmetadata, process-/inode-
+identiteter och custody återställs inte. Tidigare helhetstäckningsluckor består.
+Kontinuitetsnotiser efter snapshot ingår först i nästa checkpoint.
+Native-rollanropets verktygsfilter är fortsatt olöst; denna backup är inte en
+alternativ exekveringsväg. H039, installation och supervisor resume är inte klara.
 
 ## Senaste checkpoint — D571a47b8, faktisk CPython3.9-kompatibilitet
 

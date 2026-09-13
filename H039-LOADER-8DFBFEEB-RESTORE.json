@@ -1,0 +1,25 @@
+{
+  "time_utc": "2026-09-13T08:32:23.395939+00:00",
+  "status": "DOWNLOADED_29_LOADER_8DFBFEEB_FILES_RESTORED_VERIFIED",
+  "inspection_sha256": "1dbf2b9b82648c071ef50823beedd894dc97f20c2c5716e6010c32b691e5d9ab",
+  "archive_sha256": "1388bd515114624434ca13ffb5c5e1d996878a8e1bfc883fe26dbb141b31d630",
+  "archive_bytes": 1259520,
+  "restored": "/private/tmp/nortropic-h039-loader-8dfbfeeb-restore-9gb0737o",
+  "logical_files": 29,
+  "checked": [
+    "file_membership",
+    "bytes",
+    "size",
+    "mode",
+    "uid",
+    "gid",
+    "mtime_ns",
+    "xattrs",
+    "single_link_independent_inode"
+  ],
+  "directory_metadata_restored": false,
+  "original_inode_recreated": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_final_fixture_restored": false
+}

@@ -1,0 +1,167 @@
+{
+  "time_utc": "2026-09-13T08:33:54.189394+00:00",
+  "status": "SIX_DOWNLOADED_FILES_AND_PATCH_RECONSTRUCTED_FROM_PRIOR_RESTORED_D_GIT_OBJECTS",
+  "base_commit": "571a47b8f5fbf1718125742718d2f5908d49e95c",
+  "base_tree": "10d70b1b77601b72b07c633510cb12f5ac657b02",
+  "base_object_source": "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+  "patch_sha256": "c6fb74759f76809a34221986a953831ecada9ba0bc4a2f9fd67ffced65b273b5",
+  "rows": [
+    {
+      "path": "SEPARATION-20260910/REFREEZE.json",
+      "hunks": 1,
+      "sha256": "9608f270f517b4cce57f0407a0b4a69baa59dbeba0a85483a445577670c7e360",
+      "bytes": 874
+    },
+    {
+      "path": "controller/verify/cli",
+      "hunks": 1,
+      "sha256": "97027013e9dccf2a478c1e56e83dfc9a7dc35226b57f6b98a978a8f4a0556a86",
+      "bytes": 41991
+    },
+    {
+      "path": "docs/loop/platform-separation-final-local-development.md",
+      "hunks": 1,
+      "sha256": "3422a25cdbd7b2f6dc81bd49d5315be97ef2449dbb0b40a1ed7fd11ee48a61d4",
+      "bytes": 343977
+    },
+    {
+      "path": "specs/tasks.spec.json",
+      "hunks": 1,
+      "sha256": "9282dae4426ac92c49e2503a2a03f632023707701eb9f694ddc8ce69f4b040ed",
+      "bytes": 989567
+    },
+    {
+      "path": "verify/bin/h-039-exit",
+      "hunks": 1,
+      "sha256": "8dfbfeeb568fd851a7dee2936bb6873c50c158dd406d4ee388a6f57feb995f31",
+      "bytes": 2432959
+    },
+    {
+      "path": "verify/bin/platform-separation-final-exit",
+      "hunks": 1,
+      "sha256": "20b0e9d04485e66e832bdf639cf24789a2ecadc1cb2951e1b8f3316ed0f5fcf6",
+      "bytes": 339268
+    }
+  ],
+  "commands": [
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913",
+        "diff",
+        "--full-index",
+        "HEAD"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "rev-parse",
+        "HEAD"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "rev-parse",
+        "HEAD^{tree}"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:SEPARATION-20260910/REFREEZE.json"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:controller/verify/cli"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:docs/loop/platform-separation-final-local-development.md"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:specs/tasks.spec.json"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:verify/bin/h-039-exit"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/private/tmp/nortropic-h039-verifier-py39-D-restore-3jifhdp2",
+        "show",
+        "571a47b8f5fbf1718125742718d2f5908d49e95c:verify/bin/platform-separation-final-exit"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    },
+    {
+      "argv": [
+        "/usr/bin/git",
+        "-C",
+        "/Users/elinhaggstrom/nortropic-repos/work/test-author-h039-loader-D571a47b8-20260913",
+        "diff",
+        "--cached",
+        "--name-only"
+      ],
+      "exit": 0,
+      "stderr_bytes": 0
+    }
+  ],
+  "all_28_original_files_still_match_selection": true,
+  "staging_empty": true,
+  "originals_written": false,
+  "project_code_executed": false,
+  "runtime_credit": false,
+  "full_new_remote_base_delta_restore": false,
+  "earlier_diagnostic": "289126 stopped at textual git-diff comparison before reconstruction. 7330ac proved only short versus full index headers (396 bytes for six files). Corrected comparison uses --full-index; archived/source bytes were unchanged."
+}
